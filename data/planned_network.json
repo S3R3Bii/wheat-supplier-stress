@@ -9,7 +9,7 @@
     "36": "Australia",
     "100": "Bulgaria",
     "124": "Canada",
-    "250": "France",
+    "251": "France",
     "398": "Kazakhstan",
     "642": "Romania",
     "643": "Russian Federation",
@@ -36,5 +36,9 @@
     "1/2",
     "1",
     "2"
-  ]
+  ],
+  "customs_area_notes": {
+    "251": "France customs area: includes Monaco and applicable overseas departments; not geographic M49 France 250",
+    "842": "United States customs area: includes Puerto Rico and US Virgin Islands; not geographic M49 USA 840"
+  }
 }

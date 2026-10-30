@@ -1,7 +1,7 @@
 {
-  "timestamp_utc": "2026-10-30T19:00:34.623676+00:00",
+  "timestamp_utc": "2026-10-30T19:06:26.334292+00:00",
   "status": "PASS_BOUNDED_SCAN",
-  "files_checked": 13,
+  "files_checked": 17,
   "scope": "Exact staged Git index bytes; decompressed text; forbidden paths/extensions, high-confidence key and private machine path patterns; local Markdown links. Image/PDF contents require separate visual/source review. This is not universal secret detection.",
   "findings": [],
   "sha256": {
@@ -10,13 +10,17 @@
     "ACQUISITION_NOTE.md": "f481b47acb51c7711713086ca866d9add6c46d5d686b8d9715769f3b4e0f5d64",
     "DATA_RIGHTS.md": "2765934ddc73a5bcaaa5aa475a26123f975c3b3ec029de660a0aea06c109629c",
     "LICENSE": "1810ffd0f9ec2e70b051ff6340544087d0dd7b522237d7207e98424373928a41",
-    "PROTOCOL.md": "b209f694fe964582bf7f709d5b29e2a838167fa4f9a0457b2f16a039c05cc506",
+    "PROTOCOL.md": "9f5ad8ffb15a2af0a3334f862d47e63461a72447537875af6af696bac194839f",
     "README.md": "ef0ccbc59c64456e6bc56df9891c48ccd0b9ac0b4403ede76a23d56394dc0660",
-    "data/planned_network.json": "ef7d1bc854c4892162d972009b8fd8081cbeabb8869d58a0c299b001886d2ef1",
-    "data/source_requests.json": "ed3c02b9e6c11a6017ed72247a26dfd9b6d46d2825af72b600253d59a4adc10f",
+    "SOURCE_BINDING.md": "0b708766f94a423d94aa1bd40b0fc0960e1e5b87df90409481f19cc907eeded8",
+    "data/planned_network.json": "c69f71ad66b7925931951cdcd5a1583ccb036e1b3f34124517972519cedcd4d2",
+    "data/source_requests.json": "70919a35e993ec6cfc37573b3d5226c52414288d4ead13b576f32eb518ee93c7",
     "requirements.txt": "09a0e3aa2905c7c86810e129241557a3d6c746ffda0274d7b62fd37e62a45189",
+    "src/capture_identifier_binding.py": "5bac8ceb7ba021a7291cac07669884e753e459c64e93100152b65ec7d1c9369c",
     "src/capture_source.py": "30d9729023d79a1f5c8e9090f1d32f41458c39bfc954186f9132134c04b369dc",
-    "src/continue_capture.py": "3b5bc1fdbd86a02495839ebebda0270f6a7bc78536000deeb76860ac80270b1a"
+    "src/continue_capture.py": "3b5bc1fdbd86a02495839ebebda0270f6a7bc78536000deeb76860ac80270b1a",
+    "src/flow.py": "ab949766a31def3e827218bfa4ec19073543b5bb1d0dcd2f835ecd0ac86d6054",
+    "tests/test_flow.py": "8a06c9313d94de09700b00cee5398ffee7169841718d2faa0b62414da8482e90"
   },
   "raw_source_members_excluded": true,
   "unapproved_manuscripts_excluded": true,
