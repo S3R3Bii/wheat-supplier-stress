@@ -1,0 +1,7 @@
+# Source rights and bounded redistribution
+
+Source: UN Comtrade, United Nations Statistics Division. The source is not public domain and is not relicensed under this repository's code license. Attribution, exact requests, source versions/hashes, exclusions and derivation notices are retained.
+
+The official [data-use policy](https://uncomtrade.org/docs/policy-on-comtrade-data-use/) links the [redistribution clarification](https://uncomtrade.org/docs/re-dissemination-of-data/), which permits small free applications and limited publication and defines a limited original-data database/product as fewer than 100,000 records. This entire study is bounded to fewer than 10,000 original records in total, with no general query/streaming service or paid access. Filtering and changing file format do not themselves establish a transformed-data exemption; the bounded-record rule and new calculations are stated separately.
+
+Only a minimal factual flow projection and clearly labeled new calculations may be public after checks. Original responses, publisher pages, logos, contacts, API keys, private records and unrelated formal-publication material remain excluded. No endorsement, unrestricted third-party right or right to resell/republish a bulk database is claimed. If the bounded source/policy gate fails, stop rather than publishing or creating a paid account. No permission-request email is sent.

@@ -1,0 +1,40 @@
+{
+  "importers": {
+    "504": "Morocco",
+    "788": "Tunisia",
+    "818": "Egypt"
+  },
+  "origins": {
+    "32": "Argentina",
+    "36": "Australia",
+    "100": "Bulgaria",
+    "124": "Canada",
+    "250": "France",
+    "398": "Kazakhstan",
+    "642": "Romania",
+    "643": "Russian Federation",
+    "804": "Ukraine",
+    "842": "United States"
+  },
+  "commodity": "1001",
+  "meaning": "Wheat and meslin",
+  "net_weight_unit": "kg",
+  "source_years": [
+    2018,
+    2019,
+    2020
+  ],
+  "development_year": 2019,
+  "later_year": 2020,
+  "alpha": [
+    "0",
+    "1/20",
+    "1/10",
+    "1/4"
+  ],
+  "beta": [
+    "1/2",
+    "1",
+    "2"
+  ]
+}

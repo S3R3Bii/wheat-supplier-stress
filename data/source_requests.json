@@ -1,0 +1,671 @@
+[
+  {
+    "kind": "import_panel",
+    "year": 2018,
+    "reporter": 504,
+    "flow": "M",
+    "partners": [
+      0,
+      32,
+      36,
+      100,
+      124,
+      250,
+      398,
+      642,
+      643,
+      804,
+      842
+    ],
+    "file": "import_panel-2018-504.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2018&reporterCode=504&cmdCode=1001&flowCode=M&partnerCode=0%2C32%2C36%2C100%2C124%2C250%2C398%2C642%2C643%2C804%2C842&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "import_panel",
+    "year": 2018,
+    "reporter": 788,
+    "flow": "M",
+    "partners": [
+      0,
+      32,
+      36,
+      100,
+      124,
+      250,
+      398,
+      642,
+      643,
+      804,
+      842
+    ],
+    "file": "import_panel-2018-788.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2018&reporterCode=788&cmdCode=1001&flowCode=M&partnerCode=0%2C32%2C36%2C100%2C124%2C250%2C398%2C642%2C643%2C804%2C842&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "import_panel",
+    "year": 2018,
+    "reporter": 818,
+    "flow": "M",
+    "partners": [
+      0,
+      32,
+      36,
+      100,
+      124,
+      250,
+      398,
+      642,
+      643,
+      804,
+      842
+    ],
+    "file": "import_panel-2018-818.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2018&reporterCode=818&cmdCode=1001&flowCode=M&partnerCode=0%2C32%2C36%2C100%2C124%2C250%2C398%2C642%2C643%2C804%2C842&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "import_panel",
+    "year": 2019,
+    "reporter": 504,
+    "flow": "M",
+    "partners": [
+      0,
+      32,
+      36,
+      100,
+      124,
+      250,
+      398,
+      642,
+      643,
+      804,
+      842
+    ],
+    "file": "import_panel-2019-504.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=504&cmdCode=1001&flowCode=M&partnerCode=0%2C32%2C36%2C100%2C124%2C250%2C398%2C642%2C643%2C804%2C842&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "import_panel",
+    "year": 2019,
+    "reporter": 788,
+    "flow": "M",
+    "partners": [
+      0,
+      32,
+      36,
+      100,
+      124,
+      250,
+      398,
+      642,
+      643,
+      804,
+      842
+    ],
+    "file": "import_panel-2019-788.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=788&cmdCode=1001&flowCode=M&partnerCode=0%2C32%2C36%2C100%2C124%2C250%2C398%2C642%2C643%2C804%2C842&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "import_panel",
+    "year": 2019,
+    "reporter": 818,
+    "flow": "M",
+    "partners": [
+      0,
+      32,
+      36,
+      100,
+      124,
+      250,
+      398,
+      642,
+      643,
+      804,
+      842
+    ],
+    "file": "import_panel-2019-818.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=818&cmdCode=1001&flowCode=M&partnerCode=0%2C32%2C36%2C100%2C124%2C250%2C398%2C642%2C643%2C804%2C842&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "import_panel",
+    "year": 2020,
+    "reporter": 504,
+    "flow": "M",
+    "partners": [
+      0,
+      32,
+      36,
+      100,
+      124,
+      250,
+      398,
+      642,
+      643,
+      804,
+      842
+    ],
+    "file": "import_panel-2020-504.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2020&reporterCode=504&cmdCode=1001&flowCode=M&partnerCode=0%2C32%2C36%2C100%2C124%2C250%2C398%2C642%2C643%2C804%2C842&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "import_panel",
+    "year": 2020,
+    "reporter": 788,
+    "flow": "M",
+    "partners": [
+      0,
+      32,
+      36,
+      100,
+      124,
+      250,
+      398,
+      642,
+      643,
+      804,
+      842
+    ],
+    "file": "import_panel-2020-788.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2020&reporterCode=788&cmdCode=1001&flowCode=M&partnerCode=0%2C32%2C36%2C100%2C124%2C250%2C398%2C642%2C643%2C804%2C842&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "import_panel",
+    "year": 2020,
+    "reporter": 818,
+    "flow": "M",
+    "partners": [
+      0,
+      32,
+      36,
+      100,
+      124,
+      250,
+      398,
+      642,
+      643,
+      804,
+      842
+    ],
+    "file": "import_panel-2020-818.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2020&reporterCode=818&cmdCode=1001&flowCode=M&partnerCode=0%2C32%2C36%2C100%2C124%2C250%2C398%2C642%2C643%2C804%2C842&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "prior_world_exports",
+    "year": 2018,
+    "reporter": 32,
+    "flow": "X",
+    "partners": [
+      0
+    ],
+    "file": "prior_world_exports-2018-32.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2018&reporterCode=32&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "prior_world_exports",
+    "year": 2018,
+    "reporter": 36,
+    "flow": "X",
+    "partners": [
+      0
+    ],
+    "file": "prior_world_exports-2018-36.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2018&reporterCode=36&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "prior_world_exports",
+    "year": 2018,
+    "reporter": 100,
+    "flow": "X",
+    "partners": [
+      0
+    ],
+    "file": "prior_world_exports-2018-100.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2018&reporterCode=100&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "prior_world_exports",
+    "year": 2018,
+    "reporter": 124,
+    "flow": "X",
+    "partners": [
+      0
+    ],
+    "file": "prior_world_exports-2018-124.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2018&reporterCode=124&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "prior_world_exports",
+    "year": 2018,
+    "reporter": 250,
+    "flow": "X",
+    "partners": [
+      0
+    ],
+    "file": "prior_world_exports-2018-250.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2018&reporterCode=250&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "prior_world_exports",
+    "year": 2018,
+    "reporter": 398,
+    "flow": "X",
+    "partners": [
+      0
+    ],
+    "file": "prior_world_exports-2018-398.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2018&reporterCode=398&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "prior_world_exports",
+    "year": 2018,
+    "reporter": 642,
+    "flow": "X",
+    "partners": [
+      0
+    ],
+    "file": "prior_world_exports-2018-642.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2018&reporterCode=642&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "prior_world_exports",
+    "year": 2018,
+    "reporter": 643,
+    "flow": "X",
+    "partners": [
+      0
+    ],
+    "file": "prior_world_exports-2018-643.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2018&reporterCode=643&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "prior_world_exports",
+    "year": 2018,
+    "reporter": 804,
+    "flow": "X",
+    "partners": [
+      0
+    ],
+    "file": "prior_world_exports-2018-804.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2018&reporterCode=804&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "prior_world_exports",
+    "year": 2018,
+    "reporter": 842,
+    "flow": "X",
+    "partners": [
+      0
+    ],
+    "file": "prior_world_exports-2018-842.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2018&reporterCode=842&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "prior_world_exports",
+    "year": 2019,
+    "reporter": 32,
+    "flow": "X",
+    "partners": [
+      0
+    ],
+    "file": "prior_world_exports-2019-32.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=32&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "prior_world_exports",
+    "year": 2019,
+    "reporter": 36,
+    "flow": "X",
+    "partners": [
+      0
+    ],
+    "file": "prior_world_exports-2019-36.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=36&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "prior_world_exports",
+    "year": 2019,
+    "reporter": 100,
+    "flow": "X",
+    "partners": [
+      0
+    ],
+    "file": "prior_world_exports-2019-100.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=100&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "prior_world_exports",
+    "year": 2019,
+    "reporter": 124,
+    "flow": "X",
+    "partners": [
+      0
+    ],
+    "file": "prior_world_exports-2019-124.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=124&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "prior_world_exports",
+    "year": 2019,
+    "reporter": 250,
+    "flow": "X",
+    "partners": [
+      0
+    ],
+    "file": "prior_world_exports-2019-250.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=250&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "prior_world_exports",
+    "year": 2019,
+    "reporter": 398,
+    "flow": "X",
+    "partners": [
+      0
+    ],
+    "file": "prior_world_exports-2019-398.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=398&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "prior_world_exports",
+    "year": 2019,
+    "reporter": 642,
+    "flow": "X",
+    "partners": [
+      0
+    ],
+    "file": "prior_world_exports-2019-642.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=642&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "prior_world_exports",
+    "year": 2019,
+    "reporter": 643,
+    "flow": "X",
+    "partners": [
+      0
+    ],
+    "file": "prior_world_exports-2019-643.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=643&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "prior_world_exports",
+    "year": 2019,
+    "reporter": 804,
+    "flow": "X",
+    "partners": [
+      0
+    ],
+    "file": "prior_world_exports-2019-804.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=804&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "prior_world_exports",
+    "year": 2019,
+    "reporter": 842,
+    "flow": "X",
+    "partners": [
+      0
+    ],
+    "file": "prior_world_exports-2019-842.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=842&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "current_mirrors",
+    "year": 2019,
+    "reporter": 32,
+    "flow": "X",
+    "partners": [
+      504,
+      788,
+      818
+    ],
+    "file": "current_mirrors-2019-32.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=32&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "current_mirrors",
+    "year": 2019,
+    "reporter": 36,
+    "flow": "X",
+    "partners": [
+      504,
+      788,
+      818
+    ],
+    "file": "current_mirrors-2019-36.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=36&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "current_mirrors",
+    "year": 2019,
+    "reporter": 100,
+    "flow": "X",
+    "partners": [
+      504,
+      788,
+      818
+    ],
+    "file": "current_mirrors-2019-100.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=100&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "current_mirrors",
+    "year": 2019,
+    "reporter": 124,
+    "flow": "X",
+    "partners": [
+      504,
+      788,
+      818
+    ],
+    "file": "current_mirrors-2019-124.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=124&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "current_mirrors",
+    "year": 2019,
+    "reporter": 250,
+    "flow": "X",
+    "partners": [
+      504,
+      788,
+      818
+    ],
+    "file": "current_mirrors-2019-250.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=250&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "current_mirrors",
+    "year": 2019,
+    "reporter": 398,
+    "flow": "X",
+    "partners": [
+      504,
+      788,
+      818
+    ],
+    "file": "current_mirrors-2019-398.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=398&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "current_mirrors",
+    "year": 2019,
+    "reporter": 642,
+    "flow": "X",
+    "partners": [
+      504,
+      788,
+      818
+    ],
+    "file": "current_mirrors-2019-642.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=642&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "current_mirrors",
+    "year": 2019,
+    "reporter": 643,
+    "flow": "X",
+    "partners": [
+      504,
+      788,
+      818
+    ],
+    "file": "current_mirrors-2019-643.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=643&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "current_mirrors",
+    "year": 2019,
+    "reporter": 804,
+    "flow": "X",
+    "partners": [
+      504,
+      788,
+      818
+    ],
+    "file": "current_mirrors-2019-804.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=804&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "current_mirrors",
+    "year": 2019,
+    "reporter": 842,
+    "flow": "X",
+    "partners": [
+      504,
+      788,
+      818
+    ],
+    "file": "current_mirrors-2019-842.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=842&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "current_mirrors",
+    "year": 2020,
+    "reporter": 32,
+    "flow": "X",
+    "partners": [
+      504,
+      788,
+      818
+    ],
+    "file": "current_mirrors-2020-32.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2020&reporterCode=32&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "current_mirrors",
+    "year": 2020,
+    "reporter": 36,
+    "flow": "X",
+    "partners": [
+      504,
+      788,
+      818
+    ],
+    "file": "current_mirrors-2020-36.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2020&reporterCode=36&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "current_mirrors",
+    "year": 2020,
+    "reporter": 100,
+    "flow": "X",
+    "partners": [
+      504,
+      788,
+      818
+    ],
+    "file": "current_mirrors-2020-100.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2020&reporterCode=100&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "current_mirrors",
+    "year": 2020,
+    "reporter": 124,
+    "flow": "X",
+    "partners": [
+      504,
+      788,
+      818
+    ],
+    "file": "current_mirrors-2020-124.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2020&reporterCode=124&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "current_mirrors",
+    "year": 2020,
+    "reporter": 250,
+    "flow": "X",
+    "partners": [
+      504,
+      788,
+      818
+    ],
+    "file": "current_mirrors-2020-250.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2020&reporterCode=250&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "current_mirrors",
+    "year": 2020,
+    "reporter": 398,
+    "flow": "X",
+    "partners": [
+      504,
+      788,
+      818
+    ],
+    "file": "current_mirrors-2020-398.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2020&reporterCode=398&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "current_mirrors",
+    "year": 2020,
+    "reporter": 642,
+    "flow": "X",
+    "partners": [
+      504,
+      788,
+      818
+    ],
+    "file": "current_mirrors-2020-642.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2020&reporterCode=642&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "current_mirrors",
+    "year": 2020,
+    "reporter": 643,
+    "flow": "X",
+    "partners": [
+      504,
+      788,
+      818
+    ],
+    "file": "current_mirrors-2020-643.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2020&reporterCode=643&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "current_mirrors",
+    "year": 2020,
+    "reporter": 804,
+    "flow": "X",
+    "partners": [
+      504,
+      788,
+      818
+    ],
+    "file": "current_mirrors-2020-804.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2020&reporterCode=804&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  },
+  {
+    "kind": "current_mirrors",
+    "year": 2020,
+    "reporter": 842,
+    "flow": "X",
+    "partners": [
+      504,
+      788,
+      818
+    ],
+    "file": "current_mirrors-2020-842.json",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2020&reporterCode=842&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON"
+  }
+]
