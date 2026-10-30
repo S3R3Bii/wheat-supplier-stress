@@ -1,0 +1,55 @@
+{
+  "status": "PASS_NATIVE_SCHEMA_AND_FIXED_KEYS",
+  "observations": 179,
+  "captures": [
+    {
+      "id": "import_pairs",
+      "domain": "TM",
+      "rows": 90,
+      "bytes": 13691,
+      "sha256": "bf320ce5bb95c523e3e6729b9ba5b0a138c6de807a7916ac0b08bfddb2aac0c2",
+      "source_url": "https://www.fao.org/faostat/en/#data/TM"
+    },
+    {
+      "id": "export_mirrors",
+      "domain": "TM",
+      "rows": 60,
+      "bytes": 9034,
+      "sha256": "82aa650782c330b69190e5c3f9e0b1c023a9b253e93ce3f41b31e884c5c6189a",
+      "source_url": "https://www.fao.org/faostat/en/#data/TM"
+    },
+    {
+      "id": "world_imports",
+      "domain": "TCL",
+      "rows": 9,
+      "bytes": 1549,
+      "sha256": "6c47a8d17ae41228ba70d61bf5047d1a33158bcf05fc9b4011dd1815270307e0",
+      "source_url": "https://www.fao.org/faostat/en/#data/TCL"
+    },
+    {
+      "id": "prior_world_exports",
+      "domain": "TCL",
+      "rows": 20,
+      "bytes": 3200,
+      "sha256": "ca2c95d51d7a3c620e154bbf14c35ea78533a8dbfbd32628effc59fad270ba38",
+      "source_url": "https://www.fao.org/faostat/en/#data/TCL"
+    }
+  ],
+  "capture_protocol_commit": "cc5d95dbabefb329d0d7d737c0183c1e474a83dc",
+  "mechanism": "Four ordinary public website filtered CSV downloads; original files retained privately",
+  "http_status_and_response_headers": "unavailable from browser file download; no status inferred",
+  "download_event_limitation": "First tool event timed out although the browser saved the CSV; verified on disk, no source retry",
+  "native_code_binding": "UI quantity codes 2610/2910 export as 5610/5910; country output M49, item output CPC; source-specific FAO crosswalk retained",
+  "source_update_dates": {
+    "TM": "2025-12-23",
+    "TCL": "2026-07-24"
+  },
+  "value_state_counts": {
+    "positive": 140,
+    "zero": 0,
+    "negative": 0,
+    "missing": 39
+  },
+  "positive_imputed_values": 17,
+  "source_license_scope": "FAO CC BY 4.0 with upstream exceptions; free attributed bounded publication only; source facts not relicensed by code license"
+}

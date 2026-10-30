@@ -1,0 +1,20 @@
+{
+  "status": "PASS_INDEPENDENT_SOURCE_GATE_RECONCILIATION",
+  "conditions": 4706,
+  "method": "Native CSV fields, independent SQLite joins and 70-digit Decimal arithmetic; no projector helper imports",
+  "original_hashes": {
+    "import_pairs": "bf320ce5bb95c523e3e6729b9ba5b0a138c6de807a7916ac0b08bfddb2aac0c2",
+    "export_mirrors": "82aa650782c330b69190e5c3f9e0b1c023a9b253e93ce3f41b31e884c5c6189a",
+    "world_imports": "6c47a8d17ae41228ba70d61bf5047d1a33158bcf05fc9b4011dd1815270307e0",
+    "prior_world_exports": "ca2c95d51d7a3c620e154bbf14c35ea78533a8dbfbd32628effc59fad270ba38"
+  },
+  "source_qualification": "FAIL_SOURCE_QUALIFICATION",
+  "failed_gates": [
+    "common_support:143:2020:coverage_80_to_105_percent"
+  ],
+  "projection_hashes": {
+    "input_gate.json": "ae7900bceba3242b9a56043220a65f48e33e726a3c3c1f61c6f90d50d753e5a7",
+    "source_projection.csv": "8c41b48dafc911a7f25f8a0eb973e212d6f5d32a3a21a27ab9f2bf61892552ac",
+    "source_receipt.json": "bf13558b5c2bf254d8bd79583ccd09089f1b785b3b0e0019de3c3f2726c24e3b"
+  }
+}
