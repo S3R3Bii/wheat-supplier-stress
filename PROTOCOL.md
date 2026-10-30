@@ -1,5 +1,7 @@
 # Study 31: Check shared capacity before promising replacement imports
 
+The original UN source attempt below remains on hold. A separate [FAO source qualification plan](FAO_SOURCE_PLAN.md), fixed before FAO quantity capture, preserves the cohort, scenario grid and numerical gates while defining an unmixed compiled-source alternative. It is not a claim that either source gate or the research study is complete.
+
 ## Decision, deliverable and acceptance
 
 Can separate-country replacement calculations overpromise a common pool of additional supplier volume? Produce a bounded wheat-import network stress exercise, exact feasible allocations and independent optimality certificates, complete source/support/exclusion ledgers, all declared scenarios, a practical implementation exercise, three original figures and an independent manuscript. The unit is a country-level reported commodity flow, not a firm, cargo, meal or independent customer. This is scenario feasibility under declared constraints, not an estimate of actual spare capacity or food-shortage probability.
