@@ -26,6 +26,8 @@ Every capture retains original URL, UTC start/end, HTTP status, relevant headers
 
 ## Quantity and support gates before scenarios
 
+The initial request batch stopped on a provider rate limit after one successful seven-record response. [ACQUISITION_NOTE.md](ACQUISITION_NOTE.md) records one explicit slower continuation, with prior successful/error bytes preserved and ten seconds between later responses. This changes acquisition pacing only, before qualification or scenarios; the fixed source/cohort/case gates remain in force.
+
 Use native net weight in kilograms, preserving numeric tokens and the net-weight-estimated flag. UN documentation distinguishes net weight from supplementary units and warns that zero or null quantity can indicate nonreporting/estimation gaps. Require finite positive net weight for every modeled observation; do not turn zero, null, absent partner, unreported quantity or a failed request into a confirmed zero trade flow. Positive provider estimates remain explicitly estimated source values, not newly observed shipments. Keep other numeric fields only when necessary for source checks, not as hidden replacement weights.
 
 Require all nine importer World totals and all twenty requested prior-year origin World-export totals to be positive and unique after source-key reconciliation. Current matrices are 2019 and 2020. A modeled current bilateral edge requires both a positive importer-reported quantity and a positive exporter mirror for the same country pair/year/commodity. The common-support set is fixed by source qualification before scores; keep all excluded/unavailable pair reasons and their known import weight.
