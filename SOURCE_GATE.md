@@ -18,4 +18,6 @@ Morocco's 2020 common-support share is **79.478498%**, below 80% using exact, un
 
 The first browser download-event observer timed out although the browser saved its file. The original CSV was located and hash-checked on disk without repeating the source request. HTTP status/headers are unavailable for these browser downloads and no successful HTTP status is invented. All four originals, pre-download selections and the failed observer are retained privately; only the small attributed factual projection and new source checks are public. Source facts are not relicensed under the code license.
 
+The first local verification receipt hashed Windows CRLF JSON output before Git's LF normalization. That as-run receipt is preserved privately. A separate LF replay reproduced the numerical files and qualification result; current public file hashes bind the committed LF representation. Browser source-file hashes were unchanged.
+
 Program execution continues with other studies. This source hold adds no completed study; the program remains at 38/50 released. Separate formal-publication projects remain private.

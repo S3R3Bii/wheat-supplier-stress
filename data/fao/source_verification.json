@@ -13,8 +13,8 @@
     "common_support:143:2020:coverage_80_to_105_percent"
   ],
   "projection_hashes": {
-    "input_gate.json": "ae7900bceba3242b9a56043220a65f48e33e726a3c3c1f61c6f90d50d753e5a7",
+    "input_gate.json": "ac44b54fef3459f1d48b54086d7abe537328b7bfa3ecb56a40b266b09a3d4650",
     "source_projection.csv": "8c41b48dafc911a7f25f8a0eb973e212d6f5d32a3a21a27ab9f2bf61892552ac",
-    "source_receipt.json": "bf13558b5c2bf254d8bd79583ccd09089f1b785b3b0e0019de3c3f2726c24e3b"
+    "source_receipt.json": "ef0d53509484e230b59f658543a8b57a7c167303440577d4ee477bdd928825ba"
   }
 }

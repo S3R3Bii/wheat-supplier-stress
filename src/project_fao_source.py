@@ -27,7 +27,7 @@ FIELDS = [
 
 
 def dump(path, value):
-    path.write_text(json.dumps(value, indent=2, ensure_ascii=False) + '\n', encoding='utf-8')
+    path.write_bytes((json.dumps(value, indent=2, ensure_ascii=False) + '\n').encode('utf-8'))
 
 
 def positive(row):

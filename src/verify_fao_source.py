@@ -153,7 +153,7 @@ def verify(originals, projection):
               'original_hashes': originals_hashes, 'source_qualification': gate['status'], 'failed_gates': failures,
               'projection_hashes': {p.name: hashlib.sha256(p.read_bytes()).hexdigest()
                                     for p in sorted(projection.iterdir()) if p.name != 'source_verification.json'}}
-    (projection / 'source_verification.json').write_text(json.dumps(result, indent=2) + '\n', encoding='utf-8')
+    (projection / 'source_verification.json').write_bytes((json.dumps(result, indent=2) + '\n').encode('utf-8'))
     print(json.dumps({'status': result['status'], 'conditions': checks, 'source_qualification': gate['status'], 'failed_gates': failures}))
 
 
