@@ -1,0 +1,34 @@
+{
+  "status": "source_hold_do_not_score",
+  "source_records": 140,
+  "native_key_groups": 140,
+  "identical_extra_copies": 0,
+  "conflicting_native_keys": 0,
+  "fixed_importers": 3,
+  "fixed_origins": 10,
+  "target_years": [
+    2019,
+    2020
+  ],
+  "common_support_groups": 6,
+  "failures": [
+    "world_import_unavailable:2018:818",
+    "world_import_unavailable:2019:818",
+    "world_import_unavailable:2020:818",
+    "common_support_gate:2019:818",
+    "common_support_gate:2020:504",
+    "common_support_gate:2020:818",
+    "prior_link_gate:2020:818"
+  ],
+  "scope": "Positive native net weight and common reported support only; absence not confirmed zero; additional capacity remains authored separately",
+  "sha256": {
+    "data/bilateral_support.csv": "f0d8181cca2e68a25bf2d2f792de4baf0ae4872c07e27d4c44a68931767d3d64",
+    "data/common_support.csv": "57e2dcc93e36b8372733bee2c2864e9f2b0ba4106257be5e08b28df46c12b539",
+    "data/network_inputs.csv": "d927d8bcc11a6f1f69f871a771ee521049b4872ea0c0b10679e6bd8f637d5144",
+    "data/prior_route_coverage.csv": "ad0c54b8bef5eb03413efee64df94a4a3edd4dcc44cfc68e774926ef99dbabf2",
+    "data/prior_world_exports.csv": "1b7b7a27d8e73d436216784c34f11ee644580925575b5006ad74d70bf4cfb172",
+    "data/source_key_ledger.csv": "8a7ba7cc47c9c4ac163dabdedb24470c653516e02ad9f6f95fc6578eb0f26e56",
+    "data/trade_rows.csv": "d020011f140894728886f0512b44f6973eed3ed82c781dd7033ba1bb3906b649",
+    "data/world_imports.csv": "5dcb410d2b147f218957477d1f9af0e80da67a5958327f6db11ad0e90765e9c1"
+  }
+}

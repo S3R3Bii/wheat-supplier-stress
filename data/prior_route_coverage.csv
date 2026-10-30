@@ -1,0 +1,7 @@
+year,prior_year,importer,valid_prior_origins,minimum_prior_origins,gate
+2019,2018,504,7,2,pass
+2019,2018,788,7,2,pass
+2019,2018,818,5,2,pass
+2020,2019,504,7,2,pass
+2020,2019,788,8,2,pass
+2020,2019,818,0,2,fail

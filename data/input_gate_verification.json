@@ -1,0 +1,75 @@
+{
+  "check_status": "pass_independent_reconstruction",
+  "source_gate": "fail",
+  "status": "CONFIRMED_SOURCE_HOLD_NOT_EXECUTED_STUDY",
+  "checks": 570,
+  "source_records": 140,
+  "failures": [
+    "world_import_unavailable:2018:818",
+    "world_import_unavailable:2019:818",
+    "world_import_unavailable:2020:818",
+    "common_support_gate:2019:818",
+    "common_support_gate:2020:504",
+    "common_support_gate:2020:818",
+    "prior_link_gate:2020:818"
+  ],
+  "common_support": [
+    {
+      "year": 2019,
+      "importer": "504",
+      "world_weight_available": true,
+      "common_share_exact": "185363232505/192240404432",
+      "common_origins": 7,
+      "prior_origins": 7,
+      "gate": "pass"
+    },
+    {
+      "year": 2019,
+      "importer": "788",
+      "world_weight_available": true,
+      "common_share_exact": "533365400/616331153",
+      "common_origins": 7,
+      "prior_origins": 7,
+      "gate": "pass"
+    },
+    {
+      "year": 2019,
+      "importer": "818",
+      "world_weight_available": false,
+      "common_share_exact": "",
+      "common_origins": 0,
+      "prior_origins": 5,
+      "gate": "fail"
+    },
+    {
+      "year": 2020,
+      "importer": "504",
+      "world_weight_available": true,
+      "common_share_exact": "109710712585/138038255938",
+      "common_origins": 6,
+      "prior_origins": 7,
+      "gate": "fail"
+    },
+    {
+      "year": 2020,
+      "importer": "788",
+      "world_weight_available": true,
+      "common_share_exact": "96225138/111856691",
+      "common_origins": 8,
+      "prior_origins": 8,
+      "gate": "pass"
+    },
+    {
+      "year": 2020,
+      "importer": "818",
+      "world_weight_available": false,
+      "common_share_exact": "",
+      "common_origins": 8,
+      "prior_origins": 0,
+      "gate": "fail"
+    }
+  ],
+  "source_projection_sha256": "d020011f140894728886f0512b44f6973eed3ed82c781dd7033ba1bb3906b649",
+  "scenario_scores_run": false,
+  "scope": "Original UN quantity/common-support criteria fail; no missing-to-zero coercion, selected-country replacement or threshold relaxation"
+}

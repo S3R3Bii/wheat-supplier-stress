@@ -1,0 +1,84 @@
+{
+  "timestamp_utc": "2026-10-30T19:19:45.622702+00:00",
+  "deliverable": "UN source qualification version at current Git checkpoint; empirical scenario application incomplete",
+  "status": "INCOMPLETE_SOURCE_HOLD",
+  "overall_grade": 2,
+  "criteria": {
+    "source_rights_and_record_bound": {
+      "state": "pass",
+      "grade": 4,
+      "evidence": "140 minimal attributed original records; official bounded-record redistribution clarification; originals/pages excluded"
+    },
+    "native_response_reconciliation": {
+      "state": "pass",
+      "grade": 4,
+      "evidence": "10799 conditions; exact numeric lexemes and original hashes before/after reads"
+    },
+    "quantity_and_common_support": {
+      "state": "fail",
+      "grade": 2,
+      "evidence": [
+        "world_import_unavailable:2018:818",
+        "world_import_unavailable:2019:818",
+        "world_import_unavailable:2020:818",
+        "common_support_gate:2019:818",
+        "common_support_gate:2020:504",
+        "common_support_gate:2020:818",
+        "prior_link_gate:2020:818"
+      ]
+    },
+    "source_gate_reconstruction": {
+      "state": "pass",
+      "grade": 4,
+      "evidence": "570 independent conditions confirm the same source failure, not a passed cohort"
+    },
+    "implementation": {
+      "state": "pass",
+      "grade": 4,
+      "evidence": "36 finite unit tests including 16 small route patterns inside one test; no solver helper imported by cut oracle"
+    },
+    "scenario_application": {
+      "state": "unknown",
+      "evidence": "Not executed because required source gate failed"
+    },
+    "manuscript_and_remote_release": {
+      "state": "unknown",
+      "evidence": "No manuscript, candidate/main full replay or release tag"
+    }
+  },
+  "file_sha256": {
+    "data/bilateral_support.csv": "f0d8181cca2e68a25bf2d2f792de4baf0ae4872c07e27d4c44a68931767d3d64",
+    "data/common_support.csv": "57e2dcc93e36b8372733bee2c2864e9f2b0ba4106257be5e08b28df46c12b539",
+    "data/input_gate_verification.json": "f88b5ef307f7e479facd7fd2ffb638ce599576c97b71fad3f077bcf7975ca0be",
+    "data/input_receipt.json": "936398d93ff974ce8ca540ac07e50a4b167b686bfe1a362a695701af5eb00af2",
+    "data/network_inputs.csv": "d927d8bcc11a6f1f69f871a771ee521049b4872ea0c0b10679e6bd8f637d5144",
+    "data/planned_network.json": "c69f71ad66b7925931951cdcd5a1583ccb036e1b3f34124517972519cedcd4d2",
+    "data/prior_route_coverage.csv": "ad0c54b8bef5eb03413efee64df94a4a3edd4dcc44cfc68e774926ef99dbabf2",
+    "data/prior_world_exports.csv": "1b7b7a27d8e73d436216784c34f11ee644580925575b5006ad74d70bf4cfb172",
+    "data/source_key_ledger.csv": "8a7ba7cc47c9c4ac163dabdedb24470c653516e02ad9f6f95fc6578eb0f26e56",
+    "data/source_receipt.json": "01093ac9f08fcbeb43725b1f2f302fefa10131db03c7687c7281abd98609073d",
+    "data/source_requests.json": "70919a35e993ec6cfc37573b3d5226c52414288d4ead13b576f32eb518ee93c7",
+    "data/source_verification.json": "ab8798e9597e993c49fc5bdc4731dd2562fb5761beb5aad0bc20026aee0f6e5c",
+    "data/trade_rows.csv": "d020011f140894728886f0512b44f6973eed3ed82c781dd7033ba1bb3906b649",
+    "data/world_imports.csv": "5dcb410d2b147f218957477d1f9af0e80da67a5958327f6db11ad0e90765e9c1"
+  },
+  "material_changes": "Preserved rate-limit response and slower continuation; corrected official country-code namespace before qualification; fixed empty-origin adjacency fixture before source application",
+  "stop_reason": "Independent check confirms unavailable required weights and failed fixed coverage. Stop UN cohort without scenarios or relaxed gates; continue unaffected program work.",
+  "review_budget": {
+    "round": 1,
+    "maximum_rounds": 3,
+    "maximum_active_review_minutes": 45,
+    "maximum_review_tool_calls": 60,
+    "exact_nested_review_call_count": "not fully instrumented; actual condition counts retained"
+  },
+  "usage_observation": {
+    "source": "Codex get_usage_limits",
+    "observed_utc": "2026-10-30T19:09:15Z",
+    "window_minutes": 10080,
+    "used_percent": 41,
+    "remaining_percent": 59,
+    "reset_unix": 1793910839,
+    "secondary": "unavailable",
+    "shared_account_not_task_consumption": true
+  }
+}
