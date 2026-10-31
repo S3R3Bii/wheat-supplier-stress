@@ -1,0 +1,132 @@
+{
+  "base_cases": 240,
+  "cut_certificates": 5760,
+  "endpoint_evaluations": 720,
+  "flow_accounts": 33840,
+  "groups": [
+    {
+      "basis": "import",
+      "cases": 120,
+      "classifications": {
+        "CONDITIONAL_SHORTFALL": 43,
+        "KNOWN_NETWORK_SUFFICIENT": 65,
+        "UNRESOLVED_WITHOUT_OUTSIDE_CAPACITY": 0,
+        "ZERO_MODELED_LOSS": 12
+      },
+      "gamma": "0",
+      "max_interval_width_kg": "0",
+      "max_overclaim_kg": "0",
+      "positive_loss_cases": 108,
+      "positive_overclaim_cases": 0,
+      "year": 2020
+    },
+    {
+      "basis": "import",
+      "cases": 120,
+      "classifications": {
+        "CONDITIONAL_SHORTFALL": 40,
+        "KNOWN_NETWORK_SUFFICIENT": 65,
+        "UNRESOLVED_WITHOUT_OUTSIDE_CAPACITY": 3,
+        "ZERO_MODELED_LOSS": 12
+      },
+      "gamma": "1/2",
+      "max_interval_width_kg": "744038570",
+      "max_overclaim_kg": "0",
+      "positive_loss_cases": 108,
+      "positive_overclaim_cases": 0,
+      "year": 2020
+    },
+    {
+      "basis": "import",
+      "cases": 120,
+      "classifications": {
+        "CONDITIONAL_SHORTFALL": 37,
+        "KNOWN_NETWORK_SUFFICIENT": 65,
+        "UNRESOLVED_WITHOUT_OUTSIDE_CAPACITY": 6,
+        "ZERO_MODELED_LOSS": 12
+      },
+      "gamma": "1",
+      "max_interval_width_kg": "1446978260",
+      "max_overclaim_kg": "0",
+      "positive_loss_cases": 108,
+      "positive_overclaim_cases": 0,
+      "year": 2020
+    },
+    {
+      "basis": "mirror",
+      "cases": 120,
+      "classifications": {
+        "CONDITIONAL_SHORTFALL": 45,
+        "KNOWN_NETWORK_SUFFICIENT": 63,
+        "UNRESOLVED_WITHOUT_OUTSIDE_CAPACITY": 0,
+        "ZERO_MODELED_LOSS": 12
+      },
+      "gamma": "0",
+      "max_interval_width_kg": "0",
+      "max_overclaim_kg": "53231150",
+      "positive_loss_cases": 108,
+      "positive_overclaim_cases": 1,
+      "year": 2020
+    },
+    {
+      "basis": "mirror",
+      "cases": 120,
+      "classifications": {
+        "CONDITIONAL_SHORTFALL": 42,
+        "KNOWN_NETWORK_SUFFICIENT": 63,
+        "UNRESOLVED_WITHOUT_OUTSIDE_CAPACITY": 3,
+        "ZERO_MODELED_LOSS": 12
+      },
+      "gamma": "1/2",
+      "max_interval_width_kg": "744038570",
+      "max_overclaim_kg": "53231150",
+      "positive_loss_cases": 108,
+      "positive_overclaim_cases": 1,
+      "year": 2020
+    },
+    {
+      "basis": "mirror",
+      "cases": 120,
+      "classifications": {
+        "CONDITIONAL_SHORTFALL": 39,
+        "KNOWN_NETWORK_SUFFICIENT": 63,
+        "UNRESOLVED_WITHOUT_OUTSIDE_CAPACITY": 6,
+        "ZERO_MODELED_LOSS": 12
+      },
+      "gamma": "1",
+      "max_interval_width_kg": "1442316060",
+      "max_overclaim_kg": "53231150",
+      "positive_loss_cases": 108,
+      "positive_overclaim_cases": 1,
+      "year": 2020
+    }
+  ],
+  "maximum_interval_illustration": {
+    "allocation_cut_conditions": 70,
+    "alpha": "0",
+    "augmentations": 3,
+    "basis": "import",
+    "beta": "0.5",
+    "case_id": "2020-import-0-0.5-33",
+    "classification": "CONDITIONAL_SHORTFALL",
+    "covered_fraction": "72348913/74415650",
+    "demand_kg": "1488313000",
+    "endpoint_covered_kg": "1446978260",
+    "gamma": "1",
+    "independent_kg": "1446978260",
+    "interval_width_kg": "1446978260",
+    "known_covered_kg": "0",
+    "lost_name": "Canada",
+    "lost_origin": "33",
+    "lower_unmet_kg": "41334740",
+    "shared_overclaim_kg": "0",
+    "unrestricted_upper_covered_kg": "1488313000",
+    "unrestricted_width_kg": "1488313000",
+    "upper_unmet_kg": "1488313000",
+    "year": 2020
+  },
+  "not_a_predictive_test": true,
+  "qualification": "All optima and intervals conditional on authored capacities and residual-scaled outside envelope; accounting residual is not measured spare supply. Original coverage-gated study remains unexecuted.",
+  "source_informed": true,
+  "year": 2020
+}

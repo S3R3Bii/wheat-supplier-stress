@@ -1,0 +1,139 @@
+[
+  {
+    "request": {
+      "alpha": "0.05",
+      "basis": "import",
+      "beta": "1",
+      "gamma": "1",
+      "lost_origin": "68",
+      "scope": "conditional_replacement_interval",
+      "year": 2019
+    },
+    "response": {
+      "classification": "KNOWN_NETWORK_SUFFICIENT",
+      "demand_kg": "2455097530",
+      "lower_covered_kg": "2455097530",
+      "lower_unmet_kg": "0",
+      "qualification": "Historical restricted-network scenario with authored shared/route/outside capacity assumptions; residual is an accounting difference, not real spare supply. Obtain supplier-specific evidence before promising deliveries.",
+      "status": "QUALIFIED_INTERVAL",
+      "unrestricted_upper_covered_kg": "2455097530",
+      "upper_covered_kg": "2455097530",
+      "upper_unmet_kg": "0"
+    }
+  },
+  {
+    "request": {
+      "alpha": "0.10",
+      "basis": "mirror",
+      "beta": "0.5",
+      "gamma": "1/2",
+      "lost_origin": "185",
+      "scope": "conditional_replacement_interval",
+      "year": 2020
+    },
+    "response": {
+      "classification": "CONDITIONAL_SHORTFALL",
+      "demand_kg": "8792308020",
+      "lower_covered_kg": "2752216598",
+      "lower_unmet_kg": "6018918752",
+      "qualification": "Historical restricted-network scenario with authored shared/route/outside capacity assumptions; residual is an accounting difference, not real spare supply. Obtain supplier-specific evidence before promising deliveries.",
+      "status": "QUALIFIED_INTERVAL",
+      "unrestricted_upper_covered_kg": "8792308020",
+      "upper_covered_kg": "2773389268",
+      "upper_unmet_kg": "6040091422"
+    }
+  },
+  {
+    "request": {
+      "alpha": "0.05",
+      "basis": "import",
+      "beta": "1",
+      "lost_origin": "68",
+      "scope": "conditional_replacement_interval",
+      "year": 2019
+    },
+    "response": {
+      "reason": "incomplete scenario and outside-envelope contract",
+      "status": "ABSTAIN"
+    }
+  },
+  {
+    "request": {
+      "alpha": "0.05",
+      "basis": "import",
+      "beta": "1",
+      "gamma": "1",
+      "lost_origin": "68",
+      "scope": "conditional_replacement_interval",
+      "year": 2026
+    },
+    "response": {
+      "reason": "year outside saved historical cohort",
+      "status": "ABSTAIN"
+    }
+  },
+  {
+    "request": {
+      "alpha": "0.05",
+      "basis": "import",
+      "beta": "1",
+      "gamma": "1",
+      "lost_origin": "68",
+      "scope": "guaranteed_shipment",
+      "year": 2019
+    },
+    "response": {
+      "reason": "no guaranteed shipment, actual spare capacity, probability or political priority claim",
+      "status": "REJECT"
+    }
+  },
+  {
+    "request": {
+      "alpha": "0.05",
+      "basis": "import",
+      "beta": "1",
+      "gamma": "1",
+      "lost_origin": "68",
+      "scope": "shortage_probability",
+      "year": 2019
+    },
+    "response": {
+      "reason": "no guaranteed shipment, actual spare capacity, probability or political priority claim",
+      "status": "REJECT"
+    }
+  },
+  {
+    "request": {
+      "alpha": "0.05",
+      "basis": "import",
+      "beta": "1",
+      "gamma": "1",
+      "lost_origin": "68",
+      "scope": "political_priority",
+      "year": 2019
+    },
+    "response": {
+      "reason": "no guaranteed shipment, actual spare capacity, probability or political priority claim",
+      "status": "REJECT"
+    }
+  },
+  {
+    "request": {
+      "alpha": "0.05",
+      "basis": "import",
+      "beta": "1",
+      "caller_data": [
+        1,
+        2
+      ],
+      "gamma": "1",
+      "lost_origin": "68",
+      "scope": "conditional_replacement_interval",
+      "year": 2019
+    },
+    "response": {
+      "reason": "arbitrary caller fields/data unsupported",
+      "status": "REJECT"
+    }
+  }
+]

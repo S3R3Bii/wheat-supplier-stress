@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "independent_conditions": 37,
+  "requests": 8,
+  "qualified_intervals": 2,
+  "abstentions": 2,
+  "rejections": 4,
+  "summary_groups": 12
+}
