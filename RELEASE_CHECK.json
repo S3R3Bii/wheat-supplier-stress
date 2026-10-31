@@ -1,0 +1,28 @@
+{
+  "state": "CANDIDATE_READY",
+  "scope": "independent-program-study",
+  "formal_submission_target": false,
+  "source_gate": "PASS_RESTRICTED_SOURCE_AND_CONDITIONAL_MODEL_ONLY",
+  "original_FAO_gate": "FAIL_SOURCE_QUALIFICATION",
+  "original_coverage_gated_study": "UNEXECUTED",
+  "source_positions": 179,
+  "missing_source_positions": 39,
+  "native_conditions": 4706,
+  "independent_conditions_per_year": 145694,
+  "fixture_methods": 56,
+  "summary_exercise_conditions": 37,
+  "base_configurations": 480,
+  "endpoint_evaluations": 1440,
+  "cut_subsets": 11520,
+  "frozen_dependencies": 64,
+  "development_freeze_commit": "f9d4de7a01a2818461df34c9767395d86d9d3654",
+  "original_held_files_unchanged": 39,
+  "isolated_replays": [
+    "3.10.11",
+    "3.12.14"
+  ],
+  "actual_outside_capacity": "UNMEASURED_AUTHORED_ENVELOPE_ONLY",
+  "historical_git_authorship": "Preserved existing metadata; new release checkpoints use verified noreply identity. Canonical privacy audit covers project-file blobs, not anonymous Git history.",
+  "candidate_main_CI_tag_metadata": "PENDING",
+  "not_peer_reviewed": true
+}

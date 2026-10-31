@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "python": "3.10.11",
+  "reproduced_files": [
+    "endpoints_2019.csv",
+    "flows_2019.csv",
+    "cuts_2019.csv",
+    "importers_2019.csv",
+    "suppliers_2019.csv",
+    "summary_2019.json",
+    "endpoints_2020.csv",
+    "flows_2020.csv",
+    "cuts_2020.csv",
+    "importers_2020.csv",
+    "suppliers_2020.csv",
+    "summary_2020.json",
+    "summary.json",
+    "exercise.json"
+  ],
+  "unchanged_source_files": 23,
+  "native_redownload": false,
+  "qualification": "Saved source-informed scenario replay; no actual spare-supply, original-vintage or predictive certification.",
+  "checkout_head": "62dbc172bb57a82ba56a7782554e310f3ae1ae2e",
+  "full_history": true
+}

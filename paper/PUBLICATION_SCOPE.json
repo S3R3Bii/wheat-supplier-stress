@@ -1,0 +1,11 @@
+{
+  "scope": "independent-program-study",
+  "formal_submission_target": false,
+  "public_files": {
+    "paper/main.tex": "ffb0869c0942e7cebb71a3f0be6c642f37b421a157eefe270a5e89da0b0bac5f",
+    "paper/manuscript.pdf": "60642a454318f471593c7f14eedc1e4bff8f12b641602927268bb1c147a54591",
+    "paper/images/coverage_and_residual.pdf": "fc2b68e78638b88a12844b281eff329c3ef6816b78483fc7d8658aa4a2498869",
+    "paper/images/conditional_classes.pdf": "fd52717414b558afd2ff47c1425304c2c805153c5ae6385f0a6acba7e26c765b",
+    "paper/images/maximum_interval.pdf": "0df2bee57ff20c30e39eb9b7ab1df329c613f8af1e9aa23bc9729c835f3d0a7f"
+  }
+}

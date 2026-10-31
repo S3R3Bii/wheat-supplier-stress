@@ -1,0 +1,27 @@
+{
+  "timestamp_utc": "2026-10-31T05:39:45.814172+00:00",
+  "status": "PASS_CURRENT_RENDERED_REVIEW",
+  "rendered_pages_inspected": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "figures_inspected": 3,
+  "checks": [
+    "All source/classification/overclaim tables readable",
+    "No clipped or overlapping content in six current rendered pages",
+    "Labels, units, shared scales, stack offsets and zero cases inspected",
+    "Removed decorative line crossing numeric label; current included figure inspected",
+    "No TeX layout warnings; practical decision and authored-envelope/source limits clear"
+  ],
+  "sha256": {
+    "paper/manuscript.pdf": "60642a454318f471593c7f14eedc1e4bff8f12b641602927268bb1c147a54591",
+    "figures/coverage_and_residual.png": "ea43a386baf01eac7c94df117603706b1cc7e6ceca554a4c117548cfb8968746",
+    "figures/conditional_classes.png": "0a0790354be0c0646b2f3fc09c12c8b9f0c4b04f6ed1b8389a756f4414ce536f",
+    "figures/maximum_interval.png": "d8cae06a6df00cf1e281aeeb72ac2b1c3263e28506184af1ac7ab5cacc4fa267"
+  },
+  "limitations": "Visual inspection plus independent geometry/value/PDF checks; no accessibility conformance claim."
+}
