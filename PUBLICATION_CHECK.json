@@ -1,13 +1,14 @@
 {
-  "timestamp_utc": "2026-10-31T05:31:52.376938+00:00",
+  "timestamp_utc": "2026-10-31T05:31:57.903707+00:00",
   "status": "PASS_BOUNDED_SCAN",
-  "files_checked": 70,
+  "files_checked": 71,
   "scope": "Exact staged Git index bytes; decompressed text; forbidden paths/extensions, high-confidence key and private machine path patterns; local Markdown links. Image/PDF contents require separate visual/source review. This is not universal secret detection.",
   "findings": [],
   "sha256": {
     ".gitattributes": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da",
     ".gitignore": "60df6be84bf52e59d66a0a2a46d4e1b963349c50e2b2648e7b41280d3c3bd82e",
     "ACQUISITION_NOTE.md": "f481b47acb51c7711713086ca866d9add6c46d5d686b8d9715769f3b4e0f5d64",
+    "BOUNDS_FREEZE.json": "e3fa46d857fa472d22f76d5e60b421eb429b17ae9fe38709beefc4be013dc5b4",
     "BOUNDS_PROTOCOL.md": "0d692440eb547175f817177b7961fe9f5cd63c2d342cc853eb6a1cc4f43f7045",
     "DATA_RIGHTS.md": "0e57d9d9d0a4f992a2487cfa1b3fdd1cce4f63003d24635b66bea7d7ccdf3474",
     "FAO_SOURCE_PLAN.md": "3b04db2286ce077115b982a004266009a61634374ba435e54140f35f2822a0af",
