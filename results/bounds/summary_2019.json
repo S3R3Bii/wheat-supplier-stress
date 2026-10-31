@@ -1,0 +1,132 @@
+{
+  "base_cases": 240,
+  "cut_certificates": 5760,
+  "endpoint_evaluations": 720,
+  "flow_accounts": 33840,
+  "groups": [
+    {
+      "basis": "import",
+      "cases": 120,
+      "classifications": {
+        "CONDITIONAL_SHORTFALL": 48,
+        "KNOWN_NETWORK_SUFFICIENT": 72,
+        "UNRESOLVED_WITHOUT_OUTSIDE_CAPACITY": 0,
+        "ZERO_MODELED_LOSS": 0
+      },
+      "gamma": "0",
+      "max_interval_width_kg": "0",
+      "max_overclaim_kg": "0",
+      "positive_loss_cases": 120,
+      "positive_overclaim_cases": 0,
+      "year": 2019
+    },
+    {
+      "basis": "import",
+      "cases": 120,
+      "classifications": {
+        "CONDITIONAL_SHORTFALL": 36,
+        "KNOWN_NETWORK_SUFFICIENT": 72,
+        "UNRESOLVED_WITHOUT_OUTSIDE_CAPACITY": 12,
+        "ZERO_MODELED_LOSS": 0
+      },
+      "gamma": "1/2",
+      "max_interval_width_kg": "286269275",
+      "max_overclaim_kg": "0",
+      "positive_loss_cases": 120,
+      "positive_overclaim_cases": 0,
+      "year": 2019
+    },
+    {
+      "basis": "import",
+      "cases": 120,
+      "classifications": {
+        "CONDITIONAL_SHORTFALL": 36,
+        "KNOWN_NETWORK_SUFFICIENT": 72,
+        "UNRESOLVED_WITHOUT_OUTSIDE_CAPACITY": 12,
+        "ZERO_MODELED_LOSS": 0
+      },
+      "gamma": "1",
+      "max_interval_width_kg": "572538550",
+      "max_overclaim_kg": "0",
+      "positive_loss_cases": 120,
+      "positive_overclaim_cases": 0,
+      "year": 2019
+    },
+    {
+      "basis": "mirror",
+      "cases": 120,
+      "classifications": {
+        "CONDITIONAL_SHORTFALL": 51,
+        "KNOWN_NETWORK_SUFFICIENT": 69,
+        "UNRESOLVED_WITHOUT_OUTSIDE_CAPACITY": 0,
+        "ZERO_MODELED_LOSS": 0
+      },
+      "gamma": "0",
+      "max_interval_width_kg": "0",
+      "max_overclaim_kg": "909416829/2",
+      "positive_loss_cases": 120,
+      "positive_overclaim_cases": 3,
+      "year": 2019
+    },
+    {
+      "basis": "mirror",
+      "cases": 120,
+      "classifications": {
+        "CONDITIONAL_SHORTFALL": 37,
+        "KNOWN_NETWORK_SUFFICIENT": 69,
+        "UNRESOLVED_WITHOUT_OUTSIDE_CAPACITY": 14,
+        "ZERO_MODELED_LOSS": 0
+      },
+      "gamma": "1/2",
+      "max_interval_width_kg": "286269275",
+      "max_overclaim_kg": "891414809/2",
+      "positive_loss_cases": 120,
+      "positive_overclaim_cases": 3,
+      "year": 2019
+    },
+    {
+      "basis": "mirror",
+      "cases": 120,
+      "classifications": {
+        "CONDITIONAL_SHORTFALL": 34,
+        "KNOWN_NETWORK_SUFFICIENT": 69,
+        "UNRESOLVED_WITHOUT_OUTSIDE_CAPACITY": 17,
+        "ZERO_MODELED_LOSS": 0
+      },
+      "gamma": "1",
+      "max_interval_width_kg": "572538550",
+      "max_overclaim_kg": "642517549/2",
+      "positive_loss_cases": 120,
+      "positive_overclaim_cases": 3,
+      "year": 2019
+    }
+  ],
+  "maximum_interval_illustration": {
+    "allocation_cut_conditions": 70,
+    "alpha": "0",
+    "augmentations": 3,
+    "basis": "import",
+    "beta": "0.5",
+    "case_id": "2019-import-0-0.5-230",
+    "classification": "CONDITIONAL_SHORTFALL",
+    "covered_fraction": "1331485/8462307",
+    "demand_kg": "3638792010",
+    "endpoint_covered_kg": "572538550",
+    "gamma": "1",
+    "independent_kg": "572538550",
+    "interval_width_kg": "572538550",
+    "known_covered_kg": "0",
+    "lost_name": "Ukraine",
+    "lost_origin": "230",
+    "lower_unmet_kg": "3066253460",
+    "shared_overclaim_kg": "0",
+    "unrestricted_upper_covered_kg": "3638792010",
+    "unrestricted_width_kg": "3638792010",
+    "upper_unmet_kg": "3638792010",
+    "year": 2019
+  },
+  "not_a_predictive_test": true,
+  "qualification": "All optima and intervals conditional on authored capacities and residual-scaled outside envelope; accounting residual is not measured spare supply. Original coverage-gated study remains unexecuted.",
+  "source_informed": true,
+  "year": 2019
+}

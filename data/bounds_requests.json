@@ -1,0 +1,77 @@
+[
+  {
+    "scope": "conditional_replacement_interval",
+    "year": 2019,
+    "basis": "import",
+    "alpha": "0.05",
+    "beta": "1",
+    "lost_origin": "68",
+    "gamma": "1"
+  },
+  {
+    "scope": "conditional_replacement_interval",
+    "year": 2020,
+    "basis": "mirror",
+    "alpha": "0.10",
+    "beta": "0.5",
+    "lost_origin": "185",
+    "gamma": "1/2"
+  },
+  {
+    "scope": "conditional_replacement_interval",
+    "year": 2019,
+    "basis": "import",
+    "alpha": "0.05",
+    "beta": "1",
+    "lost_origin": "68"
+  },
+  {
+    "scope": "conditional_replacement_interval",
+    "year": 2026,
+    "basis": "import",
+    "alpha": "0.05",
+    "beta": "1",
+    "lost_origin": "68",
+    "gamma": "1"
+  },
+  {
+    "scope": "guaranteed_shipment",
+    "year": 2019,
+    "basis": "import",
+    "alpha": "0.05",
+    "beta": "1",
+    "lost_origin": "68",
+    "gamma": "1"
+  },
+  {
+    "scope": "shortage_probability",
+    "year": 2019,
+    "basis": "import",
+    "alpha": "0.05",
+    "beta": "1",
+    "lost_origin": "68",
+    "gamma": "1"
+  },
+  {
+    "scope": "political_priority",
+    "year": 2019,
+    "basis": "import",
+    "alpha": "0.05",
+    "beta": "1",
+    "lost_origin": "68",
+    "gamma": "1"
+  },
+  {
+    "scope": "conditional_replacement_interval",
+    "year": 2019,
+    "basis": "import",
+    "alpha": "0.05",
+    "beta": "1",
+    "lost_origin": "68",
+    "gamma": "1",
+    "caller_data": [
+      1,
+      2
+    ]
+  }
+]
