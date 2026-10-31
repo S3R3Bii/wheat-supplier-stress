@@ -1,4 +1,1 @@
-* text=auto eol=lf
-*.pdf binary
-*.png binary
-*.gz binary
+* -text

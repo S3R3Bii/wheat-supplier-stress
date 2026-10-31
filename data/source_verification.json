@@ -1,0 +1,17 @@
+{
+  "status": "pass",
+  "checks": 10799,
+  "source_records": 140,
+  "source_requests": 49,
+  "net_weight_states": {
+    "positive": 127,
+    "zero_unavailable": 4,
+    "json_null": 9
+  },
+  "readers": [
+    "Independent Decimal JSON parser",
+    "Separate raw numeric-token extraction",
+    "Original byte hashes before/after reads"
+  ],
+  "scope": "Full projected native fields reconciled; source observations/estimates and authored capacity remain distinct"
+}

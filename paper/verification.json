@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "finite_conditions": 469,
+  "used_bindings": 107,
+  "source_table_rows": 6,
+  "classification_table_rows": 12,
+  "overclaim_table_rows": 4,
+  "pages": 6,
+  "scope_files": 5,
+  "rendered_visual_review": "separate"
+}

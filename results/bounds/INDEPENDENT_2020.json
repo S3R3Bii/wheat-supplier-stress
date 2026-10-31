@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "year": 2020,
+  "independent_sql_fraction_conditions": 145694,
+  "source_positions": 179,
+  "original_held_files": 39,
+  "base_cases": 240,
+  "endpoints": 720,
+  "flows": 33840,
+  "cut_subsets": 5760,
+  "production_helper_imports": false
+}

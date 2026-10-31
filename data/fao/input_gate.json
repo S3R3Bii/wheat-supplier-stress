@@ -1,0 +1,513 @@
+{
+  "status": "FAIL_SOURCE_QUALIFICATION",
+  "national_totals": [
+    {
+      "kind": "world_imports",
+      "area_fao": "59",
+      "name": "Egypt",
+      "year": 2018,
+      "state": "positive",
+      "flag": "I",
+      "pass": true
+    },
+    {
+      "kind": "world_imports",
+      "area_fao": "59",
+      "name": "Egypt",
+      "year": 2019,
+      "state": "positive",
+      "flag": "I",
+      "pass": true
+    },
+    {
+      "kind": "world_imports",
+      "area_fao": "59",
+      "name": "Egypt",
+      "year": 2020,
+      "state": "positive",
+      "flag": "I",
+      "pass": true
+    },
+    {
+      "kind": "world_imports",
+      "area_fao": "143",
+      "name": "Morocco",
+      "year": 2018,
+      "state": "positive",
+      "flag": "I",
+      "pass": true
+    },
+    {
+      "kind": "world_imports",
+      "area_fao": "143",
+      "name": "Morocco",
+      "year": 2019,
+      "state": "positive",
+      "flag": "A",
+      "pass": true
+    },
+    {
+      "kind": "world_imports",
+      "area_fao": "143",
+      "name": "Morocco",
+      "year": 2020,
+      "state": "positive",
+      "flag": "A",
+      "pass": true
+    },
+    {
+      "kind": "world_imports",
+      "area_fao": "222",
+      "name": "Tunisia",
+      "year": 2018,
+      "state": "positive",
+      "flag": "A",
+      "pass": true
+    },
+    {
+      "kind": "world_imports",
+      "area_fao": "222",
+      "name": "Tunisia",
+      "year": 2019,
+      "state": "positive",
+      "flag": "A",
+      "pass": true
+    },
+    {
+      "kind": "world_imports",
+      "area_fao": "222",
+      "name": "Tunisia",
+      "year": 2020,
+      "state": "positive",
+      "flag": "A",
+      "pass": true
+    },
+    {
+      "kind": "prior_world_exports",
+      "area_fao": "9",
+      "name": "Argentina",
+      "year": 2018,
+      "state": "positive",
+      "flag": "A",
+      "pass": true
+    },
+    {
+      "kind": "prior_world_exports",
+      "area_fao": "9",
+      "name": "Argentina",
+      "year": 2019,
+      "state": "positive",
+      "flag": "A",
+      "pass": true
+    },
+    {
+      "kind": "prior_world_exports",
+      "area_fao": "10",
+      "name": "Australia",
+      "year": 2018,
+      "state": "positive",
+      "flag": "A",
+      "pass": true
+    },
+    {
+      "kind": "prior_world_exports",
+      "area_fao": "10",
+      "name": "Australia",
+      "year": 2019,
+      "state": "positive",
+      "flag": "A",
+      "pass": true
+    },
+    {
+      "kind": "prior_world_exports",
+      "area_fao": "27",
+      "name": "Bulgaria",
+      "year": 2018,
+      "state": "positive",
+      "flag": "A",
+      "pass": true
+    },
+    {
+      "kind": "prior_world_exports",
+      "area_fao": "27",
+      "name": "Bulgaria",
+      "year": 2019,
+      "state": "positive",
+      "flag": "A",
+      "pass": true
+    },
+    {
+      "kind": "prior_world_exports",
+      "area_fao": "33",
+      "name": "Canada",
+      "year": 2018,
+      "state": "positive",
+      "flag": "A",
+      "pass": true
+    },
+    {
+      "kind": "prior_world_exports",
+      "area_fao": "33",
+      "name": "Canada",
+      "year": 2019,
+      "state": "positive",
+      "flag": "I",
+      "pass": true
+    },
+    {
+      "kind": "prior_world_exports",
+      "area_fao": "68",
+      "name": "France",
+      "year": 2018,
+      "state": "positive",
+      "flag": "A",
+      "pass": true
+    },
+    {
+      "kind": "prior_world_exports",
+      "area_fao": "68",
+      "name": "France",
+      "year": 2019,
+      "state": "positive",
+      "flag": "A",
+      "pass": true
+    },
+    {
+      "kind": "prior_world_exports",
+      "area_fao": "108",
+      "name": "Kazakhstan",
+      "year": 2018,
+      "state": "positive",
+      "flag": "A",
+      "pass": true
+    },
+    {
+      "kind": "prior_world_exports",
+      "area_fao": "108",
+      "name": "Kazakhstan",
+      "year": 2019,
+      "state": "positive",
+      "flag": "A",
+      "pass": true
+    },
+    {
+      "kind": "prior_world_exports",
+      "area_fao": "183",
+      "name": "Romania",
+      "year": 2018,
+      "state": "positive",
+      "flag": "A",
+      "pass": true
+    },
+    {
+      "kind": "prior_world_exports",
+      "area_fao": "183",
+      "name": "Romania",
+      "year": 2019,
+      "state": "positive",
+      "flag": "A",
+      "pass": true
+    },
+    {
+      "kind": "prior_world_exports",
+      "area_fao": "185",
+      "name": "Russian Federation",
+      "year": 2018,
+      "state": "positive",
+      "flag": "A",
+      "pass": true
+    },
+    {
+      "kind": "prior_world_exports",
+      "area_fao": "185",
+      "name": "Russian Federation",
+      "year": 2019,
+      "state": "positive",
+      "flag": "A",
+      "pass": true
+    },
+    {
+      "kind": "prior_world_exports",
+      "area_fao": "230",
+      "name": "Ukraine",
+      "year": 2018,
+      "state": "positive",
+      "flag": "A",
+      "pass": true
+    },
+    {
+      "kind": "prior_world_exports",
+      "area_fao": "230",
+      "name": "Ukraine",
+      "year": 2019,
+      "state": "positive",
+      "flag": "A",
+      "pass": true
+    },
+    {
+      "kind": "prior_world_exports",
+      "area_fao": "231",
+      "name": "United States of America",
+      "year": 2018,
+      "state": "positive",
+      "flag": "A",
+      "pass": true
+    },
+    {
+      "kind": "prior_world_exports",
+      "area_fao": "231",
+      "name": "United States of America",
+      "year": 2019,
+      "state": "positive",
+      "flag": "A",
+      "pass": true
+    }
+  ],
+  "common_support": [
+    {
+      "importer_fao": "59",
+      "name": "Egypt",
+      "year": 2019,
+      "common_origins": [
+        "10",
+        "27",
+        "33",
+        "68",
+        "183",
+        "185",
+        "230",
+        "231"
+      ],
+      "common_origin_count": 8,
+      "common_import_kg_fraction": "10238325510",
+      "world_import_kg_fraction": "10424423360",
+      "coverage_fraction": "1023832551/1042442336",
+      "coverage_percent_approx": "98.214790",
+      "coverage_pass": true,
+      "origin_count_pass": true
+    },
+    {
+      "importer_fao": "59",
+      "name": "Egypt",
+      "year": 2020,
+      "common_origins": [
+        "10",
+        "27",
+        "33",
+        "68",
+        "183",
+        "185",
+        "230",
+        "231"
+      ],
+      "common_origin_count": 8,
+      "common_import_kg_fraction": "8926870080",
+      "world_import_kg_fraction": "8969215420",
+      "coverage_fraction": "446343504/448460771",
+      "coverage_percent_approx": "99.527881",
+      "coverage_pass": true,
+      "origin_count_pass": true
+    },
+    {
+      "importer_fao": "143",
+      "name": "Morocco",
+      "year": 2019,
+      "common_origins": [
+        "9",
+        "27",
+        "33",
+        "68",
+        "185",
+        "230",
+        "231"
+      ],
+      "common_origin_count": 7,
+      "common_import_kg_fraction": "3707262330",
+      "world_import_kg_fraction": "3844805770",
+      "coverage_fraction": "370726233/384480577",
+      "coverage_percent_approx": "96.422617",
+      "coverage_pass": true,
+      "origin_count_pass": true
+    },
+    {
+      "importer_fao": "143",
+      "name": "Morocco",
+      "year": 2020,
+      "common_origins": [
+        "33",
+        "68",
+        "183",
+        "185",
+        "230",
+        "231"
+      ],
+      "common_origin_count": 6,
+      "common_import_kg_fraction": "4388428500",
+      "world_import_kg_fraction": "5521529240",
+      "coverage_fraction": "219421425/276076462",
+      "coverage_percent_approx": "79.478498",
+      "coverage_pass": false,
+      "origin_count_pass": true
+    },
+    {
+      "importer_fao": "222",
+      "name": "Tunisia",
+      "year": 2019,
+      "common_origins": [
+        "27",
+        "33",
+        "68",
+        "108",
+        "185",
+        "230",
+        "231"
+      ],
+      "common_origin_count": 7,
+      "common_import_kg_fraction": "1600096200",
+      "world_import_kg_fraction": "1848993460",
+      "coverage_fraction": "3478470/4019551",
+      "coverage_percent_approx": "86.538770",
+      "coverage_pass": true,
+      "origin_count_pass": true
+    },
+    {
+      "importer_fao": "222",
+      "name": "Tunisia",
+      "year": 2020,
+      "common_origins": [
+        "27",
+        "33",
+        "68",
+        "108",
+        "183",
+        "185",
+        "230",
+        "231"
+      ],
+      "common_origin_count": 8,
+      "common_import_kg_fraction": "1924502760",
+      "world_import_kg_fraction": "2237133820",
+      "coverage_fraction": "96225138/111856691",
+      "coverage_percent_approx": "86.025375",
+      "coverage_pass": true,
+      "origin_count_pass": true
+    }
+  ],
+  "prior_routes": [
+    {
+      "importer_fao": "59",
+      "name": "Egypt",
+      "target_year": 2019,
+      "prior_year": 2018,
+      "origins": [
+        "10",
+        "27",
+        "33",
+        "68",
+        "183",
+        "185",
+        "230"
+      ],
+      "count": 7,
+      "pass": true
+    },
+    {
+      "importer_fao": "59",
+      "name": "Egypt",
+      "target_year": 2020,
+      "prior_year": 2019,
+      "origins": [
+        "10",
+        "27",
+        "33",
+        "68",
+        "183",
+        "185",
+        "230",
+        "231"
+      ],
+      "count": 8,
+      "pass": true
+    },
+    {
+      "importer_fao": "143",
+      "name": "Morocco",
+      "target_year": 2019,
+      "prior_year": 2018,
+      "origins": [
+        "9",
+        "27",
+        "33",
+        "68",
+        "185",
+        "230",
+        "231"
+      ],
+      "count": 7,
+      "pass": true
+    },
+    {
+      "importer_fao": "143",
+      "name": "Morocco",
+      "target_year": 2020,
+      "prior_year": 2019,
+      "origins": [
+        "9",
+        "27",
+        "33",
+        "68",
+        "185",
+        "230",
+        "231"
+      ],
+      "count": 7,
+      "pass": true
+    },
+    {
+      "importer_fao": "222",
+      "name": "Tunisia",
+      "target_year": 2019,
+      "prior_year": 2018,
+      "origins": [
+        "9",
+        "27",
+        "33",
+        "68",
+        "108",
+        "185",
+        "230"
+      ],
+      "count": 7,
+      "pass": true
+    },
+    {
+      "importer_fao": "222",
+      "name": "Tunisia",
+      "target_year": 2020,
+      "prior_year": 2019,
+      "origins": [
+        "27",
+        "33",
+        "68",
+        "108",
+        "183",
+        "185",
+        "230",
+        "231"
+      ],
+      "count": 8,
+      "pass": true
+    }
+  ],
+  "failed_gates": [
+    "common_support:143:2020:coverage_80_to_105_percent"
+  ],
+  "scenario_outputs_computed": false,
+  "thresholds": {
+    "minimum_coverage": "4/5",
+    "maximum_coverage": "21/20",
+    "minimum_origins": 2,
+    "minimum_prior_routes": 2
+  },
+  "scope": "FAO source basis only; earlier UN source failure unchanged"
+}

@@ -1,0 +1,41 @@
+{
+  "version": "FAO-source-qualification-1",
+  "status": "fixed-before-FAO-quantity-capture",
+  "item": {"code": "15", "label": "Wheat"},
+  "unit": "tonnes",
+  "importers": [
+    {"code": "59", "name": "Egypt"},
+    {"code": "143", "name": "Morocco"},
+    {"code": "222", "name": "Tunisia"}
+  ],
+  "origins": [
+    {"code": "9", "name": "Argentina"},
+    {"code": "10", "name": "Australia"},
+    {"code": "27", "name": "Bulgaria"},
+    {"code": "33", "name": "Canada"},
+    {"code": "68", "name": "France"},
+    {"code": "108", "name": "Kazakhstan"},
+    {"code": "183", "name": "Romania"},
+    {"code": "185", "name": "Russian Federation"},
+    {"code": "230", "name": "Ukraine"},
+    {"code": "231", "name": "United States of America"}
+  ],
+  "downloads": [
+    {"id": "import_pairs", "domain": "TM", "reporters": "importers", "partners": "origins", "element": "Import Quantity", "years": [2018, 2019, 2020], "maximum_observations": 90},
+    {"id": "export_mirrors", "domain": "TM", "reporters": "origins", "partners": "importers", "element": "Export Quantity", "years": [2019, 2020], "maximum_observations": 60},
+    {"id": "world_imports", "domain": "TCL", "areas": "importers", "element": "Import Quantity", "years": [2018, 2019, 2020], "maximum_observations": 9},
+    {"id": "prior_world_exports", "domain": "TCL", "areas": "origins", "element": "Export Quantity", "years": [2018, 2019], "maximum_observations": 20}
+  ],
+  "maximum_requested_observations": 179,
+  "minimum_common_support": "0.80",
+  "maximum_common_support": "1.05",
+  "minimum_common_origins": 2,
+  "minimum_prior_routes": 2,
+  "development_target": 2019,
+  "later_target": 2020,
+  "alpha": ["0", "0.05", "0.10", "0.25"],
+  "beta": ["0.5", "1", "2"],
+  "source_mixing": false,
+  "raw_downloads_public": false,
+  "account_or_token_acquisition": false
+}

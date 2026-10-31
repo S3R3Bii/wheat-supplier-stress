@@ -6,3 +6,4 @@ paper/*.log
 paper/*.aux
 paper/*.out
 paper/*.xdv
+paper/main.pdf

@@ -1,0 +1,180 @@
+source_file,source_row,domain,reporter_fao,reporter_name,reporter_m49,partner_fao,partner_name,partner_m49,element_code,element,item_cpc,item,year,unit,value_tonnes,kg_fraction,flag,flag_description,state
+import_pairs.csv,2,TM,59,Egypt,818,9,Argentina,032,5610,Import quantity,0111,Wheat,2018,,,,,,missing
+import_pairs.csv,3,TM,59,Egypt,818,9,Argentina,032,5610,Import quantity,0111,Wheat,2019,,,,,,missing
+import_pairs.csv,4,TM,59,Egypt,818,9,Argentina,032,5610,Import quantity,0111,Wheat,2020,,,,,,missing
+import_pairs.csv,5,TM,59,Egypt,818,10,Australia,036,5610,Import quantity,0111,Wheat,2018,t,256698.52,256698520,A,Official value,positive
+import_pairs.csv,6,TM,59,Egypt,818,10,Australia,036,5610,Import quantity,0111,Wheat,2019,t,32724.21,32724210,I,Value imputed by a receiving agency,positive
+import_pairs.csv,7,TM,59,Egypt,818,10,Australia,036,5610,Import quantity,0111,Wheat,2020,t,201988.23,201988230,A,Official value,positive
+import_pairs.csv,8,TM,59,Egypt,818,27,Bulgaria,100,5610,Import quantity,0111,Wheat,2018,t,56078.85,56078850,A,Official value,positive
+import_pairs.csv,9,TM,59,Egypt,818,27,Bulgaria,100,5610,Import quantity,0111,Wheat,2019,t,14.01,14010,A,Official value,positive
+import_pairs.csv,10,TM,59,Egypt,818,27,Bulgaria,100,5610,Import quantity,0111,Wheat,2020,t,46214.49,46214490,A,Official value,positive
+import_pairs.csv,11,TM,59,Egypt,818,33,Canada,124,5610,Import quantity,0111,Wheat,2018,t,33895.72,33895720,A,Official value,positive
+import_pairs.csv,12,TM,59,Egypt,818,33,Canada,124,5610,Import quantity,0111,Wheat,2019,t,64.08,64080,A,Official value,positive
+import_pairs.csv,13,TM,59,Egypt,818,33,Canada,124,5610,Import quantity,0111,Wheat,2020,t,8322.7,8322700,A,Official value,positive
+import_pairs.csv,14,TM,59,Egypt,818,68,France,250,5610,Import quantity,0111,Wheat,2018,t,64.79,64790,A,Official value,positive
+import_pairs.csv,15,TM,59,Egypt,818,68,France,250,5610,Import quantity,0111,Wheat,2019,t,625830,625830000,I,Value imputed by a receiving agency,positive
+import_pairs.csv,16,TM,59,Egypt,818,68,France,250,5610,Import quantity,0111,Wheat,2020,t,588607.29,588607290,A,Official value,positive
+import_pairs.csv,17,TM,59,Egypt,818,108,Kazakhstan,398,5610,Import quantity,0111,Wheat,2018,,,,,,missing
+import_pairs.csv,18,TM,59,Egypt,818,108,Kazakhstan,398,5610,Import quantity,0111,Wheat,2019,,,,,,missing
+import_pairs.csv,19,TM,59,Egypt,818,108,Kazakhstan,398,5610,Import quantity,0111,Wheat,2020,,,,,,missing
+import_pairs.csv,20,TM,59,Egypt,818,183,Romania,642,5610,Import quantity,0111,Wheat,2018,t,1072897.74,1072897740,A,Official value,positive
+import_pairs.csv,21,TM,59,Egypt,818,183,Romania,642,5610,Import quantity,0111,Wheat,2019,t,1286086,1286086000,I,Value imputed by a receiving agency,positive
+import_pairs.csv,22,TM,59,Egypt,818,183,Romania,642,5610,Import quantity,0111,Wheat,2020,t,292132.55,292132550,A,Official value,positive
+import_pairs.csv,23,TM,59,Egypt,818,185,Russian Federation,643,5610,Import quantity,0111,Wheat,2018,t,8933184.01,8933184010,I,Value imputed by a receiving agency,positive
+import_pairs.csv,24,TM,59,Egypt,818,185,Russian Federation,643,5610,Import quantity,0111,Wheat,2019,t,5743949.1,5743949100,I,Value imputed by a receiving agency,positive
+import_pairs.csv,25,TM,59,Egypt,818,185,Russian Federation,643,5610,Import quantity,0111,Wheat,2020,t,5416203.49,5416203490,I,Value imputed by a receiving agency,positive
+import_pairs.csv,26,TM,59,Egypt,818,230,Ukraine,804,5610,Import quantity,0111,Wheat,2018,t,1554375.14,1554375140,I,Value imputed by a receiving agency,positive
+import_pairs.csv,27,TM,59,Egypt,818,230,Ukraine,804,5610,Import quantity,0111,Wheat,2019,t,1767563.01,1767563010,I,Value imputed by a receiving agency,positive
+import_pairs.csv,28,TM,59,Egypt,818,230,Ukraine,804,5610,Import quantity,0111,Wheat,2020,t,2298730.12,2298730120,I,Value imputed by a receiving agency,positive
+import_pairs.csv,29,TM,59,Egypt,818,231,United States of America,840,5610,Import quantity,0111,Wheat,2018,,,,,,missing
+import_pairs.csv,30,TM,59,Egypt,818,231,United States of America,840,5610,Import quantity,0111,Wheat,2019,t,782095.1,782095100,I,Value imputed by a receiving agency,positive
+import_pairs.csv,31,TM,59,Egypt,818,231,United States of America,840,5610,Import quantity,0111,Wheat,2020,t,74671.21,74671210,A,Official value,positive
+import_pairs.csv,32,TM,143,Morocco,504,9,Argentina,032,5610,Import quantity,0111,Wheat,2018,t,12404.22,12404220,A,Official value,positive
+import_pairs.csv,33,TM,143,Morocco,504,9,Argentina,032,5610,Import quantity,0111,Wheat,2019,t,287400,287400000,A,Official value,positive
+import_pairs.csv,34,TM,143,Morocco,504,9,Argentina,032,5610,Import quantity,0111,Wheat,2020,t,27050,27050000,A,Official value,positive
+import_pairs.csv,35,TM,143,Morocco,504,10,Australia,036,5610,Import quantity,0111,Wheat,2018,,,,,,missing
+import_pairs.csv,36,TM,143,Morocco,504,10,Australia,036,5610,Import quantity,0111,Wheat,2019,,,,,,missing
+import_pairs.csv,37,TM,143,Morocco,504,10,Australia,036,5610,Import quantity,0111,Wheat,2020,,,,,,missing
+import_pairs.csv,38,TM,143,Morocco,504,27,Bulgaria,100,5610,Import quantity,0111,Wheat,2018,t,32341,32341000,A,Official value,positive
+import_pairs.csv,39,TM,143,Morocco,504,27,Bulgaria,100,5610,Import quantity,0111,Wheat,2019,t,15005,15005000,A,Official value,positive
+import_pairs.csv,40,TM,143,Morocco,504,27,Bulgaria,100,5610,Import quantity,0111,Wheat,2020,,,,,,missing
+import_pairs.csv,41,TM,143,Morocco,504,33,Canada,124,5610,Import quantity,0111,Wheat,2018,t,990501.67,990501670,A,Official value,positive
+import_pairs.csv,42,TM,143,Morocco,504,33,Canada,124,5610,Import quantity,0111,Wheat,2019,t,827487.9,827487900,A,Official value,positive
+import_pairs.csv,43,TM,143,Morocco,504,33,Canada,124,5610,Import quantity,0111,Wheat,2020,t,1126024.5,1126024500,A,Official value,positive
+import_pairs.csv,44,TM,143,Morocco,504,68,France,250,5610,Import quantity,0111,Wheat,2018,t,628738.24,628738240,I,Value imputed by a receiving agency,positive
+import_pairs.csv,45,TM,143,Morocco,504,68,France,250,5610,Import quantity,0111,Wheat,2019,t,1591911.53,1591911530,A,Official value,positive
+import_pairs.csv,46,TM,143,Morocco,504,68,France,250,5610,Import quantity,0111,Wheat,2020,t,1820188.87,1820188870,A,Official value,positive
+import_pairs.csv,47,TM,143,Morocco,504,108,Kazakhstan,398,5610,Import quantity,0111,Wheat,2018,,,,,,missing
+import_pairs.csv,48,TM,143,Morocco,504,108,Kazakhstan,398,5610,Import quantity,0111,Wheat,2019,,,,,,missing
+import_pairs.csv,49,TM,143,Morocco,504,108,Kazakhstan,398,5610,Import quantity,0111,Wheat,2020,,,,,,missing
+import_pairs.csv,50,TM,143,Morocco,504,183,Romania,642,5610,Import quantity,0111,Wheat,2018,,,,,,missing
+import_pairs.csv,51,TM,143,Morocco,504,183,Romania,642,5610,Import quantity,0111,Wheat,2019,,,,,,missing
+import_pairs.csv,52,TM,143,Morocco,504,183,Romania,642,5610,Import quantity,0111,Wheat,2020,t,80914.8,80914800,A,Official value,positive
+import_pairs.csv,53,TM,143,Morocco,504,185,Russian Federation,643,5610,Import quantity,0111,Wheat,2018,t,487707.56,487707560,A,Official value,positive
+import_pairs.csv,54,TM,143,Morocco,504,185,Russian Federation,643,5610,Import quantity,0111,Wheat,2019,t,65191.3,65191300,A,Official value,positive
+import_pairs.csv,55,TM,143,Morocco,504,185,Russian Federation,643,5610,Import quantity,0111,Wheat,2020,t,426486,426486000,A,Official value,positive
+import_pairs.csv,56,TM,143,Morocco,504,230,Ukraine,804,5610,Import quantity,0111,Wheat,2018,t,1389622.28,1389622280,A,Official value,positive
+import_pairs.csv,57,TM,143,Morocco,504,230,Ukraine,804,5610,Import quantity,0111,Wheat,2019,t,888027,888027000,A,Official value,positive
+import_pairs.csv,58,TM,143,Morocco,504,230,Ukraine,804,5610,Import quantity,0111,Wheat,2020,t,934754.7,934754700,A,Official value,positive
+import_pairs.csv,59,TM,143,Morocco,504,231,United States of America,840,5610,Import quantity,0111,Wheat,2018,t,275730.06,275730060,A,Official value,positive
+import_pairs.csv,60,TM,143,Morocco,504,231,United States of America,840,5610,Import quantity,0111,Wheat,2019,t,32239.6,32239600,A,Official value,positive
+import_pairs.csv,61,TM,143,Morocco,504,231,United States of America,840,5610,Import quantity,0111,Wheat,2020,t,59.63,59630,A,Official value,positive
+import_pairs.csv,62,TM,222,Tunisia,788,9,Argentina,032,5610,Import quantity,0111,Wheat,2018,t,27500,27500000,A,Official value,positive
+import_pairs.csv,63,TM,222,Tunisia,788,9,Argentina,032,5610,Import quantity,0111,Wheat,2019,,,,,,missing
+import_pairs.csv,64,TM,222,Tunisia,788,9,Argentina,032,5610,Import quantity,0111,Wheat,2020,,,,,,missing
+import_pairs.csv,65,TM,222,Tunisia,788,10,Australia,036,5610,Import quantity,0111,Wheat,2018,,,,,,missing
+import_pairs.csv,66,TM,222,Tunisia,788,10,Australia,036,5610,Import quantity,0111,Wheat,2019,,,,,,missing
+import_pairs.csv,67,TM,222,Tunisia,788,10,Australia,036,5610,Import quantity,0111,Wheat,2020,,,,,,missing
+import_pairs.csv,68,TM,222,Tunisia,788,27,Bulgaria,100,5610,Import quantity,0111,Wheat,2018,t,64464.9,64464900,A,Official value,positive
+import_pairs.csv,69,TM,222,Tunisia,788,27,Bulgaria,100,5610,Import quantity,0111,Wheat,2019,t,45115.1,45115100,A,Official value,positive
+import_pairs.csv,70,TM,222,Tunisia,788,27,Bulgaria,100,5610,Import quantity,0111,Wheat,2020,t,123469.66,123469660,A,Official value,positive
+import_pairs.csv,71,TM,222,Tunisia,788,33,Canada,124,5610,Import quantity,0111,Wheat,2018,t,22414.96,22414960,A,Official value,positive
+import_pairs.csv,72,TM,222,Tunisia,788,33,Canada,124,5610,Import quantity,0111,Wheat,2019,t,210273,210273000,A,Official value,positive
+import_pairs.csv,73,TM,222,Tunisia,788,33,Canada,124,5610,Import quantity,0111,Wheat,2020,t,353965.8,353965800,A,Official value,positive
+import_pairs.csv,74,TM,222,Tunisia,788,68,France,250,5610,Import quantity,0111,Wheat,2018,t,73445.02,73445020,A,Official value,positive
+import_pairs.csv,75,TM,222,Tunisia,788,68,France,250,5610,Import quantity,0111,Wheat,2019,t,237356,237356000,A,Official value,positive
+import_pairs.csv,76,TM,222,Tunisia,788,68,France,250,5610,Import quantity,0111,Wheat,2020,t,143204,143204000,A,Official value,positive
+import_pairs.csv,77,TM,222,Tunisia,788,108,Kazakhstan,398,5610,Import quantity,0111,Wheat,2018,t,51995.5,51995500,A,Official value,positive
+import_pairs.csv,78,TM,222,Tunisia,788,108,Kazakhstan,398,5610,Import quantity,0111,Wheat,2019,t,35114.5,35114500,A,Official value,positive
+import_pairs.csv,79,TM,222,Tunisia,788,108,Kazakhstan,398,5610,Import quantity,0111,Wheat,2020,t,7230.72,7230720,A,Official value,positive
+import_pairs.csv,80,TM,222,Tunisia,788,183,Romania,642,5610,Import quantity,0111,Wheat,2018,,,,,,missing
+import_pairs.csv,81,TM,222,Tunisia,788,183,Romania,642,5610,Import quantity,0111,Wheat,2019,t,27500,27500000,A,Official value,positive
+import_pairs.csv,82,TM,222,Tunisia,788,183,Romania,642,5610,Import quantity,0111,Wheat,2020,t,27250.1,27250100,A,Official value,positive
+import_pairs.csv,83,TM,222,Tunisia,788,185,Russian Federation,643,5610,Import quantity,0111,Wheat,2018,t,211077,211077000,A,Official value,positive
+import_pairs.csv,84,TM,222,Tunisia,788,185,Russian Federation,643,5610,Import quantity,0111,Wheat,2019,t,78962.3,78962300,A,Official value,positive
+import_pairs.csv,85,TM,222,Tunisia,788,185,Russian Federation,643,5610,Import quantity,0111,Wheat,2020,t,56623.98,56623980,A,Official value,positive
+import_pairs.csv,86,TM,222,Tunisia,788,230,Ukraine,804,5610,Import quantity,0111,Wheat,2018,t,1092963.82,1092963820,A,Official value,positive
+import_pairs.csv,87,TM,222,Tunisia,788,230,Ukraine,804,5610,Import quantity,0111,Wheat,2019,t,983202,983202000,A,Official value,positive
+import_pairs.csv,88,TM,222,Tunisia,788,230,Ukraine,804,5610,Import quantity,0111,Wheat,2020,t,1170955.4,1170955400,A,Official value,positive
+import_pairs.csv,89,TM,222,Tunisia,788,231,United States of America,840,5610,Import quantity,0111,Wheat,2018,,,,,,missing
+import_pairs.csv,90,TM,222,Tunisia,788,231,United States of America,840,5610,Import quantity,0111,Wheat,2019,t,10073.3,10073300,A,Official value,positive
+import_pairs.csv,91,TM,222,Tunisia,788,231,United States of America,840,5610,Import quantity,0111,Wheat,2020,t,41803.1,41803100,A,Official value,positive
+export_mirrors.csv,2,TM,9,Argentina,032,59,Egypt,818,5910,Export quantity,0111,Wheat,2019,,,,,,missing
+export_mirrors.csv,3,TM,9,Argentina,032,59,Egypt,818,5910,Export quantity,0111,Wheat,2020,,,,,,missing
+export_mirrors.csv,4,TM,9,Argentina,032,143,Morocco,504,5910,Export quantity,0111,Wheat,2019,t,92350,92350000,A,Official value,positive
+export_mirrors.csv,5,TM,9,Argentina,032,143,Morocco,504,5910,Export quantity,0111,Wheat,2020,,,,,,missing
+export_mirrors.csv,6,TM,9,Argentina,032,222,Tunisia,788,5910,Export quantity,0111,Wheat,2019,,,,,,missing
+export_mirrors.csv,7,TM,9,Argentina,032,222,Tunisia,788,5910,Export quantity,0111,Wheat,2020,,,,,,missing
+export_mirrors.csv,8,TM,10,Australia,036,59,Egypt,818,5910,Export quantity,0111,Wheat,2019,t,66710.9,66710900,A,Official value,positive
+export_mirrors.csv,9,TM,10,Australia,036,59,Egypt,818,5910,Export quantity,0111,Wheat,2020,t,292105.46,292105460,A,Official value,positive
+export_mirrors.csv,10,TM,10,Australia,036,143,Morocco,504,5910,Export quantity,0111,Wheat,2019,,,,,,missing
+export_mirrors.csv,11,TM,10,Australia,036,143,Morocco,504,5910,Export quantity,0111,Wheat,2020,,,,,,missing
+export_mirrors.csv,12,TM,10,Australia,036,222,Tunisia,788,5910,Export quantity,0111,Wheat,2019,,,,,,missing
+export_mirrors.csv,13,TM,10,Australia,036,222,Tunisia,788,5910,Export quantity,0111,Wheat,2020,,,,,,missing
+export_mirrors.csv,14,TM,27,Bulgaria,100,59,Egypt,818,5910,Export quantity,0111,Wheat,2019,t,40016.2,40016200,A,Official value,positive
+export_mirrors.csv,15,TM,27,Bulgaria,100,59,Egypt,818,5910,Export quantity,0111,Wheat,2020,t,52551,52551000,A,Official value,positive
+export_mirrors.csv,16,TM,27,Bulgaria,100,143,Morocco,504,5910,Export quantity,0111,Wheat,2019,t,15005,15005000,A,Official value,positive
+export_mirrors.csv,17,TM,27,Bulgaria,100,143,Morocco,504,5910,Export quantity,0111,Wheat,2020,,,,,,missing
+export_mirrors.csv,18,TM,27,Bulgaria,100,222,Tunisia,788,5910,Export quantity,0111,Wheat,2019,t,93813.96,93813960,A,Official value,positive
+export_mirrors.csv,19,TM,27,Bulgaria,100,222,Tunisia,788,5910,Export quantity,0111,Wheat,2020,t,92358.49,92358490,A,Official value,positive
+export_mirrors.csv,20,TM,33,Canada,124,59,Egypt,818,5910,Export quantity,0111,Wheat,2019,t,63584,63584000,A,Official value,positive
+export_mirrors.csv,21,TM,33,Canada,124,59,Egypt,818,5910,Export quantity,0111,Wheat,2020,t,35324,35324000,A,Official value,positive
+export_mirrors.csv,22,TM,33,Canada,124,143,Morocco,504,5910,Export quantity,0111,Wheat,2019,t,799052,799052000,A,Official value,positive
+export_mirrors.csv,23,TM,33,Canada,124,143,Morocco,504,5910,Export quantity,0111,Wheat,2020,t,1094361,1094361000,A,Official value,positive
+export_mirrors.csv,24,TM,33,Canada,124,222,Tunisia,788,5910,Export quantity,0111,Wheat,2019,t,181781,181781000,A,Official value,positive
+export_mirrors.csv,25,TM,33,Canada,124,222,Tunisia,788,5910,Export quantity,0111,Wheat,2020,t,325813.7,325813700,I,Value imputed by a receiving agency,positive
+export_mirrors.csv,26,TM,68,France,250,59,Egypt,818,5910,Export quantity,0111,Wheat,2019,t,751330,751330000,A,Official value,positive
+export_mirrors.csv,27,TM,68,France,250,59,Egypt,818,5910,Export quantity,0111,Wheat,2020,t,746567,746567000,A,Official value,positive
+export_mirrors.csv,28,TM,68,France,250,143,Morocco,504,5910,Export quantity,0111,Wheat,2019,t,1638549.16,1638549160,A,Official value,positive
+export_mirrors.csv,29,TM,68,France,250,143,Morocco,504,5910,Export quantity,0111,Wheat,2020,t,1715346.83,1715346830,A,Official value,positive
+export_mirrors.csv,30,TM,68,France,250,222,Tunisia,788,5910,Export quantity,0111,Wheat,2019,t,268702.87,268702870,A,Official value,positive
+export_mirrors.csv,31,TM,68,France,250,222,Tunisia,788,5910,Export quantity,0111,Wheat,2020,t,61942.57,61942570,A,Official value,positive
+export_mirrors.csv,32,TM,108,Kazakhstan,398,59,Egypt,818,5910,Export quantity,0111,Wheat,2019,,,,,,missing
+export_mirrors.csv,33,TM,108,Kazakhstan,398,59,Egypt,818,5910,Export quantity,0111,Wheat,2020,,,,,,missing
+export_mirrors.csv,34,TM,108,Kazakhstan,398,143,Morocco,504,5910,Export quantity,0111,Wheat,2019,,,,,,missing
+export_mirrors.csv,35,TM,108,Kazakhstan,398,143,Morocco,504,5910,Export quantity,0111,Wheat,2020,,,,,,missing
+export_mirrors.csv,36,TM,108,Kazakhstan,398,222,Tunisia,788,5910,Export quantity,0111,Wheat,2019,t,26805.9,26805900,A,Official value,positive
+export_mirrors.csv,37,TM,108,Kazakhstan,398,222,Tunisia,788,5910,Export quantity,0111,Wheat,2020,t,4393.07,4393070,A,Official value,positive
+export_mirrors.csv,38,TM,183,Romania,642,59,Egypt,818,5910,Export quantity,0111,Wheat,2019,t,1388086.24,1388086240,A,Official value,positive
+export_mirrors.csv,39,TM,183,Romania,642,59,Egypt,818,5910,Export quantity,0111,Wheat,2020,t,591522.17,591522170,A,Official value,positive
+export_mirrors.csv,40,TM,183,Romania,642,143,Morocco,504,5910,Export quantity,0111,Wheat,2019,,,,,,missing
+export_mirrors.csv,41,TM,183,Romania,642,143,Morocco,504,5910,Export quantity,0111,Wheat,2020,t,93674.8,93674800,A,Official value,positive
+export_mirrors.csv,42,TM,183,Romania,642,222,Tunisia,788,5910,Export quantity,0111,Wheat,2019,,,,,,missing
+export_mirrors.csv,43,TM,183,Romania,642,222,Tunisia,788,5910,Export quantity,0111,Wheat,2020,t,54500,54500000,A,Official value,positive
+export_mirrors.csv,44,TM,185,Russian Federation,643,59,Egypt,818,5910,Export quantity,0111,Wheat,2019,t,6129970,6129970000,A,Official value,positive
+export_mirrors.csv,45,TM,185,Russian Federation,643,59,Egypt,818,5910,Export quantity,0111,Wheat,2020,t,8254555.42,8254555420,A,Official value,positive
+export_mirrors.csv,46,TM,185,Russian Federation,643,143,Morocco,504,5910,Export quantity,0111,Wheat,2019,t,453922.77,453922770,A,Official value,positive
+export_mirrors.csv,47,TM,185,Russian Federation,643,143,Morocco,504,5910,Export quantity,0111,Wheat,2020,t,426485.8,426485800,A,Official value,positive
+export_mirrors.csv,48,TM,185,Russian Federation,643,222,Tunisia,788,5910,Export quantity,0111,Wheat,2019,t,79310,79310000,A,Official value,positive
+export_mirrors.csv,49,TM,185,Russian Federation,643,222,Tunisia,788,5910,Export quantity,0111,Wheat,2020,t,111266.8,111266800,A,Official value,positive
+export_mirrors.csv,50,TM,230,Ukraine,804,59,Egypt,818,5910,Export quantity,0111,Wheat,2019,t,3537990.84,3537990840,A,Official value,positive
+export_mirrors.csv,51,TM,230,Ukraine,804,59,Egypt,818,5910,Export quantity,0111,Wheat,2020,t,3075223.92,3075223920,A,Official value,positive
+export_mirrors.csv,52,TM,230,Ukraine,804,143,Morocco,504,5910,Export quantity,0111,Wheat,2019,t,904993.17,904993170,A,Official value,positive
+export_mirrors.csv,53,TM,230,Ukraine,804,143,Morocco,504,5910,Export quantity,0111,Wheat,2020,t,952038.58,952038580,A,Official value,positive
+export_mirrors.csv,54,TM,230,Ukraine,804,222,Tunisia,788,5910,Export quantity,0111,Wheat,2019,t,1017242.38,1017242380,A,Official value,positive
+export_mirrors.csv,55,TM,230,Ukraine,804,222,Tunisia,788,5910,Export quantity,0111,Wheat,2020,t,984016.14,984016140,A,Official value,positive
+export_mirrors.csv,56,TM,231,United States of America,840,59,Egypt,818,5910,Export quantity,0111,Wheat,2019,t,827918.43,827918430,A,Official value,positive
+export_mirrors.csv,57,TM,231,United States of America,840,59,Egypt,818,5910,Export quantity,0111,Wheat,2020,t,50722,50722000,A,Official value,positive
+export_mirrors.csv,58,TM,231,United States of America,840,143,Morocco,504,5910,Export quantity,0111,Wheat,2019,t,32240,32240000,A,Official value,positive
+export_mirrors.csv,59,TM,231,United States of America,840,143,Morocco,504,5910,Export quantity,0111,Wheat,2020,t,153,153000,A,Official value,positive
+export_mirrors.csv,60,TM,231,United States of America,840,222,Tunisia,788,5910,Export quantity,0111,Wheat,2019,t,31108,31108000,A,Official value,positive
+export_mirrors.csv,61,TM,231,United States of America,840,222,Tunisia,788,5910,Export quantity,0111,Wheat,2020,t,30416,30416000,A,Official value,positive
+world_imports.csv,2,TCL,59,Egypt,818,,,,5610,Import quantity,0111,Wheat,2018,t,12144513.54,12144513540,I,Value imputed by a receiving agency,positive
+world_imports.csv,3,TCL,59,Egypt,818,,,,5610,Import quantity,0111,Wheat,2019,t,10424423.36,10424423360,I,Value imputed by a receiving agency,positive
+world_imports.csv,4,TCL,59,Egypt,818,,,,5610,Import quantity,0111,Wheat,2020,t,8969215.42,8969215420,I,Value imputed by a receiving agency,positive
+world_imports.csv,5,TCL,143,Morocco,504,,,,5610,Import quantity,0111,Wheat,2018,t,3851008.7,3851008700,I,Value imputed by a receiving agency,positive
+world_imports.csv,6,TCL,143,Morocco,504,,,,5610,Import quantity,0111,Wheat,2019,t,3844805.77,3844805770,A,Official value,positive
+world_imports.csv,7,TCL,143,Morocco,504,,,,5610,Import quantity,0111,Wheat,2020,t,5521529.24,5521529240,A,Official value,positive
+world_imports.csv,8,TCL,222,Tunisia,788,,,,5610,Import quantity,0111,Wheat,2018,t,1982361.93,1982361930,A,Official value,positive
+world_imports.csv,9,TCL,222,Tunisia,788,,,,5610,Import quantity,0111,Wheat,2019,t,1848993.46,1848993460,A,Official value,positive
+world_imports.csv,10,TCL,222,Tunisia,788,,,,5610,Import quantity,0111,Wheat,2020,t,2237133.82,2237133820,A,Official value,positive
+prior_world_exports.csv,2,TCL,9,Argentina,032,,,,5910,Export quantity,0111,Wheat,2018,t,11724765.36,11724765360,A,Official value,positive
+prior_world_exports.csv,3,TCL,9,Argentina,032,,,,5910,Export quantity,0111,Wheat,2019,t,10542597.82,10542597820,A,Official value,positive
+prior_world_exports.csv,4,TCL,10,Australia,036,,,,5910,Export quantity,0111,Wheat,2018,t,12352837.22,12352837220,A,Official value,positive
+prior_world_exports.csv,5,TCL,10,Australia,036,,,,5910,Export quantity,0111,Wheat,2019,t,9591795.62,9591795620,A,Official value,positive
+prior_world_exports.csv,6,TCL,27,Bulgaria,100,,,,5910,Export quantity,0111,Wheat,2018,t,4170661.71,4170661710,A,Official value,positive
+prior_world_exports.csv,7,TCL,27,Bulgaria,100,,,,5910,Export quantity,0111,Wheat,2019,t,4883530.36,4883530360,A,Official value,positive
+prior_world_exports.csv,8,TCL,33,Canada,124,,,,5910,Export quantity,0111,Wheat,2018,t,22874183.37,22874183370,A,Official value,positive
+prior_world_exports.csv,9,TCL,33,Canada,124,,,,5910,Export quantity,0111,Wheat,2019,t,22805300.78,22805300780,I,Value imputed by a receiving agency,positive
+prior_world_exports.csv,10,TCL,68,France,250,,,,5910,Export quantity,0111,Wheat,2018,t,18940343.32,18940343320,A,Official value,positive
+prior_world_exports.csv,11,TCL,68,France,250,,,,5910,Export quantity,0111,Wheat,2019,t,19956974.34,19956974340,A,Official value,positive
+prior_world_exports.csv,12,TCL,108,Kazakhstan,398,,,,5910,Export quantity,0111,Wheat,2018,t,6198354.43,6198354430,A,Official value,positive
+prior_world_exports.csv,13,TCL,108,Kazakhstan,398,,,,5910,Export quantity,0111,Wheat,2019,t,5375939.61,5375939610,A,Official value,positive
+prior_world_exports.csv,14,TCL,183,Romania,642,,,,5910,Export quantity,0111,Wheat,2018,t,5880584.49,5880584490,A,Official value,positive
+prior_world_exports.csv,15,TCL,183,Romania,642,,,,5910,Export quantity,0111,Wheat,2019,t,6103187.93,6103187930,A,Official value,positive
+prior_world_exports.csv,16,TCL,185,Russian Federation,643,,,,5910,Export quantity,0111,Wheat,2018,t,43965626.39,43965626390,A,Official value,positive
+prior_world_exports.csv,17,TCL,185,Russian Federation,643,,,,5910,Export quantity,0111,Wheat,2019,t,31873169.71,31873169710,A,Official value,positive
+prior_world_exports.csv,18,TCL,230,Ukraine,804,,,,5910,Export quantity,0111,Wheat,2018,t,16373388.59,16373388590,A,Official value,positive
+prior_world_exports.csv,19,TCL,230,Ukraine,804,,,,5910,Export quantity,0111,Wheat,2019,t,20022073.18,20022073180,A,Official value,positive
+prior_world_exports.csv,20,TCL,231,United States of America,840,,,,5910,Export quantity,0111,Wheat,2018,t,22499005.58,22499005580,A,Official value,positive
+prior_world_exports.csv,21,TCL,231,United States of America,840,,,,5910,Export quantity,0111,Wheat,2019,t,27068607.39,27068607390,A,Official value,positive

@@ -1,0 +1,2144 @@
+[
+  {
+    "name": "coverage_and_residual",
+    "artists": [
+      {
+        "gid": "source-0-0",
+        "file": "data/bounds_support.csv",
+        "path": [
+          "coverage"
+        ],
+        "query": {
+          "year": "2019",
+          "importer": "59"
+        },
+        "factor": "100",
+        "value": 98.21478998335694,
+        "left": 0.0,
+        "position": 0,
+        "thickness": 0.58,
+        "label": "98.214790",
+        "format": ".6f",
+        "category": "Egypt / 2019",
+        "axis_points": {
+          "left": 172.8,
+          "top": 104.97600000000001,
+          "width": 213.64363636363635,
+          "height": 206.06400000000002,
+          "xlim": [
+            0.0,
+            122.0
+          ],
+          "ylim": [
+            5.569,
+            -0.569
+          ]
+        }
+      },
+      {
+        "gid": "source-0-1",
+        "file": "data/bounds_support.csv",
+        "path": [
+          "residual_kg"
+        ],
+        "query": {
+          "year": "2019",
+          "importer": "59"
+        },
+        "factor": "1/1000",
+        "value": 186097.85,
+        "left": 0.0,
+        "position": 0,
+        "thickness": 0.58,
+        "label": "186,097.85",
+        "format": ",.2f",
+        "category": "Egypt / 2019",
+        "axis_points": {
+          "left": 546.6763636363636,
+          "top": 104.97600000000001,
+          "width": 213.6436363636363,
+          "height": 206.06400000000002,
+          "xlim": [
+            0.0,
+            1700000.0
+          ],
+          "ylim": [
+            5.569,
+            -0.569
+          ]
+        }
+      },
+      {
+        "gid": "source-0-2",
+        "file": "data/bounds_support.csv",
+        "path": [
+          "coverage"
+        ],
+        "query": {
+          "year": "2019",
+          "importer": "143"
+        },
+        "factor": "100",
+        "value": 96.42261668786458,
+        "left": 0.0,
+        "position": 1,
+        "thickness": 0.58,
+        "label": "96.422617",
+        "format": ".6f",
+        "category": "Morocco / 2019",
+        "axis_points": {
+          "left": 172.8,
+          "top": 104.97600000000001,
+          "width": 213.64363636363635,
+          "height": 206.06400000000002,
+          "xlim": [
+            0.0,
+            122.0
+          ],
+          "ylim": [
+            5.569,
+            -0.569
+          ]
+        }
+      },
+      {
+        "gid": "source-0-3",
+        "file": "data/bounds_support.csv",
+        "path": [
+          "residual_kg"
+        ],
+        "query": {
+          "year": "2019",
+          "importer": "143"
+        },
+        "factor": "1/1000",
+        "value": 137543.44,
+        "left": 0.0,
+        "position": 1,
+        "thickness": 0.58,
+        "label": "137,543.44",
+        "format": ",.2f",
+        "category": "Morocco / 2019",
+        "axis_points": {
+          "left": 546.6763636363636,
+          "top": 104.97600000000001,
+          "width": 213.6436363636363,
+          "height": 206.06400000000002,
+          "xlim": [
+            0.0,
+            1700000.0
+          ],
+          "ylim": [
+            5.569,
+            -0.569
+          ]
+        }
+      },
+      {
+        "gid": "source-0-4",
+        "file": "data/bounds_support.csv",
+        "path": [
+          "coverage"
+        ],
+        "query": {
+          "year": "2019",
+          "importer": "222"
+        },
+        "factor": "100",
+        "value": 86.5387701263151,
+        "left": 0.0,
+        "position": 2,
+        "thickness": 0.58,
+        "label": "86.538770",
+        "format": ".6f",
+        "category": "Tunisia / 2019",
+        "axis_points": {
+          "left": 172.8,
+          "top": 104.97600000000001,
+          "width": 213.64363636363635,
+          "height": 206.06400000000002,
+          "xlim": [
+            0.0,
+            122.0
+          ],
+          "ylim": [
+            5.569,
+            -0.569
+          ]
+        }
+      },
+      {
+        "gid": "source-0-5",
+        "file": "data/bounds_support.csv",
+        "path": [
+          "residual_kg"
+        ],
+        "query": {
+          "year": "2019",
+          "importer": "222"
+        },
+        "factor": "1/1000",
+        "value": 248897.26,
+        "left": 0.0,
+        "position": 2,
+        "thickness": 0.58,
+        "label": "248,897.26",
+        "format": ",.2f",
+        "category": "Tunisia / 2019",
+        "axis_points": {
+          "left": 546.6763636363636,
+          "top": 104.97600000000001,
+          "width": 213.6436363636363,
+          "height": 206.06400000000002,
+          "xlim": [
+            0.0,
+            1700000.0
+          ],
+          "ylim": [
+            5.569,
+            -0.569
+          ]
+        }
+      },
+      {
+        "gid": "source-0-6",
+        "file": "data/bounds_support.csv",
+        "path": [
+          "coverage"
+        ],
+        "query": {
+          "year": "2020",
+          "importer": "59"
+        },
+        "factor": "100",
+        "value": 99.52788133613586,
+        "left": 0.0,
+        "position": 3,
+        "thickness": 0.58,
+        "label": "99.527881",
+        "format": ".6f",
+        "category": "Egypt / 2020",
+        "axis_points": {
+          "left": 172.8,
+          "top": 104.97600000000001,
+          "width": 213.64363636363635,
+          "height": 206.06400000000002,
+          "xlim": [
+            0.0,
+            122.0
+          ],
+          "ylim": [
+            5.569,
+            -0.569
+          ]
+        }
+      },
+      {
+        "gid": "source-0-7",
+        "file": "data/bounds_support.csv",
+        "path": [
+          "residual_kg"
+        ],
+        "query": {
+          "year": "2020",
+          "importer": "59"
+        },
+        "factor": "1/1000",
+        "value": 42345.34,
+        "left": 0.0,
+        "position": 3,
+        "thickness": 0.58,
+        "label": "42,345.34",
+        "format": ",.2f",
+        "category": "Egypt / 2020",
+        "axis_points": {
+          "left": 546.6763636363636,
+          "top": 104.97600000000001,
+          "width": 213.6436363636363,
+          "height": 206.06400000000002,
+          "xlim": [
+            0.0,
+            1700000.0
+          ],
+          "ylim": [
+            5.569,
+            -0.569
+          ]
+        }
+      },
+      {
+        "gid": "source-0-8",
+        "file": "data/bounds_support.csv",
+        "path": [
+          "coverage"
+        ],
+        "query": {
+          "year": "2020",
+          "importer": "143"
+        },
+        "factor": "100",
+        "value": 79.47849788077913,
+        "left": 0.0,
+        "position": 4,
+        "thickness": 0.58,
+        "label": "79.478498",
+        "format": ".6f",
+        "category": "Morocco / 2020",
+        "axis_points": {
+          "left": 172.8,
+          "top": 104.97600000000001,
+          "width": 213.64363636363635,
+          "height": 206.06400000000002,
+          "xlim": [
+            0.0,
+            122.0
+          ],
+          "ylim": [
+            5.569,
+            -0.569
+          ]
+        }
+      },
+      {
+        "gid": "source-0-9",
+        "file": "data/bounds_support.csv",
+        "path": [
+          "residual_kg"
+        ],
+        "query": {
+          "year": "2020",
+          "importer": "143"
+        },
+        "factor": "1/1000",
+        "value": 1133100.74,
+        "left": 0.0,
+        "position": 4,
+        "thickness": 0.58,
+        "label": "1,133,100.74",
+        "format": ",.2f",
+        "category": "Morocco / 2020",
+        "axis_points": {
+          "left": 546.6763636363636,
+          "top": 104.97600000000001,
+          "width": 213.6436363636363,
+          "height": 206.06400000000002,
+          "xlim": [
+            0.0,
+            1700000.0
+          ],
+          "ylim": [
+            5.569,
+            -0.569
+          ]
+        }
+      },
+      {
+        "gid": "source-0-10",
+        "file": "data/bounds_support.csv",
+        "path": [
+          "coverage"
+        ],
+        "query": {
+          "year": "2020",
+          "importer": "222"
+        },
+        "factor": "100",
+        "value": 86.02537509356503,
+        "left": 0.0,
+        "position": 5,
+        "thickness": 0.58,
+        "label": "86.025375",
+        "format": ".6f",
+        "category": "Tunisia / 2020",
+        "axis_points": {
+          "left": 172.8,
+          "top": 104.97600000000001,
+          "width": 213.64363636363635,
+          "height": 206.06400000000002,
+          "xlim": [
+            0.0,
+            122.0
+          ],
+          "ylim": [
+            5.569,
+            -0.569
+          ]
+        }
+      },
+      {
+        "gid": "source-0-11",
+        "file": "data/bounds_support.csv",
+        "path": [
+          "residual_kg"
+        ],
+        "query": {
+          "year": "2020",
+          "importer": "222"
+        },
+        "factor": "1/1000",
+        "value": 312631.06,
+        "left": 0.0,
+        "position": 5,
+        "thickness": 0.58,
+        "label": "312,631.06",
+        "format": ",.2f",
+        "category": "Tunisia / 2020",
+        "axis_points": {
+          "left": 546.6763636363636,
+          "top": 104.97600000000001,
+          "width": 213.6436363636363,
+          "height": 206.06400000000002,
+          "xlim": [
+            0.0,
+            1700000.0
+          ],
+          "ylim": [
+            5.569,
+            -0.569
+          ]
+        }
+      }
+    ],
+    "asset_sha256": {
+      "png": "ea43a386baf01eac7c94df117603706b1cc7e6ceca554a4c117548cfb8968746",
+      "svg": "dd6cb75e95a43d82ff720f001db523114ade9e470b080e02d4644aa4238d5b9f",
+      "pdf": "fc2b68e78638b88a12844b281eff329c3ef6816b78483fc7d8658aa4a2498869"
+    }
+  },
+  {
+    "name": "conditional_classes",
+    "artists": [
+      {
+        "gid": "source-1-0",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          0,
+          "classifications",
+          "KNOWN_NETWORK_SUFFICIENT"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 72.0,
+        "left": 0.0,
+        "position": 0,
+        "thickness": 0.58,
+        "label": "72",
+        "format": ".0f",
+        "category": "\u03b3 = 0",
+        "axis_points": {
+          "left": 93.60000000000001,
+          "top": 112.60799999999999,
+          "width": 263.2599118942731,
+          "height": 109.00528301886794,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-1",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          0,
+          "classifications",
+          "CONDITIONAL_SHORTFALL"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 48.0,
+        "left": 72.0,
+        "position": 0,
+        "thickness": 0.58,
+        "label": "48",
+        "format": ".0f",
+        "category": "\u03b3 = 0",
+        "axis_points": {
+          "left": 93.60000000000001,
+          "top": 112.60799999999999,
+          "width": 263.2599118942731,
+          "height": 109.00528301886794,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-2",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          0,
+          "classifications",
+          "UNRESOLVED_WITHOUT_OUTSIDE_CAPACITY"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 0.0,
+        "left": 120.0,
+        "position": 0,
+        "thickness": 0.58,
+        "label": "",
+        "format": ".0f",
+        "category": "\u03b3 = 0",
+        "axis_points": {
+          "left": 93.60000000000001,
+          "top": 112.60799999999999,
+          "width": 263.2599118942731,
+          "height": 109.00528301886794,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-3",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          0,
+          "classifications",
+          "ZERO_MODELED_LOSS"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 0.0,
+        "left": 120.0,
+        "position": 0,
+        "thickness": 0.58,
+        "label": "",
+        "format": ".0f",
+        "category": "\u03b3 = 0",
+        "axis_points": {
+          "left": 93.60000000000001,
+          "top": 112.60799999999999,
+          "width": 263.2599118942731,
+          "height": 109.00528301886794,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-4",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          1,
+          "classifications",
+          "KNOWN_NETWORK_SUFFICIENT"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 72.0,
+        "left": 0.0,
+        "position": 1,
+        "thickness": 0.58,
+        "label": "72",
+        "format": ".0f",
+        "category": "\u03b3 = 1/2",
+        "axis_points": {
+          "left": 93.60000000000001,
+          "top": 112.60799999999999,
+          "width": 263.2599118942731,
+          "height": 109.00528301886794,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-5",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          1,
+          "classifications",
+          "CONDITIONAL_SHORTFALL"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 36.0,
+        "left": 72.0,
+        "position": 1,
+        "thickness": 0.58,
+        "label": "36",
+        "format": ".0f",
+        "category": "\u03b3 = 1/2",
+        "axis_points": {
+          "left": 93.60000000000001,
+          "top": 112.60799999999999,
+          "width": 263.2599118942731,
+          "height": 109.00528301886794,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-6",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          1,
+          "classifications",
+          "UNRESOLVED_WITHOUT_OUTSIDE_CAPACITY"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 12.0,
+        "left": 108.0,
+        "position": 1,
+        "thickness": 0.58,
+        "label": "12",
+        "format": ".0f",
+        "category": "\u03b3 = 1/2",
+        "axis_points": {
+          "left": 93.60000000000001,
+          "top": 112.60799999999999,
+          "width": 263.2599118942731,
+          "height": 109.00528301886794,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-7",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          1,
+          "classifications",
+          "ZERO_MODELED_LOSS"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 0.0,
+        "left": 120.0,
+        "position": 1,
+        "thickness": 0.58,
+        "label": "",
+        "format": ".0f",
+        "category": "\u03b3 = 1/2",
+        "axis_points": {
+          "left": 93.60000000000001,
+          "top": 112.60799999999999,
+          "width": 263.2599118942731,
+          "height": 109.00528301886794,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-8",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          2,
+          "classifications",
+          "KNOWN_NETWORK_SUFFICIENT"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 72.0,
+        "left": 0.0,
+        "position": 2,
+        "thickness": 0.58,
+        "label": "72",
+        "format": ".0f",
+        "category": "\u03b3 = 1",
+        "axis_points": {
+          "left": 93.60000000000001,
+          "top": 112.60799999999999,
+          "width": 263.2599118942731,
+          "height": 109.00528301886794,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-9",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          2,
+          "classifications",
+          "CONDITIONAL_SHORTFALL"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 36.0,
+        "left": 72.0,
+        "position": 2,
+        "thickness": 0.58,
+        "label": "36",
+        "format": ".0f",
+        "category": "\u03b3 = 1",
+        "axis_points": {
+          "left": 93.60000000000001,
+          "top": 112.60799999999999,
+          "width": 263.2599118942731,
+          "height": 109.00528301886794,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-10",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          2,
+          "classifications",
+          "UNRESOLVED_WITHOUT_OUTSIDE_CAPACITY"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 12.0,
+        "left": 108.0,
+        "position": 2,
+        "thickness": 0.58,
+        "label": "12",
+        "format": ".0f",
+        "category": "\u03b3 = 1",
+        "axis_points": {
+          "left": 93.60000000000001,
+          "top": 112.60799999999999,
+          "width": 263.2599118942731,
+          "height": 109.00528301886794,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-11",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          2,
+          "classifications",
+          "ZERO_MODELED_LOSS"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 0.0,
+        "left": 120.0,
+        "position": 2,
+        "thickness": 0.58,
+        "label": "",
+        "format": ".0f",
+        "category": "\u03b3 = 1",
+        "axis_points": {
+          "left": 93.60000000000001,
+          "top": 112.60799999999999,
+          "width": 263.2599118942731,
+          "height": 109.00528301886794,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-12",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          3,
+          "classifications",
+          "KNOWN_NETWORK_SUFFICIENT"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 69.0,
+        "left": 0.0,
+        "position": 0,
+        "thickness": 0.58,
+        "label": "69",
+        "format": ".0f",
+        "category": "\u03b3 = 0",
+        "axis_points": {
+          "left": 427.9400881057269,
+          "top": 112.60799999999999,
+          "width": 263.259911894273,
+          "height": 109.00528301886794,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-13",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          3,
+          "classifications",
+          "CONDITIONAL_SHORTFALL"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 51.0,
+        "left": 69.0,
+        "position": 0,
+        "thickness": 0.58,
+        "label": "51",
+        "format": ".0f",
+        "category": "\u03b3 = 0",
+        "axis_points": {
+          "left": 427.9400881057269,
+          "top": 112.60799999999999,
+          "width": 263.259911894273,
+          "height": 109.00528301886794,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-14",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          3,
+          "classifications",
+          "UNRESOLVED_WITHOUT_OUTSIDE_CAPACITY"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 0.0,
+        "left": 120.0,
+        "position": 0,
+        "thickness": 0.58,
+        "label": "",
+        "format": ".0f",
+        "category": "\u03b3 = 0",
+        "axis_points": {
+          "left": 427.9400881057269,
+          "top": 112.60799999999999,
+          "width": 263.259911894273,
+          "height": 109.00528301886794,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-15",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          3,
+          "classifications",
+          "ZERO_MODELED_LOSS"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 0.0,
+        "left": 120.0,
+        "position": 0,
+        "thickness": 0.58,
+        "label": "",
+        "format": ".0f",
+        "category": "\u03b3 = 0",
+        "axis_points": {
+          "left": 427.9400881057269,
+          "top": 112.60799999999999,
+          "width": 263.259911894273,
+          "height": 109.00528301886794,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-16",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          4,
+          "classifications",
+          "KNOWN_NETWORK_SUFFICIENT"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 69.0,
+        "left": 0.0,
+        "position": 1,
+        "thickness": 0.58,
+        "label": "69",
+        "format": ".0f",
+        "category": "\u03b3 = 1/2",
+        "axis_points": {
+          "left": 427.9400881057269,
+          "top": 112.60799999999999,
+          "width": 263.259911894273,
+          "height": 109.00528301886794,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-17",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          4,
+          "classifications",
+          "CONDITIONAL_SHORTFALL"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 37.0,
+        "left": 69.0,
+        "position": 1,
+        "thickness": 0.58,
+        "label": "37",
+        "format": ".0f",
+        "category": "\u03b3 = 1/2",
+        "axis_points": {
+          "left": 427.9400881057269,
+          "top": 112.60799999999999,
+          "width": 263.259911894273,
+          "height": 109.00528301886794,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-18",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          4,
+          "classifications",
+          "UNRESOLVED_WITHOUT_OUTSIDE_CAPACITY"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 14.0,
+        "left": 106.0,
+        "position": 1,
+        "thickness": 0.58,
+        "label": "14",
+        "format": ".0f",
+        "category": "\u03b3 = 1/2",
+        "axis_points": {
+          "left": 427.9400881057269,
+          "top": 112.60799999999999,
+          "width": 263.259911894273,
+          "height": 109.00528301886794,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-19",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          4,
+          "classifications",
+          "ZERO_MODELED_LOSS"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 0.0,
+        "left": 120.0,
+        "position": 1,
+        "thickness": 0.58,
+        "label": "",
+        "format": ".0f",
+        "category": "\u03b3 = 1/2",
+        "axis_points": {
+          "left": 427.9400881057269,
+          "top": 112.60799999999999,
+          "width": 263.259911894273,
+          "height": 109.00528301886794,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-20",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          5,
+          "classifications",
+          "KNOWN_NETWORK_SUFFICIENT"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 69.0,
+        "left": 0.0,
+        "position": 2,
+        "thickness": 0.58,
+        "label": "69",
+        "format": ".0f",
+        "category": "\u03b3 = 1",
+        "axis_points": {
+          "left": 427.9400881057269,
+          "top": 112.60799999999999,
+          "width": 263.259911894273,
+          "height": 109.00528301886794,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-21",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          5,
+          "classifications",
+          "CONDITIONAL_SHORTFALL"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 34.0,
+        "left": 69.0,
+        "position": 2,
+        "thickness": 0.58,
+        "label": "34",
+        "format": ".0f",
+        "category": "\u03b3 = 1",
+        "axis_points": {
+          "left": 427.9400881057269,
+          "top": 112.60799999999999,
+          "width": 263.259911894273,
+          "height": 109.00528301886794,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-22",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          5,
+          "classifications",
+          "UNRESOLVED_WITHOUT_OUTSIDE_CAPACITY"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 17.0,
+        "left": 103.0,
+        "position": 2,
+        "thickness": 0.58,
+        "label": "17",
+        "format": ".0f",
+        "category": "\u03b3 = 1",
+        "axis_points": {
+          "left": 427.9400881057269,
+          "top": 112.60799999999999,
+          "width": 263.259911894273,
+          "height": 109.00528301886794,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-23",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          5,
+          "classifications",
+          "ZERO_MODELED_LOSS"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 0.0,
+        "left": 120.0,
+        "position": 2,
+        "thickness": 0.58,
+        "label": "",
+        "format": ".0f",
+        "category": "\u03b3 = 1",
+        "axis_points": {
+          "left": 427.9400881057269,
+          "top": 112.60799999999999,
+          "width": 263.259911894273,
+          "height": 109.00528301886794,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-24",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          6,
+          "classifications",
+          "KNOWN_NETWORK_SUFFICIENT"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 65.0,
+        "left": 0.0,
+        "position": 0,
+        "thickness": 0.58,
+        "label": "65",
+        "format": ".0f",
+        "category": "\u03b3 = 0",
+        "axis_points": {
+          "left": 93.60000000000001,
+          "top": 292.4667169811321,
+          "width": 263.2599118942731,
+          "height": 109.00528301886791,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-25",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          6,
+          "classifications",
+          "CONDITIONAL_SHORTFALL"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 43.0,
+        "left": 65.0,
+        "position": 0,
+        "thickness": 0.58,
+        "label": "43",
+        "format": ".0f",
+        "category": "\u03b3 = 0",
+        "axis_points": {
+          "left": 93.60000000000001,
+          "top": 292.4667169811321,
+          "width": 263.2599118942731,
+          "height": 109.00528301886791,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-26",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          6,
+          "classifications",
+          "UNRESOLVED_WITHOUT_OUTSIDE_CAPACITY"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 0.0,
+        "left": 108.0,
+        "position": 0,
+        "thickness": 0.58,
+        "label": "",
+        "format": ".0f",
+        "category": "\u03b3 = 0",
+        "axis_points": {
+          "left": 93.60000000000001,
+          "top": 292.4667169811321,
+          "width": 263.2599118942731,
+          "height": 109.00528301886791,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-27",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          6,
+          "classifications",
+          "ZERO_MODELED_LOSS"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 12.0,
+        "left": 108.0,
+        "position": 0,
+        "thickness": 0.58,
+        "label": "12",
+        "format": ".0f",
+        "category": "\u03b3 = 0",
+        "axis_points": {
+          "left": 93.60000000000001,
+          "top": 292.4667169811321,
+          "width": 263.2599118942731,
+          "height": 109.00528301886791,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-28",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          7,
+          "classifications",
+          "KNOWN_NETWORK_SUFFICIENT"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 65.0,
+        "left": 0.0,
+        "position": 1,
+        "thickness": 0.58,
+        "label": "65",
+        "format": ".0f",
+        "category": "\u03b3 = 1/2",
+        "axis_points": {
+          "left": 93.60000000000001,
+          "top": 292.4667169811321,
+          "width": 263.2599118942731,
+          "height": 109.00528301886791,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-29",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          7,
+          "classifications",
+          "CONDITIONAL_SHORTFALL"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 40.0,
+        "left": 65.0,
+        "position": 1,
+        "thickness": 0.58,
+        "label": "40",
+        "format": ".0f",
+        "category": "\u03b3 = 1/2",
+        "axis_points": {
+          "left": 93.60000000000001,
+          "top": 292.4667169811321,
+          "width": 263.2599118942731,
+          "height": 109.00528301886791,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-30",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          7,
+          "classifications",
+          "UNRESOLVED_WITHOUT_OUTSIDE_CAPACITY"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 3.0,
+        "left": 105.0,
+        "position": 1,
+        "thickness": 0.58,
+        "label": "3",
+        "format": ".0f",
+        "category": "\u03b3 = 1/2",
+        "axis_points": {
+          "left": 93.60000000000001,
+          "top": 292.4667169811321,
+          "width": 263.2599118942731,
+          "height": 109.00528301886791,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-31",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          7,
+          "classifications",
+          "ZERO_MODELED_LOSS"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 12.0,
+        "left": 108.0,
+        "position": 1,
+        "thickness": 0.58,
+        "label": "12",
+        "format": ".0f",
+        "category": "\u03b3 = 1/2",
+        "axis_points": {
+          "left": 93.60000000000001,
+          "top": 292.4667169811321,
+          "width": 263.2599118942731,
+          "height": 109.00528301886791,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-32",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          8,
+          "classifications",
+          "KNOWN_NETWORK_SUFFICIENT"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 65.0,
+        "left": 0.0,
+        "position": 2,
+        "thickness": 0.58,
+        "label": "65",
+        "format": ".0f",
+        "category": "\u03b3 = 1",
+        "axis_points": {
+          "left": 93.60000000000001,
+          "top": 292.4667169811321,
+          "width": 263.2599118942731,
+          "height": 109.00528301886791,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-33",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          8,
+          "classifications",
+          "CONDITIONAL_SHORTFALL"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 37.0,
+        "left": 65.0,
+        "position": 2,
+        "thickness": 0.58,
+        "label": "37",
+        "format": ".0f",
+        "category": "\u03b3 = 1",
+        "axis_points": {
+          "left": 93.60000000000001,
+          "top": 292.4667169811321,
+          "width": 263.2599118942731,
+          "height": 109.00528301886791,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-34",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          8,
+          "classifications",
+          "UNRESOLVED_WITHOUT_OUTSIDE_CAPACITY"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 6.0,
+        "left": 102.0,
+        "position": 2,
+        "thickness": 0.58,
+        "label": "6",
+        "format": ".0f",
+        "category": "\u03b3 = 1",
+        "axis_points": {
+          "left": 93.60000000000001,
+          "top": 292.4667169811321,
+          "width": 263.2599118942731,
+          "height": 109.00528301886791,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-35",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          8,
+          "classifications",
+          "ZERO_MODELED_LOSS"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 12.0,
+        "left": 108.0,
+        "position": 2,
+        "thickness": 0.58,
+        "label": "12",
+        "format": ".0f",
+        "category": "\u03b3 = 1",
+        "axis_points": {
+          "left": 93.60000000000001,
+          "top": 292.4667169811321,
+          "width": 263.2599118942731,
+          "height": 109.00528301886791,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-36",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          9,
+          "classifications",
+          "KNOWN_NETWORK_SUFFICIENT"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 63.0,
+        "left": 0.0,
+        "position": 0,
+        "thickness": 0.58,
+        "label": "63",
+        "format": ".0f",
+        "category": "\u03b3 = 0",
+        "axis_points": {
+          "left": 427.9400881057269,
+          "top": 292.4667169811321,
+          "width": 263.259911894273,
+          "height": 109.00528301886791,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-37",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          9,
+          "classifications",
+          "CONDITIONAL_SHORTFALL"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 45.0,
+        "left": 63.0,
+        "position": 0,
+        "thickness": 0.58,
+        "label": "45",
+        "format": ".0f",
+        "category": "\u03b3 = 0",
+        "axis_points": {
+          "left": 427.9400881057269,
+          "top": 292.4667169811321,
+          "width": 263.259911894273,
+          "height": 109.00528301886791,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-38",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          9,
+          "classifications",
+          "UNRESOLVED_WITHOUT_OUTSIDE_CAPACITY"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 0.0,
+        "left": 108.0,
+        "position": 0,
+        "thickness": 0.58,
+        "label": "",
+        "format": ".0f",
+        "category": "\u03b3 = 0",
+        "axis_points": {
+          "left": 427.9400881057269,
+          "top": 292.4667169811321,
+          "width": 263.259911894273,
+          "height": 109.00528301886791,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-39",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          9,
+          "classifications",
+          "ZERO_MODELED_LOSS"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 12.0,
+        "left": 108.0,
+        "position": 0,
+        "thickness": 0.58,
+        "label": "12",
+        "format": ".0f",
+        "category": "\u03b3 = 0",
+        "axis_points": {
+          "left": 427.9400881057269,
+          "top": 292.4667169811321,
+          "width": 263.259911894273,
+          "height": 109.00528301886791,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-40",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          10,
+          "classifications",
+          "KNOWN_NETWORK_SUFFICIENT"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 63.0,
+        "left": 0.0,
+        "position": 1,
+        "thickness": 0.58,
+        "label": "63",
+        "format": ".0f",
+        "category": "\u03b3 = 1/2",
+        "axis_points": {
+          "left": 427.9400881057269,
+          "top": 292.4667169811321,
+          "width": 263.259911894273,
+          "height": 109.00528301886791,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-41",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          10,
+          "classifications",
+          "CONDITIONAL_SHORTFALL"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 42.0,
+        "left": 63.0,
+        "position": 1,
+        "thickness": 0.58,
+        "label": "42",
+        "format": ".0f",
+        "category": "\u03b3 = 1/2",
+        "axis_points": {
+          "left": 427.9400881057269,
+          "top": 292.4667169811321,
+          "width": 263.259911894273,
+          "height": 109.00528301886791,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-42",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          10,
+          "classifications",
+          "UNRESOLVED_WITHOUT_OUTSIDE_CAPACITY"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 3.0,
+        "left": 105.0,
+        "position": 1,
+        "thickness": 0.58,
+        "label": "3",
+        "format": ".0f",
+        "category": "\u03b3 = 1/2",
+        "axis_points": {
+          "left": 427.9400881057269,
+          "top": 292.4667169811321,
+          "width": 263.259911894273,
+          "height": 109.00528301886791,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-43",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          10,
+          "classifications",
+          "ZERO_MODELED_LOSS"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 12.0,
+        "left": 108.0,
+        "position": 1,
+        "thickness": 0.58,
+        "label": "12",
+        "format": ".0f",
+        "category": "\u03b3 = 1/2",
+        "axis_points": {
+          "left": 427.9400881057269,
+          "top": 292.4667169811321,
+          "width": 263.259911894273,
+          "height": 109.00528301886791,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-44",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          11,
+          "classifications",
+          "KNOWN_NETWORK_SUFFICIENT"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 63.0,
+        "left": 0.0,
+        "position": 2,
+        "thickness": 0.58,
+        "label": "63",
+        "format": ".0f",
+        "category": "\u03b3 = 1",
+        "axis_points": {
+          "left": 427.9400881057269,
+          "top": 292.4667169811321,
+          "width": 263.259911894273,
+          "height": 109.00528301886791,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-45",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          11,
+          "classifications",
+          "CONDITIONAL_SHORTFALL"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 39.0,
+        "left": 63.0,
+        "position": 2,
+        "thickness": 0.58,
+        "label": "39",
+        "format": ".0f",
+        "category": "\u03b3 = 1",
+        "axis_points": {
+          "left": 427.9400881057269,
+          "top": 292.4667169811321,
+          "width": 263.259911894273,
+          "height": 109.00528301886791,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-46",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          11,
+          "classifications",
+          "UNRESOLVED_WITHOUT_OUTSIDE_CAPACITY"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 6.0,
+        "left": 102.0,
+        "position": 2,
+        "thickness": 0.58,
+        "label": "6",
+        "format": ".0f",
+        "category": "\u03b3 = 1",
+        "axis_points": {
+          "left": 427.9400881057269,
+          "top": 292.4667169811321,
+          "width": 263.259911894273,
+          "height": 109.00528301886791,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      },
+      {
+        "gid": "source-1-47",
+        "file": "results/bounds/summary.json",
+        "path": [
+          "groups",
+          11,
+          "classifications",
+          "ZERO_MODELED_LOSS"
+        ],
+        "query": null,
+        "factor": "1",
+        "value": 12.0,
+        "left": 108.0,
+        "position": 2,
+        "thickness": 0.58,
+        "label": "12",
+        "format": ".0f",
+        "category": "\u03b3 = 1",
+        "axis_points": {
+          "left": 427.9400881057269,
+          "top": 292.4667169811321,
+          "width": 263.259911894273,
+          "height": 109.00528301886791,
+          "xlim": [
+            0.0,
+            120.0
+          ],
+          "ylim": [
+            2.419,
+            -0.419
+          ]
+        }
+      }
+    ],
+    "asset_sha256": {
+      "png": "0a0790354be0c0646b2f3fc09c12c8b9f0c4b04f6ed1b8389a756f4414ce536f",
+      "svg": "17f0a95ee8b1181c34e22ec6f245ad5948ef9126abbce754cb2c0a98d4d87a4b",
+      "pdf": "fd52717414b558afd2ff47c1425304c2c805153c5ae6385f0a6acba7e26c765b"
+    }
+  },
+  {
+    "name": "maximum_interval",
+    "artists": [
+      {
+        "gid": "source-2-0",
+        "file": "results/bounds/endpoints_2020.csv",
+        "path": [
+          "endpoint_covered_kg"
+        ],
+        "query": {
+          "case_id": "2020-import-0-0.5-33",
+          "gamma": "0"
+        },
+        "factor": "1/1000000000",
+        "value": 0.0,
+        "left": 0.0,
+        "position": 0,
+        "thickness": 0.58,
+        "label": "0.000000",
+        "format": ".6f",
+        "category": "Known network / \u03b3 = 0",
+        "axis_points": {
+          "left": 208.79999999999998,
+          "top": 96.768,
+          "width": 388.8,
+          "height": 172.79999999999998,
+          "xlim": [
+            0.0,
+            1.90504064
+          ],
+          "ylim": [
+            3.469,
+            -0.469
+          ]
+        }
+      },
+      {
+        "gid": "source-2-1",
+        "file": "results/bounds/endpoints_2020.csv",
+        "path": [
+          "endpoint_covered_kg"
+        ],
+        "query": {
+          "case_id": "2020-import-0-0.5-33",
+          "gamma": "1/2"
+        },
+        "factor": "1/1000000000",
+        "value": 0.7311886,
+        "left": 0.0,
+        "position": 1,
+        "thickness": 0.58,
+        "label": "0.731189",
+        "format": ".6f",
+        "category": "Half residual envelope",
+        "axis_points": {
+          "left": 208.79999999999998,
+          "top": 96.768,
+          "width": 388.8,
+          "height": 172.79999999999998,
+          "xlim": [
+            0.0,
+            1.90504064
+          ],
+          "ylim": [
+            3.469,
+            -0.469
+          ]
+        }
+      },
+      {
+        "gid": "source-2-2",
+        "file": "results/bounds/endpoints_2020.csv",
+        "path": [
+          "endpoint_covered_kg"
+        ],
+        "query": {
+          "case_id": "2020-import-0-0.5-33",
+          "gamma": "1"
+        },
+        "factor": "1/1000000000",
+        "value": 1.44697826,
+        "left": 0.0,
+        "position": 2,
+        "thickness": 0.58,
+        "label": "1.446978",
+        "format": ".6f",
+        "category": "Full residual envelope",
+        "axis_points": {
+          "left": 208.79999999999998,
+          "top": 96.768,
+          "width": 388.8,
+          "height": 172.79999999999998,
+          "xlim": [
+            0.0,
+            1.90504064
+          ],
+          "ylim": [
+            3.469,
+            -0.469
+          ]
+        }
+      },
+      {
+        "gid": "source-2-3",
+        "file": "results/bounds/endpoints_2020.csv",
+        "path": [
+          "demand_kg"
+        ],
+        "query": {
+          "case_id": "2020-import-0-0.5-33",
+          "gamma": "1"
+        },
+        "factor": "1/1000000000",
+        "value": 1.488313,
+        "left": 0.0,
+        "position": 3,
+        "thickness": 0.58,
+        "label": "1.488313",
+        "format": ".6f",
+        "category": "Unrestricted outside cap",
+        "axis_points": {
+          "left": 208.79999999999998,
+          "top": 96.768,
+          "width": 388.8,
+          "height": 172.79999999999998,
+          "xlim": [
+            0.0,
+            1.90504064
+          ],
+          "ylim": [
+            3.469,
+            -0.469
+          ]
+        }
+      }
+    ],
+    "asset_sha256": {
+      "png": "d8cae06a6df00cf1e281aeeb72ac2b1c3263e28506184af1ac7ab5cacc4fa267",
+      "svg": "278b9c9fea74b60ff1735c85c949b0c29507e44e0d4c08ebd854cd1642a89506",
+      "pdf": "0df2bee57ff20c30e39eb9b7ab1df329c613f8af1e9aa23bc9729c835f3d0a7f"
+    }
+  }
+]

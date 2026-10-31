@@ -1,0 +1,1272 @@
+{
+  "source": "UN Comtrade public preview, original HS 1001 country-level annual flow records",
+  "source_requests": [
+    {
+      "kind": "import_panel",
+      "year": 2018,
+      "reporter": 504,
+      "flow": "M",
+      "partners": [
+        0,
+        32,
+        36,
+        100,
+        124,
+        251,
+        398,
+        642,
+        643,
+        804,
+        842
+      ],
+      "file": "import_panel-2018-504.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2018&reporterCode=504&cmdCode=1001&flowCode=M&partnerCode=0%2C32%2C36%2C100%2C124%2C251%2C398%2C642%2C643%2C804%2C842&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:09:56.915977+00:00",
+      "completed_utc": "2026-10-30T19:09:57.745801+00:00",
+      "status": 200,
+      "bytes": 7779,
+      "sha256": "dd6cd1118d7c2b389c56e2197abf5c650ad3e3c3ac92570c71bdd0d80d8241fc",
+      "protocol_commit": "4bfd734cbde814916caef36fbb4347b0811cbb4a",
+      "python": "3.10.11",
+      "records": 8,
+      "net_weight_states": {
+        "positive": 8
+      },
+      "inherited_original": false
+    },
+    {
+      "kind": "import_panel",
+      "year": 2018,
+      "reporter": 788,
+      "flow": "M",
+      "partners": [
+        0,
+        32,
+        36,
+        100,
+        124,
+        251,
+        398,
+        642,
+        643,
+        804,
+        842
+      ],
+      "file": "import_panel-2018-788.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2018&reporterCode=788&cmdCode=1001&flowCode=M&partnerCode=0%2C32%2C36%2C100%2C124%2C251%2C398%2C642%2C643%2C804%2C842&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:10:07.746862+00:00",
+      "completed_utc": "2026-10-30T19:10:08.533765+00:00",
+      "status": 200,
+      "bytes": 7770,
+      "sha256": "699c53e6031d9a762d2bf9feb943031f4ad144da381e87c7fb32be00fdacb8a4",
+      "protocol_commit": "4bfd734cbde814916caef36fbb4347b0811cbb4a",
+      "python": "3.10.11",
+      "records": 8,
+      "net_weight_states": {
+        "positive": 8
+      },
+      "inherited_original": false
+    },
+    {
+      "kind": "import_panel",
+      "year": 2018,
+      "reporter": 818,
+      "flow": "M",
+      "partners": [
+        0,
+        32,
+        36,
+        100,
+        124,
+        251,
+        398,
+        642,
+        643,
+        804,
+        842
+      ],
+      "file": "import_panel-2018-818.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2018&reporterCode=818&cmdCode=1001&flowCode=M&partnerCode=0%2C32%2C36%2C100%2C124%2C251%2C398%2C642%2C643%2C804%2C842&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:10:18.535003+00:00",
+      "completed_utc": "2026-10-30T19:10:29.176726+00:00",
+      "status": 200,
+      "bytes": 7666,
+      "sha256": "08dd528d45a860d296761c760425dbf9a28b3d3e11926c3e30e700572232be26",
+      "protocol_commit": "4bfd734cbde814916caef36fbb4347b0811cbb4a",
+      "python": "3.10.11",
+      "records": 8,
+      "net_weight_states": {
+        "zero_unavailable": 3,
+        "positive": 5
+      },
+      "inherited_original": false
+    },
+    {
+      "kind": "import_panel",
+      "year": 2019,
+      "reporter": 504,
+      "flow": "M",
+      "partners": [
+        0,
+        32,
+        36,
+        100,
+        124,
+        251,
+        398,
+        642,
+        643,
+        804,
+        842
+      ],
+      "file": "import_panel-2019-504.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=504&cmdCode=1001&flowCode=M&partnerCode=0%2C32%2C36%2C100%2C124%2C251%2C398%2C642%2C643%2C804%2C842&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:10:39.178281+00:00",
+      "completed_utc": "2026-10-30T19:10:40.026058+00:00",
+      "status": 200,
+      "bytes": 7766,
+      "sha256": "93ca12aacd8676ee2c023df1ff5e81168a88439614a3e262c47c6a90f7b968fa",
+      "protocol_commit": "4bfd734cbde814916caef36fbb4347b0811cbb4a",
+      "python": "3.10.11",
+      "records": 8,
+      "net_weight_states": {
+        "positive": 8
+      },
+      "inherited_original": false
+    },
+    {
+      "kind": "import_panel",
+      "year": 2019,
+      "reporter": 788,
+      "flow": "M",
+      "partners": [
+        0,
+        32,
+        36,
+        100,
+        124,
+        251,
+        398,
+        642,
+        643,
+        804,
+        842
+      ],
+      "file": "import_panel-2019-788.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=788&cmdCode=1001&flowCode=M&partnerCode=0%2C32%2C36%2C100%2C124%2C251%2C398%2C642%2C643%2C804%2C842&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:10:50.028548+00:00",
+      "completed_utc": "2026-10-30T19:10:51.043287+00:00",
+      "status": 200,
+      "bytes": 8720,
+      "sha256": "9ae0c9d48f1f84e8df5c8b3cff983f152875c896a2fb694a813a8bd2999ec2bf",
+      "protocol_commit": "4bfd734cbde814916caef36fbb4347b0811cbb4a",
+      "python": "3.10.11",
+      "records": 9,
+      "net_weight_states": {
+        "positive": 9
+      },
+      "inherited_original": false
+    },
+    {
+      "kind": "import_panel",
+      "year": 2019,
+      "reporter": 818,
+      "flow": "M",
+      "partners": [
+        0,
+        32,
+        36,
+        100,
+        124,
+        251,
+        398,
+        642,
+        643,
+        804,
+        842
+      ],
+      "file": "import_panel-2019-818.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=818&cmdCode=1001&flowCode=M&partnerCode=0%2C32%2C36%2C100%2C124%2C251%2C398%2C642%2C643%2C804%2C842&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:11:01.044888+00:00",
+      "completed_utc": "2026-10-30T19:11:01.906122+00:00",
+      "status": 200,
+      "bytes": 8559,
+      "sha256": "a53717362d5ef00008c157d2852f6595ac7c6e3c993a7f2374d98dfbff7416a9",
+      "protocol_commit": "4bfd734cbde814916caef36fbb4347b0811cbb4a",
+      "python": "3.10.11",
+      "records": 9,
+      "net_weight_states": {
+        "json_null": 9
+      },
+      "inherited_original": false
+    },
+    {
+      "kind": "import_panel",
+      "year": 2020,
+      "reporter": 504,
+      "flow": "M",
+      "partners": [
+        0,
+        32,
+        36,
+        100,
+        124,
+        251,
+        398,
+        642,
+        643,
+        804,
+        842
+      ],
+      "file": "import_panel-2020-504.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2020&reporterCode=504&cmdCode=1001&flowCode=M&partnerCode=0%2C32%2C36%2C100%2C124%2C251%2C398%2C642%2C643%2C804%2C842&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:11:11.908168+00:00",
+      "completed_utc": "2026-10-30T19:11:12.787757+00:00",
+      "status": 200,
+      "bytes": 7759,
+      "sha256": "0670c7929315f54bb8fe240f90634dd16f5b38ff377ed8064f3c257bcdd60b7b",
+      "protocol_commit": "4bfd734cbde814916caef36fbb4347b0811cbb4a",
+      "python": "3.10.11",
+      "records": 8,
+      "net_weight_states": {
+        "positive": 8
+      },
+      "inherited_original": false
+    },
+    {
+      "kind": "import_panel",
+      "year": 2020,
+      "reporter": 788,
+      "flow": "M",
+      "partners": [
+        0,
+        32,
+        36,
+        100,
+        124,
+        251,
+        398,
+        642,
+        643,
+        804,
+        842
+      ],
+      "file": "import_panel-2020-788.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2020&reporterCode=788&cmdCode=1001&flowCode=M&partnerCode=0%2C32%2C36%2C100%2C124%2C251%2C398%2C642%2C643%2C804%2C842&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:11:22.789794+00:00",
+      "completed_utc": "2026-10-30T19:11:23.707323+00:00",
+      "status": 200,
+      "bytes": 8704,
+      "sha256": "a26cf3618f59cd4f75e52ba9ccfe2a59588ae89e08a04b94f290554264442521",
+      "protocol_commit": "4bfd734cbde814916caef36fbb4347b0811cbb4a",
+      "python": "3.10.11",
+      "records": 9,
+      "net_weight_states": {
+        "positive": 9
+      },
+      "inherited_original": false
+    },
+    {
+      "kind": "import_panel",
+      "year": 2020,
+      "reporter": 818,
+      "flow": "M",
+      "partners": [
+        0,
+        32,
+        36,
+        100,
+        124,
+        251,
+        398,
+        642,
+        643,
+        804,
+        842
+      ],
+      "file": "import_panel-2020-818.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2020&reporterCode=818&cmdCode=1001&flowCode=M&partnerCode=0%2C32%2C36%2C100%2C124%2C251%2C398%2C642%2C643%2C804%2C842&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:11:33.709051+00:00",
+      "completed_utc": "2026-10-30T19:11:35.187408+00:00",
+      "status": 200,
+      "bytes": 8672,
+      "sha256": "aa23d35576ba53db1bb1c83b5b7a05031cc62e6ac9de89407c5e3fea9a1a652c",
+      "protocol_commit": "4bfd734cbde814916caef36fbb4347b0811cbb4a",
+      "python": "3.10.11",
+      "records": 9,
+      "net_weight_states": {
+        "zero_unavailable": 1,
+        "positive": 8
+      },
+      "inherited_original": false
+    },
+    {
+      "kind": "prior_world_exports",
+      "year": 2018,
+      "reporter": 32,
+      "flow": "X",
+      "partners": [
+        0
+      ],
+      "file": "prior_world_exports-2018-32.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2018&reporterCode=32&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:02:17.122813+00:00",
+      "completed_utc": "2026-10-30T19:02:17.881068+00:00",
+      "status": 200,
+      "bytes": 1026,
+      "sha256": "891a9fa3cf7be0d2dc64a7af74c817087247a9cd64f735eb847d24d63e23395b",
+      "protocol_commit": "826c1202a9abdf20353b62ae6f64ef0a3eb42c0d",
+      "python": "3.10.11",
+      "records": 1,
+      "net_weight_states": {
+        "positive": 1
+      },
+      "inherited_original": true
+    },
+    {
+      "kind": "prior_world_exports",
+      "year": 2018,
+      "reporter": 36,
+      "flow": "X",
+      "partners": [
+        0
+      ],
+      "file": "prior_world_exports-2018-36.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2018&reporterCode=36&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:02:27.882058+00:00",
+      "completed_utc": "2026-10-30T19:02:28.638723+00:00",
+      "status": 200,
+      "bytes": 1042,
+      "sha256": "e77e297f84b8849ee47b64eda0ccf3bf97a9839a21b626f54ee0def522673784",
+      "protocol_commit": "826c1202a9abdf20353b62ae6f64ef0a3eb42c0d",
+      "python": "3.10.11",
+      "records": 1,
+      "net_weight_states": {
+        "positive": 1
+      },
+      "inherited_original": true
+    },
+    {
+      "kind": "prior_world_exports",
+      "year": 2018,
+      "reporter": 100,
+      "flow": "X",
+      "partners": [
+        0
+      ],
+      "file": "prior_world_exports-2018-100.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2018&reporterCode=100&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:02:38.639022+00:00",
+      "completed_utc": "2026-10-30T19:02:39.467643+00:00",
+      "status": 200,
+      "bytes": 1023,
+      "sha256": "05e9f86d2a57a69faa43d5f6a5ac3efbdbd20c2ad917ebc550d57f74b85f0a87",
+      "protocol_commit": "826c1202a9abdf20353b62ae6f64ef0a3eb42c0d",
+      "python": "3.10.11",
+      "records": 1,
+      "net_weight_states": {
+        "positive": 1
+      },
+      "inherited_original": true
+    },
+    {
+      "kind": "prior_world_exports",
+      "year": 2018,
+      "reporter": 124,
+      "flow": "X",
+      "partners": [
+        0
+      ],
+      "file": "prior_world_exports-2018-124.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2018&reporterCode=124&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:02:49.468559+00:00",
+      "completed_utc": "2026-10-30T19:02:50.158929+00:00",
+      "status": 200,
+      "bytes": 1019,
+      "sha256": "440b8211fc05104b6d1ba4443552511187fa3b32da0c58edb8d6b11b796d8b71",
+      "protocol_commit": "826c1202a9abdf20353b62ae6f64ef0a3eb42c0d",
+      "python": "3.10.11",
+      "records": 1,
+      "net_weight_states": {
+        "positive": 1
+      },
+      "inherited_original": true
+    },
+    {
+      "kind": "prior_world_exports",
+      "year": 2018,
+      "reporter": 251,
+      "flow": "X",
+      "partners": [
+        0
+      ],
+      "file": "prior_world_exports-2018-251.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2018&reporterCode=251&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:11:45.188582+00:00",
+      "completed_utc": "2026-10-30T19:11:45.954543+00:00",
+      "status": 200,
+      "bytes": 1021,
+      "sha256": "ea1b67aba0dca88479ff8a10bc21d2293623e0313b7bd5ed351ca2d1b2cca6b6",
+      "protocol_commit": "4bfd734cbde814916caef36fbb4347b0811cbb4a",
+      "python": "3.10.11",
+      "records": 1,
+      "net_weight_states": {
+        "positive": 1
+      },
+      "inherited_original": false
+    },
+    {
+      "kind": "prior_world_exports",
+      "year": 2018,
+      "reporter": 398,
+      "flow": "X",
+      "partners": [
+        0
+      ],
+      "file": "prior_world_exports-2018-398.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2018&reporterCode=398&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:03:11.037443+00:00",
+      "completed_utc": "2026-10-30T19:03:11.796825+00:00",
+      "status": 200,
+      "bytes": 1023,
+      "sha256": "08c9e7c4fcab099170c49c77f42b9fef05ecb61aac162dc1c62df212a66978ef",
+      "protocol_commit": "826c1202a9abdf20353b62ae6f64ef0a3eb42c0d",
+      "python": "3.10.11",
+      "records": 1,
+      "net_weight_states": {
+        "positive": 1
+      },
+      "inherited_original": true
+    },
+    {
+      "kind": "prior_world_exports",
+      "year": 2018,
+      "reporter": 642,
+      "flow": "X",
+      "partners": [
+        0
+      ],
+      "file": "prior_world_exports-2018-642.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2018&reporterCode=642&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:03:21.798743+00:00",
+      "completed_utc": "2026-10-30T19:03:22.468388+00:00",
+      "status": 200,
+      "bytes": 1021,
+      "sha256": "f487c6a12d1786bd2d17f827d3a77321f306f8683da4d0d1cf5e3428ab229edf",
+      "protocol_commit": "826c1202a9abdf20353b62ae6f64ef0a3eb42c0d",
+      "python": "3.10.11",
+      "records": 1,
+      "net_weight_states": {
+        "positive": 1
+      },
+      "inherited_original": true
+    },
+    {
+      "kind": "prior_world_exports",
+      "year": 2018,
+      "reporter": 643,
+      "flow": "X",
+      "partners": [
+        0
+      ],
+      "file": "prior_world_exports-2018-643.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2018&reporterCode=643&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:03:32.469229+00:00",
+      "completed_utc": "2026-10-30T19:03:34.843075+00:00",
+      "status": 200,
+      "bytes": 1038,
+      "sha256": "13f54f08eafc66b5531467dd5a56e9808c8f2382b72c1e3d48273b99e88f1162",
+      "protocol_commit": "826c1202a9abdf20353b62ae6f64ef0a3eb42c0d",
+      "python": "3.10.11",
+      "records": 1,
+      "net_weight_states": {
+        "positive": 1
+      },
+      "inherited_original": true
+    },
+    {
+      "kind": "prior_world_exports",
+      "year": 2018,
+      "reporter": 804,
+      "flow": "X",
+      "partners": [
+        0
+      ],
+      "file": "prior_world_exports-2018-804.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2018&reporterCode=804&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:03:44.844955+00:00",
+      "completed_utc": "2026-10-30T19:03:45.594263+00:00",
+      "status": 200,
+      "bytes": 1027,
+      "sha256": "216687cc1f4bd93609ca6b5372936eda27324e43df20ddeb2199d485dcf81a42",
+      "protocol_commit": "826c1202a9abdf20353b62ae6f64ef0a3eb42c0d",
+      "python": "3.10.11",
+      "records": 1,
+      "net_weight_states": {
+        "positive": 1
+      },
+      "inherited_original": true
+    },
+    {
+      "kind": "prior_world_exports",
+      "year": 2018,
+      "reporter": 842,
+      "flow": "X",
+      "partners": [
+        0
+      ],
+      "file": "prior_world_exports-2018-842.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2018&reporterCode=842&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:03:55.596403+00:00",
+      "completed_utc": "2026-10-30T19:03:56.416346+00:00",
+      "status": 200,
+      "bytes": 1009,
+      "sha256": "5270362820618d6c7b84812ffe3de7dbd652f78c268c570a5e8c2245f1a98f44",
+      "protocol_commit": "826c1202a9abdf20353b62ae6f64ef0a3eb42c0d",
+      "python": "3.10.11",
+      "records": 1,
+      "net_weight_states": {
+        "positive": 1
+      },
+      "inherited_original": true
+    },
+    {
+      "kind": "prior_world_exports",
+      "year": 2019,
+      "reporter": 32,
+      "flow": "X",
+      "partners": [
+        0
+      ],
+      "file": "prior_world_exports-2019-32.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=32&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:04:06.417109+00:00",
+      "completed_utc": "2026-10-30T19:04:07.851650+00:00",
+      "status": 200,
+      "bytes": 1026,
+      "sha256": "f38e8de224f7ae1f41b2e4998cfa347234590c9006ada3b0dfb6af16c8bd0528",
+      "protocol_commit": "826c1202a9abdf20353b62ae6f64ef0a3eb42c0d",
+      "python": "3.10.11",
+      "records": 1,
+      "net_weight_states": {
+        "positive": 1
+      },
+      "inherited_original": true
+    },
+    {
+      "kind": "prior_world_exports",
+      "year": 2019,
+      "reporter": 36,
+      "flow": "X",
+      "partners": [
+        0
+      ],
+      "file": "prior_world_exports-2019-36.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=36&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:04:17.853598+00:00",
+      "completed_utc": "2026-10-30T19:04:18.773585+00:00",
+      "status": 200,
+      "bytes": 1038,
+      "sha256": "80b5e7556b2df7a588d3b9163f4fd4cf26e2bb7bc64f010b5fa958c51c1434b1",
+      "protocol_commit": "826c1202a9abdf20353b62ae6f64ef0a3eb42c0d",
+      "python": "3.10.11",
+      "records": 1,
+      "net_weight_states": {
+        "positive": 1
+      },
+      "inherited_original": true
+    },
+    {
+      "kind": "prior_world_exports",
+      "year": 2019,
+      "reporter": 100,
+      "flow": "X",
+      "partners": [
+        0
+      ],
+      "file": "prior_world_exports-2019-100.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=100&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:04:28.774842+00:00",
+      "completed_utc": "2026-10-30T19:04:29.697349+00:00",
+      "status": 200,
+      "bytes": 1023,
+      "sha256": "d412764ae47dc80615d1968bb2f3a2321b05eff6624888e65d5fc32383127f14",
+      "protocol_commit": "826c1202a9abdf20353b62ae6f64ef0a3eb42c0d",
+      "python": "3.10.11",
+      "records": 1,
+      "net_weight_states": {
+        "positive": 1
+      },
+      "inherited_original": true
+    },
+    {
+      "kind": "prior_world_exports",
+      "year": 2019,
+      "reporter": 124,
+      "flow": "X",
+      "partners": [
+        0
+      ],
+      "file": "prior_world_exports-2019-124.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=124&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:04:39.698302+00:00",
+      "completed_utc": "2026-10-30T19:04:43.269417+00:00",
+      "status": 200,
+      "bytes": 1027,
+      "sha256": "8e412ff07e7d56488e8fca4c238c7b9d58fae3b261d757d3832583f98656e9e5",
+      "protocol_commit": "826c1202a9abdf20353b62ae6f64ef0a3eb42c0d",
+      "python": "3.10.11",
+      "records": 1,
+      "net_weight_states": {
+        "positive": 1
+      },
+      "inherited_original": true
+    },
+    {
+      "kind": "prior_world_exports",
+      "year": 2019,
+      "reporter": 251,
+      "flow": "X",
+      "partners": [
+        0
+      ],
+      "file": "prior_world_exports-2019-251.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=251&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:11:55.955800+00:00",
+      "completed_utc": "2026-10-30T19:11:56.612909+00:00",
+      "status": 200,
+      "bytes": 1020,
+      "sha256": "c9fbe36eee63f5917783285fb9f14bb40997a9906722a8c662a62a5990b3b00a",
+      "protocol_commit": "4bfd734cbde814916caef36fbb4347b0811cbb4a",
+      "python": "3.10.11",
+      "records": 1,
+      "net_weight_states": {
+        "positive": 1
+      },
+      "inherited_original": false
+    },
+    {
+      "kind": "prior_world_exports",
+      "year": 2019,
+      "reporter": 398,
+      "flow": "X",
+      "partners": [
+        0
+      ],
+      "file": "prior_world_exports-2019-398.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=398&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:05:03.903067+00:00",
+      "completed_utc": "2026-10-30T19:05:05.132216+00:00",
+      "status": 200,
+      "bytes": 1025,
+      "sha256": "d4f0d1c2119bb8a0e93d3e92df310fc772a5e8f2bf2c6990a64685900f25b714",
+      "protocol_commit": "826c1202a9abdf20353b62ae6f64ef0a3eb42c0d",
+      "python": "3.10.11",
+      "records": 1,
+      "net_weight_states": {
+        "positive": 1
+      },
+      "inherited_original": true
+    },
+    {
+      "kind": "prior_world_exports",
+      "year": 2019,
+      "reporter": 642,
+      "flow": "X",
+      "partners": [
+        0
+      ],
+      "file": "prior_world_exports-2019-642.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=642&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:05:15.132937+00:00",
+      "completed_utc": "2026-10-30T19:05:17.589166+00:00",
+      "status": 200,
+      "bytes": 1016,
+      "sha256": "5f9fc31de11c4201161532593d2d9ff32202e02253922b79a0cc9a32ba291b58",
+      "protocol_commit": "826c1202a9abdf20353b62ae6f64ef0a3eb42c0d",
+      "python": "3.10.11",
+      "records": 1,
+      "net_weight_states": {
+        "positive": 1
+      },
+      "inherited_original": true
+    },
+    {
+      "kind": "prior_world_exports",
+      "year": 2019,
+      "reporter": 643,
+      "flow": "X",
+      "partners": [
+        0
+      ],
+      "file": "prior_world_exports-2019-643.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=643&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:05:27.575748+00:00",
+      "completed_utc": "2026-10-30T19:05:28.285813+00:00",
+      "status": 200,
+      "bytes": 1036,
+      "sha256": "3c1e93066c6734fd4099dfabb9f2f2085b043ae8f35b6fdab4288ce79e0f146e",
+      "protocol_commit": "826c1202a9abdf20353b62ae6f64ef0a3eb42c0d",
+      "python": "3.10.11",
+      "records": 1,
+      "net_weight_states": {
+        "positive": 1
+      },
+      "inherited_original": true
+    },
+    {
+      "kind": "prior_world_exports",
+      "year": 2019,
+      "reporter": 804,
+      "flow": "X",
+      "partners": [
+        0
+      ],
+      "file": "prior_world_exports-2019-804.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=804&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:05:38.287458+00:00",
+      "completed_utc": "2026-10-30T19:05:39.649557+00:00",
+      "status": 200,
+      "bytes": 1024,
+      "sha256": "b023a157e7dc4ee2e99a9172005d99fccc99311449ccf1355ed40eff3395a42b",
+      "protocol_commit": "826c1202a9abdf20353b62ae6f64ef0a3eb42c0d",
+      "python": "3.10.11",
+      "records": 1,
+      "net_weight_states": {
+        "positive": 1
+      },
+      "inherited_original": true
+    },
+    {
+      "kind": "prior_world_exports",
+      "year": 2019,
+      "reporter": 842,
+      "flow": "X",
+      "partners": [
+        0
+      ],
+      "file": "prior_world_exports-2019-842.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=842&cmdCode=1001&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:05:49.650471+00:00",
+      "completed_utc": "2026-10-30T19:05:50.483221+00:00",
+      "status": 200,
+      "bytes": 1010,
+      "sha256": "91ac9296b5de0f54d6c6c03a1b06c0d11e1af752494c6d7e7ea8c89bce9c57e6",
+      "protocol_commit": "826c1202a9abdf20353b62ae6f64ef0a3eb42c0d",
+      "python": "3.10.11",
+      "records": 1,
+      "net_weight_states": {
+        "positive": 1
+      },
+      "inherited_original": true
+    },
+    {
+      "kind": "current_mirrors",
+      "year": 2019,
+      "reporter": 32,
+      "flow": "X",
+      "partners": [
+        504,
+        788,
+        818
+      ],
+      "file": "current_mirrors-2019-32.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=32&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:06:00.484860+00:00",
+      "completed_utc": "2026-10-30T19:06:02.736479+00:00",
+      "status": 200,
+      "bytes": 1014,
+      "sha256": "056ad37473e4c18ea1742e1ba5be554cad157767a0d4cfae7bff8fe55437ed96",
+      "protocol_commit": "826c1202a9abdf20353b62ae6f64ef0a3eb42c0d",
+      "python": "3.10.11",
+      "records": 1,
+      "net_weight_states": {
+        "positive": 1
+      },
+      "inherited_original": true
+    },
+    {
+      "kind": "current_mirrors",
+      "year": 2019,
+      "reporter": 36,
+      "flow": "X",
+      "partners": [
+        504,
+        788,
+        818
+      ],
+      "file": "current_mirrors-2019-36.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=36&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:06:12.736640+00:00",
+      "completed_utc": "2026-10-30T19:06:14.687238+00:00",
+      "status": 200,
+      "bytes": 1027,
+      "sha256": "d3eca082582dcd9ad444cf7e6645b6f62047e882949b1ce2c4254fe0da1aa915",
+      "protocol_commit": "826c1202a9abdf20353b62ae6f64ef0a3eb42c0d",
+      "python": "3.10.11",
+      "records": 1,
+      "net_weight_states": {
+        "positive": 1
+      },
+      "inherited_original": true
+    },
+    {
+      "kind": "current_mirrors",
+      "year": 2019,
+      "reporter": 100,
+      "flow": "X",
+      "partners": [
+        504,
+        788,
+        818
+      ],
+      "file": "current_mirrors-2019-100.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=100&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:06:24.687542+00:00",
+      "completed_utc": "2026-10-30T19:06:25.886186+00:00",
+      "status": 200,
+      "bytes": 2933,
+      "sha256": "c2ceeab78dd4731ba24af632d514ca200036feec38870d2488fcbd59c31fb95d",
+      "protocol_commit": "826c1202a9abdf20353b62ae6f64ef0a3eb42c0d",
+      "python": "3.10.11",
+      "records": 3,
+      "net_weight_states": {
+        "positive": 3
+      },
+      "inherited_original": true
+    },
+    {
+      "kind": "current_mirrors",
+      "year": 2019,
+      "reporter": 124,
+      "flow": "X",
+      "partners": [
+        504,
+        788,
+        818
+      ],
+      "file": "current_mirrors-2019-124.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=124&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:06:35.872832+00:00",
+      "completed_utc": "2026-10-30T19:06:36.946648+00:00",
+      "status": 200,
+      "bytes": 2952,
+      "sha256": "fac9d51b273c1dac6f5f415fa738659a27f035d3bd121a147f1e2e1f6b9fc259",
+      "protocol_commit": "826c1202a9abdf20353b62ae6f64ef0a3eb42c0d",
+      "python": "3.10.11",
+      "records": 3,
+      "net_weight_states": {
+        "positive": 3
+      },
+      "inherited_original": true
+    },
+    {
+      "kind": "current_mirrors",
+      "year": 2019,
+      "reporter": 251,
+      "flow": "X",
+      "partners": [
+        504,
+        788,
+        818
+      ],
+      "file": "current_mirrors-2019-251.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=251&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:12:06.614982+00:00",
+      "completed_utc": "2026-10-30T19:12:07.472714+00:00",
+      "status": 200,
+      "bytes": 2951,
+      "sha256": "34118f2ba6d8e23f12ee00503fab6632f1a1f6c1311bcd425ac188f3c58ea584",
+      "protocol_commit": "4bfd734cbde814916caef36fbb4347b0811cbb4a",
+      "python": "3.10.11",
+      "records": 3,
+      "net_weight_states": {
+        "positive": 3
+      },
+      "inherited_original": false
+    },
+    {
+      "kind": "current_mirrors",
+      "year": 2019,
+      "reporter": 398,
+      "flow": "X",
+      "partners": [
+        504,
+        788,
+        818
+      ],
+      "file": "current_mirrors-2019-398.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=398&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:06:57.481589+00:00",
+      "completed_utc": "2026-10-30T19:06:58.503122+00:00",
+      "status": 200,
+      "bytes": 1017,
+      "sha256": "65f2b2715f539be14c74f074b53fc0dec39a11fb38d9265b3fb9a0dacc31f417",
+      "protocol_commit": "826c1202a9abdf20353b62ae6f64ef0a3eb42c0d",
+      "python": "3.10.11",
+      "records": 1,
+      "net_weight_states": {
+        "positive": 1
+      },
+      "inherited_original": true
+    },
+    {
+      "kind": "current_mirrors",
+      "year": 2019,
+      "reporter": 642,
+      "flow": "X",
+      "partners": [
+        504,
+        788,
+        818
+      ],
+      "file": "current_mirrors-2019-642.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=642&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:07:08.504984+00:00",
+      "completed_utc": "2026-10-30T19:07:09.995980+00:00",
+      "status": 200,
+      "bytes": 1021,
+      "sha256": "16ffc395504c9f19c07ed5cfec1371c866d895a1808d1d7e740f6c47675a1bae",
+      "protocol_commit": "826c1202a9abdf20353b62ae6f64ef0a3eb42c0d",
+      "python": "3.10.11",
+      "records": 1,
+      "net_weight_states": {
+        "positive": 1
+      },
+      "inherited_original": true
+    },
+    {
+      "kind": "current_mirrors",
+      "year": 2019,
+      "reporter": 643,
+      "flow": "X",
+      "partners": [
+        504,
+        788,
+        818
+      ],
+      "file": "current_mirrors-2019-643.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=643&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:07:19.997612+00:00",
+      "completed_utc": "2026-10-30T19:07:22.897268+00:00",
+      "status": 200,
+      "bytes": 2976,
+      "sha256": "8947881fa59bd9fe7d5477849481027baf60ef98283968d6dcf866a10b668c29",
+      "protocol_commit": "826c1202a9abdf20353b62ae6f64ef0a3eb42c0d",
+      "python": "3.10.11",
+      "records": 3,
+      "net_weight_states": {
+        "positive": 3
+      },
+      "inherited_original": true
+    },
+    {
+      "kind": "current_mirrors",
+      "year": 2019,
+      "reporter": 804,
+      "flow": "X",
+      "partners": [
+        504,
+        788,
+        818
+      ],
+      "file": "current_mirrors-2019-804.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=804&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:07:32.898557+00:00",
+      "completed_utc": "2026-10-30T19:07:33.799790+00:00",
+      "status": 200,
+      "bytes": 2950,
+      "sha256": "cee7a592ea15622d53c7f4e1bce53455a5341d3bdecfdeede5dac4a2d4411c15",
+      "protocol_commit": "826c1202a9abdf20353b62ae6f64ef0a3eb42c0d",
+      "python": "3.10.11",
+      "records": 3,
+      "net_weight_states": {
+        "positive": 3
+      },
+      "inherited_original": true
+    },
+    {
+      "kind": "current_mirrors",
+      "year": 2019,
+      "reporter": 842,
+      "flow": "X",
+      "partners": [
+        504,
+        788,
+        818
+      ],
+      "file": "current_mirrors-2019-842.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=842&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:07:43.801246+00:00",
+      "completed_utc": "2026-10-30T19:07:44.650049+00:00",
+      "status": 200,
+      "bytes": 2896,
+      "sha256": "ea59eab96475c9cc01a1b484d8f2933a54c6dd95699ea5dac4065ce24f8a86f9",
+      "protocol_commit": "826c1202a9abdf20353b62ae6f64ef0a3eb42c0d",
+      "python": "3.10.11",
+      "records": 3,
+      "net_weight_states": {
+        "positive": 3
+      },
+      "inherited_original": true
+    },
+    {
+      "kind": "current_mirrors",
+      "year": 2020,
+      "reporter": 32,
+      "flow": "X",
+      "partners": [
+        504,
+        788,
+        818
+      ],
+      "file": "current_mirrors-2020-32.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2020&reporterCode=32&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:07:54.651997+00:00",
+      "completed_utc": "2026-10-30T19:07:55.736964+00:00",
+      "status": 200,
+      "bytes": 58,
+      "sha256": "4a5e638b0ee822382130b4a9684ca9529d854576b80395a0427ba188dfeadcc9",
+      "protocol_commit": "826c1202a9abdf20353b62ae6f64ef0a3eb42c0d",
+      "python": "3.10.11",
+      "records": 0,
+      "net_weight_states": {},
+      "inherited_original": true
+    },
+    {
+      "kind": "current_mirrors",
+      "year": 2020,
+      "reporter": 36,
+      "flow": "X",
+      "partners": [
+        504,
+        788,
+        818
+      ],
+      "file": "current_mirrors-2020-36.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2020&reporterCode=36&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:08:05.737253+00:00",
+      "completed_utc": "2026-10-30T19:08:06.838855+00:00",
+      "status": 200,
+      "bytes": 1027,
+      "sha256": "866b2f044c944e112600955694ab39d1e70c3647a158c7a46d54d5677edba1ae",
+      "protocol_commit": "826c1202a9abdf20353b62ae6f64ef0a3eb42c0d",
+      "python": "3.10.11",
+      "records": 1,
+      "net_weight_states": {
+        "positive": 1
+      },
+      "inherited_original": true
+    },
+    {
+      "kind": "current_mirrors",
+      "year": 2020,
+      "reporter": 100,
+      "flow": "X",
+      "partners": [
+        504,
+        788,
+        818
+      ],
+      "file": "current_mirrors-2020-100.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2020&reporterCode=100&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:08:16.840171+00:00",
+      "completed_utc": "2026-10-30T19:08:18.102953+00:00",
+      "status": 200,
+      "bytes": 1977,
+      "sha256": "ca97d002dba2ccef9aa63c6a81dad886ebce6df2d4b85fb6cb4613f0bc6b7e1c",
+      "protocol_commit": "826c1202a9abdf20353b62ae6f64ef0a3eb42c0d",
+      "python": "3.10.11",
+      "records": 2,
+      "net_weight_states": {
+        "positive": 2
+      },
+      "inherited_original": true
+    },
+    {
+      "kind": "current_mirrors",
+      "year": 2020,
+      "reporter": 124,
+      "flow": "X",
+      "partners": [
+        504,
+        788,
+        818
+      ],
+      "file": "current_mirrors-2020-124.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2020&reporterCode=124&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:08:28.104223+00:00",
+      "completed_utc": "2026-10-30T19:08:28.889381+00:00",
+      "status": 200,
+      "bytes": 2951,
+      "sha256": "494bd9cf96051a14ba104cfee412f20b762874966f5a03b97f58dcbe86f8892d",
+      "protocol_commit": "826c1202a9abdf20353b62ae6f64ef0a3eb42c0d",
+      "python": "3.10.11",
+      "records": 3,
+      "net_weight_states": {
+        "positive": 3
+      },
+      "inherited_original": true
+    },
+    {
+      "kind": "current_mirrors",
+      "year": 2020,
+      "reporter": 251,
+      "flow": "X",
+      "partners": [
+        504,
+        788,
+        818
+      ],
+      "file": "current_mirrors-2020-251.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2020&reporterCode=251&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:12:17.474315+00:00",
+      "completed_utc": "2026-10-30T19:12:18.232032+00:00",
+      "status": 200,
+      "bytes": 2948,
+      "sha256": "c64f7816737b27ddf38588e7b60b5af5e28510837e801e02e05a53ce56a16ab2",
+      "protocol_commit": "4bfd734cbde814916caef36fbb4347b0811cbb4a",
+      "python": "3.10.11",
+      "records": 3,
+      "net_weight_states": {
+        "positive": 3
+      },
+      "inherited_original": false
+    },
+    {
+      "kind": "current_mirrors",
+      "year": 2020,
+      "reporter": 398,
+      "flow": "X",
+      "partners": [
+        504,
+        788,
+        818
+      ],
+      "file": "current_mirrors-2020-398.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2020&reporterCode=398&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:08:49.433103+00:00",
+      "completed_utc": "2026-10-30T19:08:50.769478+00:00",
+      "status": 200,
+      "bytes": 1010,
+      "sha256": "d8eb2644289742034e1c36174817a4a081ba4ba816ba7a6aa3cefabb408ca9d0",
+      "protocol_commit": "826c1202a9abdf20353b62ae6f64ef0a3eb42c0d",
+      "python": "3.10.11",
+      "records": 1,
+      "net_weight_states": {
+        "positive": 1
+      },
+      "inherited_original": true
+    },
+    {
+      "kind": "current_mirrors",
+      "year": 2020,
+      "reporter": 642,
+      "flow": "X",
+      "partners": [
+        504,
+        788,
+        818
+      ],
+      "file": "current_mirrors-2020-642.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2020&reporterCode=642&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:09:00.771179+00:00",
+      "completed_utc": "2026-10-30T19:09:01.895685+00:00",
+      "status": 200,
+      "bytes": 2933,
+      "sha256": "f58a0c3a5db3115a57c7598d52dc8f517ac0d443d81d43d0cad6720ce2992cd5",
+      "protocol_commit": "826c1202a9abdf20353b62ae6f64ef0a3eb42c0d",
+      "python": "3.10.11",
+      "records": 3,
+      "net_weight_states": {
+        "positive": 3
+      },
+      "inherited_original": true
+    },
+    {
+      "kind": "current_mirrors",
+      "year": 2020,
+      "reporter": 643,
+      "flow": "X",
+      "partners": [
+        504,
+        788,
+        818
+      ],
+      "file": "current_mirrors-2020-643.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2020&reporterCode=643&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:09:11.897049+00:00",
+      "completed_utc": "2026-10-30T19:09:13.307001+00:00",
+      "status": 200,
+      "bytes": 2978,
+      "sha256": "eb7e2ade4e68009244461c9c1194580c0ff946a4c0aafa25ab91ce4d43808834",
+      "protocol_commit": "826c1202a9abdf20353b62ae6f64ef0a3eb42c0d",
+      "python": "3.10.11",
+      "records": 3,
+      "net_weight_states": {
+        "positive": 3
+      },
+      "inherited_original": true
+    },
+    {
+      "kind": "current_mirrors",
+      "year": 2020,
+      "reporter": 804,
+      "flow": "X",
+      "partners": [
+        504,
+        788,
+        818
+      ],
+      "file": "current_mirrors-2020-804.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2020&reporterCode=804&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:09:23.309181+00:00",
+      "completed_utc": "2026-10-30T19:09:24.138801+00:00",
+      "status": 200,
+      "bytes": 2947,
+      "sha256": "5fadffa7bd42e4f79c8b6e2bbee4c395bb0b14f0dd11de6904f6a1506d839942",
+      "protocol_commit": "826c1202a9abdf20353b62ae6f64ef0a3eb42c0d",
+      "python": "3.10.11",
+      "records": 3,
+      "net_weight_states": {
+        "positive": 3
+      },
+      "inherited_original": true
+    },
+    {
+      "kind": "current_mirrors",
+      "year": 2020,
+      "reporter": 842,
+      "flow": "X",
+      "partners": [
+        504,
+        788,
+        818
+      ],
+      "file": "current_mirrors-2020-842.json",
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2020&reporterCode=842&cmdCode=1001&flowCode=X&partnerCode=504%2C788%2C818&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500&includeDesc=true&format=JSON",
+      "started_utc": "2026-10-30T19:09:34.139432+00:00",
+      "completed_utc": "2026-10-30T19:09:35.404056+00:00",
+      "status": 200,
+      "bytes": 2906,
+      "sha256": "34d90d278dd2522161a9ed4cea1c6c497d269e4ffa1dfaf4a1c5c07055d327d4",
+      "protocol_commit": "826c1202a9abdf20353b62ae6f64ef0a3eb42c0d",
+      "python": "3.10.11",
+      "records": 3,
+      "net_weight_states": {
+        "positive": 3
+      },
+      "inherited_original": true
+    }
+  ],
+  "records": 140,
+  "record_bound": 10000,
+  "source_unit": "netWgt kg; zero/null/unreported weight unavailable",
+  "net_weight_states": {
+    "positive": 127,
+    "zero_unavailable": 4,
+    "json_null": 9
+  },
+  "projection_sha256": "d020011f140894728886f0512b44f6973eed3ed82c781dd7033ba1bb3906b649",
+  "scope": "Minimal attributed factual projection under the bounded-record rule; raw responses and unrelated fields excluded; new capacities/scenarios are authored separately"
+}

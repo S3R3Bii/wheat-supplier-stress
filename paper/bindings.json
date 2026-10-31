@@ -1,0 +1,1316 @@
+[
+  {
+    "name": "BoundA",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups"
+    ],
+    "query": null,
+    "operation": "unresolved_full",
+    "display": "41"
+  },
+  {
+    "name": "BoundB",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups"
+    ],
+    "query": null,
+    "operation": "positive_full",
+    "display": "456"
+  },
+  {
+    "name": "BoundC",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups"
+    ],
+    "query": null,
+    "operation": "known_overclaims",
+    "display": "4"
+  },
+  {
+    "name": "BoundD",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups"
+    ],
+    "query": null,
+    "operation": "max_known_overclaim",
+    "display": "454,708.41"
+  },
+  {
+    "name": "BoundE",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "base_cases"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "480"
+  },
+  {
+    "name": "BoundF",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "endpoint_evaluations"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "1,440"
+  },
+  {
+    "name": "BoundG",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "cut_subsets"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "11,520"
+  },
+  {
+    "name": "BoundH",
+    "file": "data/bounds_support.csv",
+    "path": [
+      "coverage"
+    ],
+    "query": {
+      "year": "2020",
+      "importer": "143"
+    },
+    "operation": "percent6",
+    "display": "79.478498"
+  },
+  {
+    "name": "BoundI",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "source_positions"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "179"
+  },
+  {
+    "name": "BoundJ",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "positive_source_positions"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "140"
+  },
+  {
+    "name": "BoundK",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "missing_source_positions"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "39"
+  },
+  {
+    "name": "BoundL",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "positive_imputed_positions"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "17"
+  },
+  {
+    "name": "BoundM",
+    "file": "data/bounds_support.csv",
+    "path": [
+      "world_kg"
+    ],
+    "query": {
+      "year": "2019",
+      "importer": "59"
+    },
+    "operation": "tonnes2",
+    "display": "10,424,423.36"
+  },
+  {
+    "name": "BoundN",
+    "file": "data/bounds_support.csv",
+    "path": [
+      "common_import_kg"
+    ],
+    "query": {
+      "year": "2019",
+      "importer": "59"
+    },
+    "operation": "tonnes2",
+    "display": "10,238,325.51"
+  },
+  {
+    "name": "BoundO",
+    "file": "data/bounds_support.csv",
+    "path": [
+      "residual_kg"
+    ],
+    "query": {
+      "year": "2019",
+      "importer": "59"
+    },
+    "operation": "tonnes2",
+    "display": "186,097.85"
+  },
+  {
+    "name": "BoundP",
+    "file": "data/bounds_support.csv",
+    "path": [
+      "coverage"
+    ],
+    "query": {
+      "year": "2019",
+      "importer": "59"
+    },
+    "operation": "percent6",
+    "display": "98.214790"
+  },
+  {
+    "name": "BoundQ",
+    "file": "data/bounds_support.csv",
+    "path": [
+      "world_kg"
+    ],
+    "query": {
+      "year": "2019",
+      "importer": "143"
+    },
+    "operation": "tonnes2",
+    "display": "3,844,805.77"
+  },
+  {
+    "name": "BoundR",
+    "file": "data/bounds_support.csv",
+    "path": [
+      "common_import_kg"
+    ],
+    "query": {
+      "year": "2019",
+      "importer": "143"
+    },
+    "operation": "tonnes2",
+    "display": "3,707,262.33"
+  },
+  {
+    "name": "BoundS",
+    "file": "data/bounds_support.csv",
+    "path": [
+      "residual_kg"
+    ],
+    "query": {
+      "year": "2019",
+      "importer": "143"
+    },
+    "operation": "tonnes2",
+    "display": "137,543.44"
+  },
+  {
+    "name": "BoundT",
+    "file": "data/bounds_support.csv",
+    "path": [
+      "coverage"
+    ],
+    "query": {
+      "year": "2019",
+      "importer": "143"
+    },
+    "operation": "percent6",
+    "display": "96.422617"
+  },
+  {
+    "name": "BoundU",
+    "file": "data/bounds_support.csv",
+    "path": [
+      "world_kg"
+    ],
+    "query": {
+      "year": "2019",
+      "importer": "222"
+    },
+    "operation": "tonnes2",
+    "display": "1,848,993.46"
+  },
+  {
+    "name": "BoundV",
+    "file": "data/bounds_support.csv",
+    "path": [
+      "common_import_kg"
+    ],
+    "query": {
+      "year": "2019",
+      "importer": "222"
+    },
+    "operation": "tonnes2",
+    "display": "1,600,096.20"
+  },
+  {
+    "name": "BoundW",
+    "file": "data/bounds_support.csv",
+    "path": [
+      "residual_kg"
+    ],
+    "query": {
+      "year": "2019",
+      "importer": "222"
+    },
+    "operation": "tonnes2",
+    "display": "248,897.26"
+  },
+  {
+    "name": "BoundX",
+    "file": "data/bounds_support.csv",
+    "path": [
+      "coverage"
+    ],
+    "query": {
+      "year": "2019",
+      "importer": "222"
+    },
+    "operation": "percent6",
+    "display": "86.538770"
+  },
+  {
+    "name": "BoundY",
+    "file": "data/bounds_support.csv",
+    "path": [
+      "world_kg"
+    ],
+    "query": {
+      "year": "2020",
+      "importer": "59"
+    },
+    "operation": "tonnes2",
+    "display": "8,969,215.42"
+  },
+  {
+    "name": "BoundZ",
+    "file": "data/bounds_support.csv",
+    "path": [
+      "common_import_kg"
+    ],
+    "query": {
+      "year": "2020",
+      "importer": "59"
+    },
+    "operation": "tonnes2",
+    "display": "8,926,870.08"
+  },
+  {
+    "name": "BoundAA",
+    "file": "data/bounds_support.csv",
+    "path": [
+      "residual_kg"
+    ],
+    "query": {
+      "year": "2020",
+      "importer": "59"
+    },
+    "operation": "tonnes2",
+    "display": "42,345.34"
+  },
+  {
+    "name": "BoundAB",
+    "file": "data/bounds_support.csv",
+    "path": [
+      "coverage"
+    ],
+    "query": {
+      "year": "2020",
+      "importer": "59"
+    },
+    "operation": "percent6",
+    "display": "99.527881"
+  },
+  {
+    "name": "BoundAC",
+    "file": "data/bounds_support.csv",
+    "path": [
+      "world_kg"
+    ],
+    "query": {
+      "year": "2020",
+      "importer": "143"
+    },
+    "operation": "tonnes2",
+    "display": "5,521,529.24"
+  },
+  {
+    "name": "BoundAD",
+    "file": "data/bounds_support.csv",
+    "path": [
+      "common_import_kg"
+    ],
+    "query": {
+      "year": "2020",
+      "importer": "143"
+    },
+    "operation": "tonnes2",
+    "display": "4,388,428.50"
+  },
+  {
+    "name": "BoundAE",
+    "file": "data/bounds_support.csv",
+    "path": [
+      "residual_kg"
+    ],
+    "query": {
+      "year": "2020",
+      "importer": "143"
+    },
+    "operation": "tonnes2",
+    "display": "1,133,100.74"
+  },
+  {
+    "name": "BoundAF",
+    "file": "data/bounds_support.csv",
+    "path": [
+      "coverage"
+    ],
+    "query": {
+      "year": "2020",
+      "importer": "143"
+    },
+    "operation": "percent6",
+    "display": "79.478498"
+  },
+  {
+    "name": "BoundAG",
+    "file": "data/bounds_support.csv",
+    "path": [
+      "world_kg"
+    ],
+    "query": {
+      "year": "2020",
+      "importer": "222"
+    },
+    "operation": "tonnes2",
+    "display": "2,237,133.82"
+  },
+  {
+    "name": "BoundAH",
+    "file": "data/bounds_support.csv",
+    "path": [
+      "common_import_kg"
+    ],
+    "query": {
+      "year": "2020",
+      "importer": "222"
+    },
+    "operation": "tonnes2",
+    "display": "1,924,502.76"
+  },
+  {
+    "name": "BoundAI",
+    "file": "data/bounds_support.csv",
+    "path": [
+      "residual_kg"
+    ],
+    "query": {
+      "year": "2020",
+      "importer": "222"
+    },
+    "operation": "tonnes2",
+    "display": "312,631.06"
+  },
+  {
+    "name": "BoundAJ",
+    "file": "data/bounds_support.csv",
+    "path": [
+      "coverage"
+    ],
+    "query": {
+      "year": "2020",
+      "importer": "222"
+    },
+    "operation": "percent6",
+    "display": "86.025375"
+  },
+  {
+    "name": "BoundAK",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      0,
+      "classifications",
+      "KNOWN_NETWORK_SUFFICIENT"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "72"
+  },
+  {
+    "name": "BoundAL",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      0,
+      "classifications",
+      "CONDITIONAL_SHORTFALL"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "48"
+  },
+  {
+    "name": "BoundAM",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      0,
+      "classifications",
+      "UNRESOLVED_WITHOUT_OUTSIDE_CAPACITY"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "0"
+  },
+  {
+    "name": "BoundAN",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      0,
+      "classifications",
+      "ZERO_MODELED_LOSS"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "0"
+  },
+  {
+    "name": "BoundAO",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      1,
+      "classifications",
+      "KNOWN_NETWORK_SUFFICIENT"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "72"
+  },
+  {
+    "name": "BoundAP",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      1,
+      "classifications",
+      "CONDITIONAL_SHORTFALL"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "36"
+  },
+  {
+    "name": "BoundAQ",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      1,
+      "classifications",
+      "UNRESOLVED_WITHOUT_OUTSIDE_CAPACITY"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "12"
+  },
+  {
+    "name": "BoundAR",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      1,
+      "classifications",
+      "ZERO_MODELED_LOSS"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "0"
+  },
+  {
+    "name": "BoundAS",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      2,
+      "classifications",
+      "KNOWN_NETWORK_SUFFICIENT"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "72"
+  },
+  {
+    "name": "BoundAT",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      2,
+      "classifications",
+      "CONDITIONAL_SHORTFALL"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "36"
+  },
+  {
+    "name": "BoundAU",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      2,
+      "classifications",
+      "UNRESOLVED_WITHOUT_OUTSIDE_CAPACITY"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "12"
+  },
+  {
+    "name": "BoundAV",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      2,
+      "classifications",
+      "ZERO_MODELED_LOSS"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "0"
+  },
+  {
+    "name": "BoundAW",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      3,
+      "classifications",
+      "KNOWN_NETWORK_SUFFICIENT"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "69"
+  },
+  {
+    "name": "BoundAX",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      3,
+      "classifications",
+      "CONDITIONAL_SHORTFALL"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "51"
+  },
+  {
+    "name": "BoundAY",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      3,
+      "classifications",
+      "UNRESOLVED_WITHOUT_OUTSIDE_CAPACITY"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "0"
+  },
+  {
+    "name": "BoundAZ",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      3,
+      "classifications",
+      "ZERO_MODELED_LOSS"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "0"
+  },
+  {
+    "name": "BoundBA",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      4,
+      "classifications",
+      "KNOWN_NETWORK_SUFFICIENT"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "69"
+  },
+  {
+    "name": "BoundBB",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      4,
+      "classifications",
+      "CONDITIONAL_SHORTFALL"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "37"
+  },
+  {
+    "name": "BoundBC",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      4,
+      "classifications",
+      "UNRESOLVED_WITHOUT_OUTSIDE_CAPACITY"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "14"
+  },
+  {
+    "name": "BoundBD",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      4,
+      "classifications",
+      "ZERO_MODELED_LOSS"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "0"
+  },
+  {
+    "name": "BoundBE",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      5,
+      "classifications",
+      "KNOWN_NETWORK_SUFFICIENT"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "69"
+  },
+  {
+    "name": "BoundBF",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      5,
+      "classifications",
+      "CONDITIONAL_SHORTFALL"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "34"
+  },
+  {
+    "name": "BoundBG",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      5,
+      "classifications",
+      "UNRESOLVED_WITHOUT_OUTSIDE_CAPACITY"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "17"
+  },
+  {
+    "name": "BoundBH",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      5,
+      "classifications",
+      "ZERO_MODELED_LOSS"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "0"
+  },
+  {
+    "name": "BoundBI",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      6,
+      "classifications",
+      "KNOWN_NETWORK_SUFFICIENT"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "65"
+  },
+  {
+    "name": "BoundBJ",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      6,
+      "classifications",
+      "CONDITIONAL_SHORTFALL"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "43"
+  },
+  {
+    "name": "BoundBK",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      6,
+      "classifications",
+      "UNRESOLVED_WITHOUT_OUTSIDE_CAPACITY"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "0"
+  },
+  {
+    "name": "BoundBL",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      6,
+      "classifications",
+      "ZERO_MODELED_LOSS"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "12"
+  },
+  {
+    "name": "BoundBM",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      7,
+      "classifications",
+      "KNOWN_NETWORK_SUFFICIENT"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "65"
+  },
+  {
+    "name": "BoundBN",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      7,
+      "classifications",
+      "CONDITIONAL_SHORTFALL"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "40"
+  },
+  {
+    "name": "BoundBO",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      7,
+      "classifications",
+      "UNRESOLVED_WITHOUT_OUTSIDE_CAPACITY"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "3"
+  },
+  {
+    "name": "BoundBP",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      7,
+      "classifications",
+      "ZERO_MODELED_LOSS"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "12"
+  },
+  {
+    "name": "BoundBQ",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      8,
+      "classifications",
+      "KNOWN_NETWORK_SUFFICIENT"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "65"
+  },
+  {
+    "name": "BoundBR",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      8,
+      "classifications",
+      "CONDITIONAL_SHORTFALL"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "37"
+  },
+  {
+    "name": "BoundBS",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      8,
+      "classifications",
+      "UNRESOLVED_WITHOUT_OUTSIDE_CAPACITY"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "6"
+  },
+  {
+    "name": "BoundBT",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      8,
+      "classifications",
+      "ZERO_MODELED_LOSS"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "12"
+  },
+  {
+    "name": "BoundBU",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      9,
+      "classifications",
+      "KNOWN_NETWORK_SUFFICIENT"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "63"
+  },
+  {
+    "name": "BoundBV",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      9,
+      "classifications",
+      "CONDITIONAL_SHORTFALL"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "45"
+  },
+  {
+    "name": "BoundBW",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      9,
+      "classifications",
+      "UNRESOLVED_WITHOUT_OUTSIDE_CAPACITY"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "0"
+  },
+  {
+    "name": "BoundBX",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      9,
+      "classifications",
+      "ZERO_MODELED_LOSS"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "12"
+  },
+  {
+    "name": "BoundBY",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      10,
+      "classifications",
+      "KNOWN_NETWORK_SUFFICIENT"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "63"
+  },
+  {
+    "name": "BoundBZ",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      10,
+      "classifications",
+      "CONDITIONAL_SHORTFALL"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "42"
+  },
+  {
+    "name": "BoundCA",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      10,
+      "classifications",
+      "UNRESOLVED_WITHOUT_OUTSIDE_CAPACITY"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "3"
+  },
+  {
+    "name": "BoundCB",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      10,
+      "classifications",
+      "ZERO_MODELED_LOSS"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "12"
+  },
+  {
+    "name": "BoundCC",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      11,
+      "classifications",
+      "KNOWN_NETWORK_SUFFICIENT"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "63"
+  },
+  {
+    "name": "BoundCD",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      11,
+      "classifications",
+      "CONDITIONAL_SHORTFALL"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "39"
+  },
+  {
+    "name": "BoundCE",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      11,
+      "classifications",
+      "UNRESOLVED_WITHOUT_OUTSIDE_CAPACITY"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "6"
+  },
+  {
+    "name": "BoundCF",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      11,
+      "classifications",
+      "ZERO_MODELED_LOSS"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "12"
+  },
+  {
+    "name": "BoundCG",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups"
+    ],
+    "query": null,
+    "operation": "unresolved_full",
+    "display": "41"
+  },
+  {
+    "name": "BoundCH",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups"
+    ],
+    "query": null,
+    "operation": "positive_full",
+    "display": "456"
+  },
+  {
+    "name": "BoundCI",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "maximum_interval_illustration",
+      "year"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "2020"
+  },
+  {
+    "name": "BoundCJ",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "maximum_interval_illustration",
+      "lost_name"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "Canada"
+  },
+  {
+    "name": "BoundCK",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "maximum_interval_illustration",
+      "alpha"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "0"
+  },
+  {
+    "name": "BoundCL",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "maximum_interval_illustration",
+      "beta"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "0.5"
+  },
+  {
+    "name": "BoundCM",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "maximum_interval_illustration",
+      "demand_kg"
+    ],
+    "query": null,
+    "operation": "tonnes2",
+    "display": "1,488,313.00"
+  },
+  {
+    "name": "BoundCN",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "maximum_interval_illustration",
+      "known_covered_kg"
+    ],
+    "query": null,
+    "operation": "tonnes2",
+    "display": "0.00"
+  },
+  {
+    "name": "BoundCO",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "maximum_interval_illustration",
+      "endpoint_covered_kg"
+    ],
+    "query": null,
+    "operation": "tonnes2",
+    "display": "1,446,978.26"
+  },
+  {
+    "name": "BoundCP",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "maximum_interval_illustration",
+      "lower_unmet_kg"
+    ],
+    "query": null,
+    "operation": "tonnes2",
+    "display": "41,334.74"
+  },
+  {
+    "name": "BoundCQ",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "maximum_interval_illustration",
+      "upper_unmet_kg"
+    ],
+    "query": null,
+    "operation": "tonnes2",
+    "display": "1,488,313.00"
+  },
+  {
+    "name": "BoundCR",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      0,
+      "positive_overclaim_cases"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "0"
+  },
+  {
+    "name": "BoundCS",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      0,
+      "max_overclaim_kg"
+    ],
+    "query": null,
+    "operation": "tonnes2",
+    "display": "0.00"
+  },
+  {
+    "name": "BoundCT",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      3,
+      "positive_overclaim_cases"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "3"
+  },
+  {
+    "name": "BoundCU",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      3,
+      "max_overclaim_kg"
+    ],
+    "query": null,
+    "operation": "tonnes2",
+    "display": "454,708.41"
+  },
+  {
+    "name": "BoundCV",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      6,
+      "positive_overclaim_cases"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "0"
+  },
+  {
+    "name": "BoundCW",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      6,
+      "max_overclaim_kg"
+    ],
+    "query": null,
+    "operation": "tonnes2",
+    "display": "0.00"
+  },
+  {
+    "name": "BoundCX",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      9,
+      "positive_overclaim_cases"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "1"
+  },
+  {
+    "name": "BoundCY",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "groups",
+      9,
+      "max_overclaim_kg"
+    ],
+    "query": null,
+    "operation": "tonnes2",
+    "display": "53,231.15"
+  },
+  {
+    "name": "BoundCZ",
+    "file": "results/bounds/summary.json",
+    "path": [
+      "source_positions"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "179"
+  },
+  {
+    "name": "BoundDA",
+    "file": "results/bounds/INDEPENDENT_2019.json",
+    "path": [
+      "independent_sql_fraction_conditions"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "145,694"
+  },
+  {
+    "name": "BoundDB",
+    "file": "results/bounds/INDEPENDENT_2020.json",
+    "path": [
+      "independent_sql_fraction_conditions"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "145,694"
+  },
+  {
+    "name": "BoundDC",
+    "file": "results/bounds/SUMMARY_EXERCISE_CHECK.json",
+    "path": [
+      "independent_conditions"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "37"
+  }
+]
